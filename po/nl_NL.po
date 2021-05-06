@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "imag_ap_images"
+msgstr "Foto's"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Helderheid en contrast"
+
+msgid "imag_bd_clear"
+msgstr "Wissen"
+
+msgid "imag_bd_continue"
+msgstr "Doorgaan"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Bijsnijden"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Verh. bijsnijden"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Aangepast datumbereik"
+
+msgid "imag_bd_date_off"
+msgstr "Niet filteren op datum"
+
+msgid "imag_bd_date_one_day"
+msgstr "Datum kiezen"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", foto's: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "Van"
+
+msgid "imag_bd_date_range_to"
+msgstr "Tot"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Tags"
+
+msgid "imag_bd_discard"
+msgstr "Negeren"
+
+msgid "imag_bd_edit_tags"
+msgstr "Tags bewerken"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Horizontaal kantelen"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Verticaal kantelen"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Alle afbeeldingen"
+
+msgid "imag_bd_folder_camera"
+msgstr "Standaardmap camera"
+
+msgid "imag_bd_folder_custom"
+msgstr "Aangepaste map"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Plaats"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Regio"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Provincie"
+
+msgid "imag_bd_new_tag"
+msgstr "Nieuw"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Rode ogen verwijderen"
+
+msgid "imag_bd_resize"
+msgstr "Grootte aanpassen"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Grootte aanpassen"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Grootte aanpassen"
+
+msgid "imag_bd_save_as"
+msgstr "Opslaan als"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Snel"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Gemiddeld"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Langzaam"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Sorteren op naam"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Sorteren op datum"
+
+msgid "imag_bd_share"
+msgstr "Delen"
+
+msgid "imag_bd_show_on_map"
+msgstr "Op kaart weergeven"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Geotags"
+
+msgid "imag_fi_crop_free"
+msgstr "Vrije verhoudingen"
+
+msgid "imag_fi_crop_original"
+msgstr "Origineel"
+
+msgid "imag_fi_crop_screen"
+msgstr "Schermverh."
+
+msgid "imag_fi_crop_square"
+msgstr "Vierkant"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "BW"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "s"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Diafragma"
+
+msgid "imag_fi_details_camera"
+msgstr "Camera"
+
+msgid "imag_fi_details_common"
+msgstr "Algemeen"
+
+msgid "imag_fi_details_creator"
+msgstr "Maker"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Datum en tijd van opname"
+
+msgid "imag_fi_details_description"
+msgstr "Beschrijving"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Afmetingen"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d pixels"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Belichtingsinval"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Belichtingstijd"
+
+msgid "imag_fi_details_flash"
+msgstr "Flits"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Modus Automatisch"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Modus Gedwongen uit"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Modus Gedwongen aan"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Niet afgegaan"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Afgegaan"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Rode ogen verminderen"
+
+msgid "imag_fi_details_focallength"
+msgstr "Afstand"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS-hoogtegraad"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS-breedtegraad"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS-lengtegraad"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Jpeg-kwaliteit"
+
+msgid "imag_fi_details_maker"
+msgstr "Camerafabrikant"
+
+msgid "imag_fi_details_metadata"
+msgstr "Metagegevens"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Gemiddeld"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Centrumgerichte meting"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Multispotmeting"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Multisegmentmeting"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Deelmeting"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Spotmeting"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Lichtmetingsmodus"
+
+msgid "imag_fi_details_model"
+msgstr "Cameramodel"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Geen camera-informatie beschikbaar"
+
+msgid "imag_fi_details_no_common"
+msgstr "Geen algemene informatie beschikbaar"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Metagegevensinformatie wordt niet ondersteund door bestandsindeling"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Miniatuur"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d pixels"
+
+msgid "imag_fi_details_title"
+msgstr "Titel"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Onbekende waarde"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Witbalans"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Auto"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Handmatig"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Helderheid"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Contrast"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "H:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "B:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d foto's"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 foto"
+
+msgid "imag_fi_geotags_city"
+msgstr "Plaats:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Regio:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Provincie:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Type"
+
+msgid "imag_fi_save_changes"
+msgstr ""
+"Wijzigingen opslaan?\n"
+"Met 'Opslaan' overschrijft u het oorspronkelijke bestand, met 'Opslaan als' "
+"bewaart u de wijzigingen in een nieuw bestand en met 'Negeren' wijst u alle "
+"wijzigingen af."
+
+msgid "imag_fi_tags"
+msgstr "Tags:"
+
+msgid "imag_ia_no_images"
+msgstr "(geen afbeeldingen)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Bestand is alleen-lezen. Kan metagegevens niet bewerken."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Bestandsindeling ondersteunt het bewerken van metagegevens niet"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Bestand is alleen-lezen. Kan naam niet wijzigen."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "De geselecteerde locatie is alleen-lezen. Opslaan geannuleerd."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Kan metagegevens voor %s niet bijwerken"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Kan metagegevens van geselecteerde bestanden niet bijwerken"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Kan metagegevens voor %d/%d bestanden niet bijwerken"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Bestanden zijn alleen-lezen. Kan metagegevens niet bewerken."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr ""
+"De geselecteerde bestanden zijn alleen-lezen of hebben bestandsindelingen "
+"die het bewerken van metagegevens niet ondersteunen"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr ""
+"Bestandsinsdeling van de geselecteerde bestanden ondersteunt het bewerken "
+"van metagegevens niet"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Afbeelding is niet meer beschikbaar"
+
+msgid "imag_ib_invalid_value"
+msgstr "Ongeldige waarde"
+
+msgid "imag_ib_loading"
+msgstr "Bezig met laden van afbeelding %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Geheugen vol. Bewerking geannuleerd."
+
+msgid "imag_ib_no_details"
+msgstr "Geen details beschikbaar"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Afbeeldingen zijn niet meer beschikbaar"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Geen afbeeldingen geselecteerd"
+
+msgid "imag_ib_not_available"
+msgstr "Niet beschikbaar"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Onvoldoende geheugen om geselecteerde bewerking uit te voeren"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Onvoldoende geheugen om afbeelding weer te geven"
+
+msgid "imag_ib_operation_failed"
+msgstr "Bewerking is mislukt"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Breedte of hoogte van afbeelding moet ten minste 1 pixel zijn"
+
+msgid "imag_ib_save_failed"
+msgstr "Opslaan mislukt"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Diavoorstelling beëindigd"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Diavoorstelling gestart"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Kan bestand niet verwijderen"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Kan geselecteerde bestanden niet verwijderen"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Kan %d van de geselecteerde bestanden niet verwijderen"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Kan afbeelding niet weergeven"
+
+msgid "imag_ib_zooming"
+msgstr "Bezig met zoomen"
+
+msgid "imag_me_date_off"
+msgstr "Uit"
+
+msgid "imag_me_date_title"
+msgstr "Filteren op datum"
+
+msgid "imag_me_delete"
+msgstr "Verwijderen"
+
+msgid "imag_me_details"
+msgstr "Details"
+
+msgid "imag_me_edit_image"
+msgstr "Afbeelding bewerken"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Favorieten"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Uit"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Filteren op tags"
+
+msgid "imag_me_folder_all_images"
+msgstr "Alle afbeeldingen"
+
+msgid "imag_me_folder_camera"
+msgstr "Standaardmap camera"
+
+msgid "imag_me_folder_title"
+msgstr "Filteren op map"
+
+msgid "imag_me_mark_favourite"
+msgstr "Markeren als favoriet"
+
+msgid "imag_me_multiple_delete"
+msgstr "Afbeeldingen verwijderen"
+
+msgid "imag_me_multiple_share"
+msgstr "Afbeeldingen delen"
+
+msgid "imag_me_multiple_tags"
+msgstr "Tags afbeeldingen bewerk."
+
+msgid "imag_me_rename"
+msgstr "Wijzig naam"
+
+msgid "imag_me_save"
+msgstr "Opslaan"
+
+msgid "imag_me_save_as"
+msgstr "Opslaan als"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Gebruik als avatar"
+
+msgid "imag_me_settings"
+msgstr "Instellingen"
+
+msgid "imag_me_share"
+msgstr "Delen"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Favoriet-markering opheffen"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Gebruik als achtergrond"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Oorspronkelijk bestand overschrijven?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "%d afbeeldingen verwijderen?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "%d afbeeldingen, waarvan %d alleen-lezen, verwijderen?"
+
+msgid "imag_nc_delete_single"
+msgstr "Afbeelding '%s' verwijderen?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+"Alleen-lezenbestand verwijderen?\n"
+"%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Geheugen vol. Opslaan geannuleerd."
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+"Geheugenkaart is alleen-lezen\n"
+"Wijzig de opslaglocatie."
+
+msgid "imag_ni_non_local_files"
+msgstr "Kan niet-lokale bestanden niet openen"
+
+msgid "imag_ni_save_read_only_file"
+msgstr ""
+"Oorspronkelijk afbeeldingsbestand is alleen-lezen. Bewerkte afbeelding moet "
+"als nieuw bestand worden opgeslagen."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+"Status van %d/%d bestanden is alleen-lezen.\n"
+"Kan alleen de tags van de andere bestanden bijwerken."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+"Bepaalde geselecteerde bestanden zijn alleen-lezen of hebben "
+"bestandsindelingen die het bewerken van metagegevens niet ondersteunen.\n"
+"Kan alleen de tags van %d/%d bestanden bijwerken."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+"Bestandsindeling van %d/%d bestanden ondersteunt geen tags.\n"
+"Kan alleen de tags van de andere bestanden bijwerken."
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+"Kan niet openen.\n"
+"Bestandsindeling wordt niet ondersteund."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+"Kan niet opslaan in originele indeling.\n"
+"Andere indeling vereist."
+
+msgid "imag_nw_saving"
+msgstr "Bezig met opslaan van afbeelding %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Tags opslaan"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Avatar bijsnijden"
+
+msgid "imag_ti_dates"
+msgstr "datums"
+
+msgid "imag_ti_details"
+msgstr "Details"
+
+msgid "imag_ti_details_favourite"
+msgstr "Favoriet"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Helderheid en contrast aanpassen"
+
+msgid "imag_ti_edit_crop"
+msgstr "Afbeelding bijsnijden"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Geotags bewerken"
+
+msgid "imag_ti_edit_image"
+msgstr "Afbeelding bewerken"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Verwijder rode ogen door erop te tikken"
+
+msgid "imag_ti_edit_resize"
+msgstr "Grootte afbeelding aanpassen"
+
+msgid "imag_ti_filter_date"
+msgstr "Filteren op datum"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Aangepast datumbereik opgeven"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Datum kiezen"
+
+msgid "imag_ti_filter_folder"
+msgstr "Filteren op map"
+
+msgid "imag_ti_filter_tags"
+msgstr "Filteren op tags"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Filteren op tags - Favorieten"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Alle afbeeldingen"
+
+msgid "imag_ti_folder_camera"
+msgstr "Standaardmap camera"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Afbeeldingen selecteren"
+
+msgid "imag_ti_new_geotag"
+msgstr "Nieuwe geotag"
+
+msgid "imag_ti_rename"
+msgstr "Naam van afbeelding wijzigen"
+
+msgid "imag_ti_save_as"
+msgstr "Afbeelding opslaan als %s"
+
+msgid "imag_ti_settings"
+msgstr "Instellingen"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Op maand groeperen"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Metagegevensindicators weergeven"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Diavoorstelling"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Sorteren"
+
+msgid "imag_ti_tags"
+msgstr "tags"
+
+msgid "imag_ti_tags_edit"
+msgstr "Tags bewerken"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Tags bewerken - Favoriet"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Tags bewerken - Favorieten"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Tags bewerken - Favorieten*"
+
+msgid "imag_ti_tags_new"
+msgstr "Nieuwe tag"

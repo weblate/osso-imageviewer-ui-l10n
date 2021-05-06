@@ -1,0 +1,646 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "imag_ap_images"
+msgstr "Fotos"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Lysstyrke og kontrast"
+
+msgid "imag_bd_clear"
+msgstr "Ryd"
+
+msgid "imag_bd_continue"
+msgstr "Fortsæt"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Beskær"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Beskæringsforhold"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Brugerdefineret datointerval"
+
+msgid "imag_bd_date_off"
+msgstr "Ingen datofiltrering"
+
+msgid "imag_bd_date_one_day"
+msgstr "Vælg dato"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", billeder: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "Fra"
+
+msgid "imag_bd_date_range_to"
+msgstr "Til"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Tags"
+
+msgid "imag_bd_discard"
+msgstr "Annuller"
+
+msgid "imag_bd_edit_tags"
+msgstr "Rediger tags"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Spejlvend vandret"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Spejlvend lodret"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Alle billeder"
+
+msgid "imag_bd_folder_camera"
+msgstr "Standardmappe for kamera"
+
+msgid "imag_bd_folder_custom"
+msgstr "Brugerdefineret mappe"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "By"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Område"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Distrikt"
+
+msgid "imag_bd_new_tag"
+msgstr "Ny"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Fjernelse af røde øjne"
+
+msgid "imag_bd_resize"
+msgstr "Tilpas størrelse"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Tilpas størrelse"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Tilpas størrelse til"
+
+msgid "imag_bd_save_as"
+msgstr "Gem som"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Hurtig"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Mellem"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Langsom"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Efter navn"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Efter dato"
+
+msgid "imag_bd_share"
+msgstr "Del"
+
+msgid "imag_bd_show_on_map"
+msgstr "Vis på kort"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Geotags"
+
+msgid "imag_fi_crop_free"
+msgstr "Fri forhold"
+
+msgid "imag_fi_crop_original"
+msgstr "Original"
+
+msgid "imag_fi_crop_screen"
+msgstr "Skærmforhold"
+
+msgid "imag_fi_crop_square"
+msgstr "Firkant"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "sek"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Blændeåbning"
+
+msgid "imag_fi_details_camera"
+msgstr "Kamera"
+
+msgid "imag_fi_details_common"
+msgstr "Generelt"
+
+msgid "imag_fi_details_creator"
+msgstr "Ophavsmand"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Dato og klokkeslæt for optagelse"
+
+msgid "imag_fi_details_description"
+msgstr "Beskrivelse"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Dimensioner"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d pixel"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Eksponeringsbias"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Eksponeringstid"
+
+msgid "imag_fi_details_flash"
+msgstr "Blitz"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Automatisk tilstand"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Tvungen deaktiveret tilstand"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Tvungen aktiveret tilstand"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Ikke udløst"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Udløst"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Fjernelse af røde øjne"
+
+msgid "imag_fi_details_focallength"
+msgstr "Brændvidde"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS-højde"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS-breddegrad"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS-længdegrad"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Jpeg-kvalitet"
+
+msgid "imag_fi_details_maker"
+msgstr "Kameraproducent"
+
+msgid "imag_fi_details_metadata"
+msgstr "Metadata"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Gennemsnit"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Centervægtet gennemsnit"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Multi-spot"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Multi-segment"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Delvis"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Spot"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Måletilstand"
+
+msgid "imag_fi_details_model"
+msgstr "Kameramodel"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Ingen kameraoplysninger tilgængelige"
+
+msgid "imag_fi_details_no_common"
+msgstr "Ingen generelle oplysninger tilgængelige"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Metadataoplysninger understøttes ikke af filformat"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Miniature"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d pixel"
+
+msgid "imag_fi_details_title"
+msgstr "Titel"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Ukendt værdi"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Hvidbalance"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Auto"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Manuel"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Lysstyrke"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Kontrast"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "H:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "B:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d billeder"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 billede"
+
+msgid "imag_fi_geotags_city"
+msgstr "By:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Område:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Distrikt:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Type"
+
+msgid "imag_fi_save_changes"
+msgstr ""
+"Gem ændringer?\n"
+"'Gem' overskriver den originale fil, 'Gem som' gemmer ændringer i en ny fil "
+"og 'Annuller' afviser alle ændringer."
+
+msgid "imag_fi_tags"
+msgstr "Tags:"
+
+msgid "imag_ia_no_images"
+msgstr "(ingen billeder)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Filen er skrivebeskyttet. Kan ikke redigere metadata."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Filformatet understøtter ikke redigering af metadata"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Filen er skrivebeskyttet. Kan ikke omdøbe."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Valgte placering er skrivebeskyttet. Lagring annulleret."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Kan ikke opdatere metadata for %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Kan ikke opdatere metadata for de valgte filer"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Kan ikke opdatere metadata for %d/%d filer"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Filerne er skrivebeskyttede. Kan ikke redigere metadata."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr ""
+"De valgte filer er enten skrivebeskyttede eller har filformater, der ikke "
+"understøtter redigering af metadata"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "De valgte filers format understøtter ikke redigering af metadata"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Billedet er ikke længere tilgængeligt"
+
+msgid "imag_ib_invalid_value"
+msgstr "Ugyldig værdi"
+
+msgid "imag_ib_loading"
+msgstr "Indlæser billede %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Hukommelsen er fuld. Handling annulleret."
+
+msgid "imag_ib_no_details"
+msgstr "Ingen detaljer tilgængelige"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Billederne er ikke længere tilgængelige"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Ingen billeder valgt"
+
+msgid "imag_ib_not_available"
+msgstr "Ikke tilgængelig"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Der er ikke tilstrækkelig hukommelse til at udføre den valgte handling"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Ikke tilstrækkelig hukommelse til at vise billede"
+
+msgid "imag_ib_operation_failed"
+msgstr "Handlingen mislykkedes"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Billedbredde eller -højde skal mindst være 1 pixel"
+
+msgid "imag_ib_save_failed"
+msgstr "Lagring mislykkedes"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Diasshow afsluttet"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Diasshow startet"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Kan ikke slette fil"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Kan ikke slette de valgte filer"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Kan ikke slette %d af de valgte filer"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Kan ikke vise billede"
+
+msgid "imag_ib_zooming"
+msgstr "Zoomer"
+
+msgid "imag_me_date_off"
+msgstr "Fra"
+
+msgid "imag_me_date_title"
+msgstr "Sorter efter dato"
+
+msgid "imag_me_delete"
+msgstr "Slet"
+
+msgid "imag_me_details"
+msgstr "Detaljer"
+
+msgid "imag_me_edit_image"
+msgstr "Rediger billede"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Foretrukne"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Fra"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Sorter efter tags"
+
+msgid "imag_me_folder_all_images"
+msgstr "Alle billeder"
+
+msgid "imag_me_folder_camera"
+msgstr "Standardmappe for kamera"
+
+msgid "imag_me_folder_title"
+msgstr "Sorter efter mappe"
+
+msgid "imag_me_mark_favourite"
+msgstr "Marker som foretrukken"
+
+msgid "imag_me_multiple_delete"
+msgstr "Slet billeder"
+
+msgid "imag_me_multiple_share"
+msgstr "Del billeder"
+
+msgid "imag_me_multiple_tags"
+msgstr "Rediger billeders tags"
+
+msgid "imag_me_rename"
+msgstr "Omdøb"
+
+msgid "imag_me_save"
+msgstr "Gem"
+
+msgid "imag_me_save_as"
+msgstr "Gem som"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Anvend som kontaktbillede"
+
+msgid "imag_me_settings"
+msgstr "Indstillinger"
+
+msgid "imag_me_share"
+msgstr "Del"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Afmarker som foretrukken"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Anvend som baggrund"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Overskriv original fil?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Slet %d billeder?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "Slet %d billeder, inklusive %d, der er markeret som skrivebeskyttet?"
+
+msgid "imag_nc_delete_single"
+msgstr "Slet billedet '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+"Slet skrivebeskyttet fil?\n"
+"%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Hukommelsen er fuld. Lagring annulleret."
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+"Hukommelseskortet er skrivebeskyttet.\n"
+"Rediger lagringsplacering."
+
+msgid "imag_ni_non_local_files"
+msgstr "Kan ikke åbne ikke-lokale filer"
+
+msgid "imag_ni_save_read_only_file"
+msgstr ""
+"Den originale billedfil er skrivebeskyttet. Det redigerede billede skal "
+"gemmes som en ny fil."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+"Status for %d/%d filer er skrivebeskyttet.\n"
+"Kan kun opdatere tags på de andre filer."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+"Nogle af de valgte filer er skrivebeskyttede eller har formater, der ikke "
+"understøtter redigering af metadata.\n"
+"Kan kun opdatere tags i %d/%d filer."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+"Filformatet for %d/%d filer understøtter ikke tags.\n"
+"Kan kun opdatere tags på andre filer."
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+"Kan ikke åbnes.\n"
+"Filformatet er ikke understøttet."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+"Kan ikke gemme i det originale format.\n"
+"Alternativt format krævet."
+
+msgid "imag_nw_saving"
+msgstr "Gemmer billede %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Gemmer tags"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Beskær billede af kontakt"
+
+msgid "imag_ti_dates"
+msgstr "datoer"
+
+msgid "imag_ti_details"
+msgstr "Detaljer"
+
+msgid "imag_ti_details_favourite"
+msgstr "Foretrukken"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Juster lysstyrke og kontrast"
+
+msgid "imag_ti_edit_crop"
+msgstr "Beskær billede"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Rediger geotags"
+
+msgid "imag_ti_edit_image"
+msgstr "Rediger billede"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Fjern røde øjne ved at trykke på dem"
+
+msgid "imag_ti_edit_resize"
+msgstr "Tilpas størrelse på billede"
+
+msgid "imag_ti_filter_date"
+msgstr "Sorter efter dato"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Angiv brugerdefineret datointerval"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Vælg dato"
+
+msgid "imag_ti_filter_folder"
+msgstr "Sorter efter mappe"
+
+msgid "imag_ti_filter_tags"
+msgstr "Sorter efter tags"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Sorter efter tags - Foretrukne"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Alle billeder"
+
+msgid "imag_ti_folder_camera"
+msgstr "Standardmappe for kamera"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Vælg billeder"
+
+msgid "imag_ti_new_geotag"
+msgstr "Ny geotag"
+
+msgid "imag_ti_rename"
+msgstr "Omdøb billede"
+
+msgid "imag_ti_save_as"
+msgstr "Gem billede som %s"
+
+msgid "imag_ti_settings"
+msgstr "Indstillinger"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Gruppér efter måned"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Vis metadataindikatorer"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Diasshow"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Sorter"
+
+msgid "imag_ti_tags"
+msgstr "tags"
+
+msgid "imag_ti_tags_edit"
+msgstr "Rediger tags"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Rediger tags - Foretrukken"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Rediger tags - Foretrukne"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Rediger tags - Foretrukne*"
+
+msgid "imag_ti_tags_new"
+msgstr "Ny tag"

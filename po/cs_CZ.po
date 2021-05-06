@@ -1,0 +1,648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "imag_ap_images"
+msgstr "Fotografie"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Jas a kontrast"
+
+msgid "imag_bd_clear"
+msgstr "Vymazat"
+
+msgid "imag_bd_continue"
+msgstr "Pokračovat"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Oříznutí"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Poměr ořezu"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Vlastní rozsah dat"
+
+msgid "imag_bd_date_off"
+msgstr "Žádné filtrování podle data"
+
+msgid "imag_bd_date_one_day"
+msgstr "Výběr data"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", obrázky: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "Od"
+
+msgid "imag_bd_date_range_to"
+msgstr "Do"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Značky"
+
+msgid "imag_bd_discard"
+msgstr "Zrušit"
+
+msgid "imag_bd_edit_tags"
+msgstr "Upravit značky"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Převrátit horizontálně"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Převrátit vertikálně"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Všechny obrázky"
+
+msgid "imag_bd_folder_camera"
+msgstr "Výchozí složka fotoaparátu"
+
+msgid "imag_bd_folder_custom"
+msgstr "Vlastní složka"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Město"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Region"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Oblast"
+
+msgid "imag_bd_new_tag"
+msgstr "Nová"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Odstranění efektu červených očí"
+
+msgid "imag_bd_resize"
+msgstr "Změna velikosti"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Změna velikosti"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Změnit velikost na"
+
+msgid "imag_bd_save_as"
+msgstr "Uložit jako"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Rychlá"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Střední"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Pomalá"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Podle názvu"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Podle data"
+
+msgid "imag_bd_share"
+msgstr "Sdílet"
+
+msgid "imag_bd_show_on_map"
+msgstr "Ukázat na mapě"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Zeměpisné souřadnice"
+
+msgid "imag_fi_crop_free"
+msgstr "Libovolný poměr"
+
+msgid "imag_fi_crop_original"
+msgstr "Původní"
+
+msgid "imag_fi_crop_screen"
+msgstr "Poměr obrazovky"
+
+msgid "imag_fi_crop_square"
+msgstr "Čtverec"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "s"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Clona"
+
+msgid "imag_fi_details_camera"
+msgstr "Fotoaparát"
+
+msgid "imag_fi_details_common"
+msgstr "Obecné"
+
+msgid "imag_fi_details_creator"
+msgstr "Autor"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Datum a čas pořízení snímku"
+
+msgid "imag_fi_details_description"
+msgstr "Popis"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Rozměry"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d x %d pixelů"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Odchylka expozice"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Doba expozice"
+
+msgid "imag_fi_details_flash"
+msgstr "Blesk"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Automatický režim"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Režim vždy vypnuto"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Režim vždy zapnuto"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Nepoužit"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Použit"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Redukce efektu červených očí"
+
+msgid "imag_fi_details_focallength"
+msgstr "Ohnisková vzdálenost"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS nadmořská výška"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS zeměpisná šířka"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS zeměpisná délka"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Kvalita Jpeg"
+
+msgid "imag_fi_details_maker"
+msgstr "Výrobce fotoaparátu"
+
+msgid "imag_fi_details_metadata"
+msgstr "Metadata"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Průměr"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Průměr se zvýhodněným středem"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Vícebodové"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Vícesegmentové"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Parciální"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Bodové"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Režim měření"
+
+msgid "imag_fi_details_model"
+msgstr "Model fotoaparátu"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Informace o fotoaparátu nedostupné"
+
+msgid "imag_fi_details_no_common"
+msgstr "Nejsou k dispozici žádné obecné informace"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Informace o metadatech nejsou podporovány formátem souboru"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Náhled"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d x %d pixelů"
+
+msgid "imag_fi_details_title"
+msgstr "Název"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Neznámá hodnota"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Vyvážení bílé"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Auto"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Ruční"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Jas"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Kontrast"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "V:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "Š:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "obrázky (%d)"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "obrázky (1)"
+
+msgid "imag_fi_geotags_city"
+msgstr "Město:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Region:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Oblast:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Typ"
+
+msgid "imag_fi_save_changes"
+msgstr ""
+"Uložit změny?\n"
+"Možnost „Uložit“ přepíše původní soubor, možnost „Uložit jako“ uloží změny "
+"do nového souboru a možnost „Zrušit“ odmítne veškeré změny."
+
+msgid "imag_fi_tags"
+msgstr "Značky:"
+
+msgid "imag_ia_no_images"
+msgstr "(žádné obrázky)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Soubor pouze pro čtení. Nelze upravit metadata."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Formát souboru nepodporuje úpravy metadat"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Soubor pouze pro čtení. Nelze přejmenovat."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Zvolené umístění je pouze pro čtení. Ukládání zrušeno."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Nelze aktualizovat metadata pro %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Nelze aktualizovat metadata vybraných souborů"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Nelze aktualizovat metadata pro soubory: %d/%d"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Soubory pouze pro čtení. Nelze upravit metadata."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr ""
+"Vybrané soubory jsou jen pro čtení nebo jejich formáty nepodporují úpravy "
+"metadat"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "Formáty vybraných souborů nepodporují úpravy metadat"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Obrázek již není dostupný"
+
+msgid "imag_ib_invalid_value"
+msgstr "Neplatná hodnota"
+
+msgid "imag_ib_loading"
+msgstr "Načítání obrázku %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Paměť plná. Operace zrušena."
+
+msgid "imag_ib_no_details"
+msgstr "Nejsou dostupné žádné podrobnosti"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Obrázky již nejsou dostupné"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Nejsou vybrány žádné obrázky"
+
+msgid "imag_ib_not_available"
+msgstr "Není dostupné"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Nedostatek paměti pro provedení zvolené operace"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Nedostatek paměti pro zobrazení obrázku"
+
+msgid "imag_ib_operation_failed"
+msgstr "Operace se nezdařila"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Šířka nebo výška obrázku musí být nejméně 1 pixel"
+
+msgid "imag_ib_save_failed"
+msgstr "Uložení se nezdařilo"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Prezentace ukončena"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Prezentace spuštěna"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Obrázek nelze odstranit"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Nelze odstranit vybrané soubory"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Nelze odstranit %d vybraných souborů"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Obrázek nelze zobrazit"
+
+msgid "imag_ib_zooming"
+msgstr "Změna velikosti zobrazení"
+
+msgid "imag_me_date_off"
+msgstr "Vypnuto"
+
+msgid "imag_me_date_title"
+msgstr "Filtrovat podle data"
+
+msgid "imag_me_delete"
+msgstr "Odstranit"
+
+msgid "imag_me_details"
+msgstr "Podrobnosti"
+
+msgid "imag_me_edit_image"
+msgstr "Upravit obrázek"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Oblíbené"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Vypnuto"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Filtrovat podle značek"
+
+msgid "imag_me_folder_all_images"
+msgstr "Všechny obrázky"
+
+msgid "imag_me_folder_camera"
+msgstr "Výchozí složka fotoaparátu"
+
+msgid "imag_me_folder_title"
+msgstr "Filtrovat podle složky"
+
+msgid "imag_me_mark_favourite"
+msgstr "Označit jako oblíbený"
+
+msgid "imag_me_multiple_delete"
+msgstr "Odstranit obrázky"
+
+msgid "imag_me_multiple_share"
+msgstr "Sdílet obrázky"
+
+msgid "imag_me_multiple_tags"
+msgstr "Upravit značky obrázků"
+
+msgid "imag_me_rename"
+msgstr "Přejmenovat"
+
+msgid "imag_me_save"
+msgstr "Uložit"
+
+msgid "imag_me_save_as"
+msgstr "Uložit jako"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Nastavit jako ikonu"
+
+msgid "imag_me_settings"
+msgstr "Nastavení"
+
+msgid "imag_me_share"
+msgstr "Sdílet"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Zrušit označení jako oblíbený"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Nastavit jako pozadí"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Přepsat původní soubor?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Odstranit označené obrázky? (celkem %d)"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr ""
+"Odstranit obrázky (celkem %d), včetně obrázků\n"
+"označených jen pro čtení (celkem %d)?"
+
+msgid "imag_nc_delete_single"
+msgstr "Odstranit obrázek '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+"Odstranit soubor jen pro čtení?\n"
+"%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Paměť plná. Ukládání zrušeno."
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+"Paměťová karta je pouze pro čtení.\n"
+"Změňte umístění pro ukládání."
+
+msgid "imag_ni_non_local_files"
+msgstr "Nelze otevřít jiné než místní soubory"
+
+msgid "imag_ni_save_read_only_file"
+msgstr ""
+"Původní formát obrázku je jen pro čtení. Upravený obrázek musí být uložen "
+"jako nový soubor."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+"Stav %d/%d souborů je jen pro čtení.\n"
+"Lze pouze aktualizovat značky ostatních souborů."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+"Některé z vybraných souborů jsou jen pro čtení nebo jejich formáty "
+"nepodporují úpravy metadat.\n"
+"Lze pouze aktualizovat značky %d/%d souborů."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+"Formát %d/%d souborů nepodporuje značky.\n"
+"Lze pouze aktualizovat značky ostatních souborů."
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+"Nelze otevřít.\n"
+"Nepodporovaný formát souboru."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+"Nelze uložit v původním formátu.\n"
+"Vyžadován jiný formát."
+
+msgid "imag_nw_saving"
+msgstr "Ukládání obrázku %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Ukládání značek"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Oříznout ikonu"
+
+msgid "imag_ti_dates"
+msgstr "data"
+
+msgid "imag_ti_details"
+msgstr "Podrobnosti"
+
+msgid "imag_ti_details_favourite"
+msgstr "Oblíbený"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Nastavení jasu a kontrastu"
+
+msgid "imag_ti_edit_crop"
+msgstr "Oříznout obrázek"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Upravit zeměpisné souřadnice"
+
+msgid "imag_ti_edit_image"
+msgstr "Upravit obrázek"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Efekt odstraníte klepnutím na oči"
+
+msgid "imag_ti_edit_resize"
+msgstr "Změnit velikost obrázku"
+
+msgid "imag_ti_filter_date"
+msgstr "Filtrovat podle data"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Přidělit vlastní rozsah dat"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Výběr data"
+
+msgid "imag_ti_filter_folder"
+msgstr "Filtrovat podle složky"
+
+msgid "imag_ti_filter_tags"
+msgstr "Filtrovat podle značek"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Filtrovat podle značek – Oblíbené"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Všechny obrázky"
+
+msgid "imag_ti_folder_camera"
+msgstr "Výchozí složka fotoaparátu"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Vybrat obrázky"
+
+msgid "imag_ti_new_geotag"
+msgstr "Nová zeměpisná souřadnice"
+
+msgid "imag_ti_rename"
+msgstr "Přejmenovat obrázek"
+
+msgid "imag_ti_save_as"
+msgstr "Uložit obrázek jako %s"
+
+msgid "imag_ti_settings"
+msgstr "Nastavení"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Seskupit podle měsíce"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Zobrazit indikátory metadat"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Prezentace"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Třídit"
+
+msgid "imag_ti_tags"
+msgstr "značky"
+
+msgid "imag_ti_tags_edit"
+msgstr "Upravit značky"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Upravit značky – Oblíbené"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Upravit značky – Oblíbené"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Upravit značky – Oblíbené*"
+
+msgid "imag_ti_tags_new"
+msgstr "Nová značka"

@@ -1,0 +1,652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "imag_ap_images"
+msgstr "Photos"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Luminosité et contraste"
+
+msgid "imag_bd_clear"
+msgstr "Effacer"
+
+msgid "imag_bd_continue"
+msgstr "Continuer"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Cadrer"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Ratio de cadrage"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Personnaliser la plage de dates"
+
+msgid "imag_bd_date_off"
+msgstr "Désactiver"
+
+msgid "imag_bd_date_one_day"
+msgstr "Sélectionner une date"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", images : %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "De"
+
+msgid "imag_bd_date_range_to"
+msgstr "À"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Balises"
+
+msgid "imag_bd_discard"
+msgstr "Ignorer"
+
+msgid "imag_bd_edit_tags"
+msgstr "Modifier les balises"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Inverser horizontalement"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Inverser verticalement"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Toutes les images"
+
+msgid "imag_bd_folder_camera"
+msgstr "Dossier de l'appareil photo"
+
+msgid "imag_bd_folder_custom"
+msgstr "Dossier personnalisé"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Ville"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Région"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Quartier"
+
+msgid "imag_bd_new_tag"
+msgstr "Nouveau"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Atténuation yeux rouges"
+
+msgid "imag_bd_resize"
+msgstr "Redimensionner"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Redimensionner"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Redimensionner"
+
+msgid "imag_bd_save_as"
+msgstr "Enreg. sous"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Rapide"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Normal"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Lent"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Par nom"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Par date"
+
+msgid "imag_bd_share"
+msgstr "Partager"
+
+msgid "imag_bd_show_on_map"
+msgstr "Afficher sur la carte"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Balises géographiques"
+
+msgid "imag_fi_crop_free"
+msgstr "Ratio disponible"
+
+msgid "imag_fi_crop_original"
+msgstr "Original"
+
+msgid "imag_fi_crop_screen"
+msgstr "Ratio écran"
+
+msgid "imag_fi_crop_square"
+msgstr "Carré"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "s"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Ouverture"
+
+msgid "imag_fi_details_camera"
+msgstr "Appareil photo"
+
+msgid "imag_fi_details_common"
+msgstr "Général"
+
+msgid "imag_fi_details_creator"
+msgstr "Créateur"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Date et heure réelle"
+
+msgid "imag_fi_details_description"
+msgstr "Description "
+
+msgid "imag_fi_details_dimensions"
+msgstr "Résolution"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d x %d pixels"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Compensation de l'exposition"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Durée d'exposition"
+
+msgid "imag_fi_details_flash"
+msgstr "Flash"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Mode Auto"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Mode de fonctionnement non forcé"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Mode de fonctionnement forcé"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Non déclenché"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Enclenché"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Réduction yeux rouges"
+
+msgid "imag_fi_details_focallength"
+msgstr "Distance focale"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "Altitude GPS"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "Latitude GPS"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "Longitude GPS"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Qualité Jpeg"
+
+msgid "imag_fi_details_maker"
+msgstr "Fabricant de l'appareil photo"
+
+msgid "imag_fi_details_metadata"
+msgstr "Métadonnées"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Moyenne"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Pondération centrale moyenne"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Multi-spot"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Multi-segment"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Partiel"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Spot"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Mode de mesure"
+
+msgid "imag_fi_details_model"
+msgstr "Modèle de l'appareil photo"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Aucune information sur l'appareil photo disponible"
+
+msgid "imag_fi_details_no_common"
+msgstr "Aucune information générale disponible"
+
+msgid "imag_fi_details_no_metadata"
+msgstr ""
+"Informations de métadonnées non prises en charge par ce format de fichier"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Miniature"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d x %d pixels"
+
+msgid "imag_fi_details_title"
+msgstr "Titre"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Valeur inconnue"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Balance des blancs"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Auto"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Manuelle"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Luminosité"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Contraste"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "H :"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "L :"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d images"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 image"
+
+msgid "imag_fi_geotags_city"
+msgstr "Ville :"
+
+msgid "imag_fi_geotags_country"
+msgstr "Région :"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Quartier :"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Type"
+
+msgid "imag_fi_save_changes"
+msgstr ""
+"Enregistrer les modifications ?\n"
+"La fonction Enregistrer va écraser le fichier original, la fonction "
+"Enregistrer sous va sauvegarder les modifications dans un nouveau fichier et "
+"la fonction Ignorer va rejeter toutes les modifications."
+
+msgid "imag_fi_tags"
+msgstr "Balises :"
+
+msgid "imag_ia_no_images"
+msgstr "(aucune image)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Fichier en lecture seule. Impossible de modifier les métadonnées."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr ""
+"Le format de fichier ne prend pas en charge la modification des métadonnées"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Fichier en lecture seule. Impossible de renommer."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "L'emplacement sélectionné est en lecture seule. Enregistrement annulé."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Impossible de mettre à jour les métadonnées pour %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Impossible de mettre à jour les métadonnées des fichiers sélectionnés"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Impossible de mettre à jour les métadonnées pour %d/%d fichiers"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Fichiers en lecture seule. Impossible de modifier les métadonnées."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr ""
+"Les fichiers sélectionnés sont en lecture seule ou sous un format qui ne "
+"prend pas en charge la modification des métadonnées"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr ""
+"Les formats des fichiers sélectionnés ne prennent pas en charge la "
+"modification des métadonnées"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "L'image n'est plus disponible"
+
+msgid "imag_ib_invalid_value"
+msgstr "Valeur non valide"
+
+msgid "imag_ib_loading"
+msgstr "Chargement de l'image %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Mémoire pleine. Opération annulée."
+
+msgid "imag_ib_no_details"
+msgstr "Aucun détail disponible"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Les images ne sont plus disponibles"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Aucune image sélectionnée"
+
+msgid "imag_ib_not_available"
+msgstr "Non disponible"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Espace insuffisant pour effectuer l'opération sélectionnée"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Mémoire insuffisante pour afficher l'image"
+
+msgid "imag_ib_operation_failed"
+msgstr "Échec de l'opération"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "La largeur ou la hauteur de l'image doit être d'au moins 1 pixel"
+
+msgid "imag_ib_save_failed"
+msgstr "Échec de l'enregistrement"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Diaporama terminé"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Diaporama lancé"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Impossible de supprimer ce fichier"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Impossible de supprimer les fichiers sélectionnés"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Impossible de supprimer %d des fichiers sélectionnés"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Impossible d'afficher l'image"
+
+msgid "imag_ib_zooming"
+msgstr "Zoom"
+
+msgid "imag_me_date_off"
+msgstr "Désactivé"
+
+msgid "imag_me_date_title"
+msgstr "Filtrer par date"
+
+msgid "imag_me_delete"
+msgstr "Supprimer"
+
+msgid "imag_me_details"
+msgstr "Détails"
+
+msgid "imag_me_edit_image"
+msgstr "Modifier image"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Favoris"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Désactivé"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Filtrer par balises"
+
+msgid "imag_me_folder_all_images"
+msgstr "Toutes les images"
+
+msgid "imag_me_folder_camera"
+msgstr "Dossier de l'appareil photo"
+
+msgid "imag_me_folder_title"
+msgstr "Filtrer par dossier"
+
+msgid "imag_me_mark_favourite"
+msgstr "Marquer comme favoris"
+
+msgid "imag_me_multiple_delete"
+msgstr "Supprimer des images"
+
+msgid "imag_me_multiple_share"
+msgstr "Partager des images"
+
+msgid "imag_me_multiple_tags"
+msgstr "Modifier balises des images"
+
+msgid "imag_me_rename"
+msgstr "Renommer"
+
+msgid "imag_me_save"
+msgstr "Enregistrer"
+
+msgid "imag_me_save_as"
+msgstr "Enregistrer sous"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Définir comme avatar"
+
+msgid "imag_me_settings"
+msgstr "Paramètres"
+
+msgid "imag_me_share"
+msgstr "Partager"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Supprimer des favoris"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Définir comme fond d'écran"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Écraser le fichier original ?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Supprimer %d images ?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr ""
+"Supprimer %d images, y compris %d marquées comme étant en lecture seule ?"
+
+msgid "imag_nc_delete_single"
+msgstr "Supprimer l'image %s ?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+"Supprimer le fichier en lecture seule ?\n"
+"%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Mémoire pleine. Enregistrement annulé."
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+"Carte mémoire en lecture seule.\n"
+"Modifier l'emplacement d'enregistrement."
+
+msgid "imag_ni_non_local_files"
+msgstr "Impossible d'ouvrir des fichiers non locaux"
+
+msgid "imag_ni_save_read_only_file"
+msgstr ""
+"Le fichier d'image d'origine est en lecture seule. L'image modifiée doit "
+"être enregistrée comme un nouveau fichier."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+"%d/%d sont en lecture seule.\n"
+"Seules les balises des autres fichiers peuvent être modifiées."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+"Certains des fichiers sélectionnés sont en lecture seule ou ont des formats "
+"qui ne prennent pas en charge la modification des métadonnées.\n"
+"Seules les balises de %d/%d fichiers peuvent être mises à jour."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+"Le format de fichier de %d/%d ne prend pas en charge les balises.\n"
+"Seules les balises des autres fichiers peuvent être modifiées."
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+"Impossible d'ouvrir.\n"
+"Format du fichier non pris en charge."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+"Impossible d'enregistrer au format d'origine.\n"
+"Autre format requis."
+
+msgid "imag_nw_saving"
+msgstr "Enregistrement de l'image %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Enregistrement de balises"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Cadrer avatar"
+
+msgid "imag_ti_dates"
+msgstr "dates"
+
+msgid "imag_ti_details"
+msgstr "Détails"
+
+msgid "imag_ti_details_favourite"
+msgstr "Favoris"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Réglage de la luminosité et du contraste"
+
+msgid "imag_ti_edit_crop"
+msgstr "Cadrer l'image"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Modifier les balises géographiques"
+
+msgid "imag_ti_edit_image"
+msgstr "Modifier image"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Taper sur les yeux rouges à atténuer"
+
+msgid "imag_ti_edit_resize"
+msgstr "Redimensionner l'image"
+
+msgid "imag_ti_filter_date"
+msgstr "Filtrer par date"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Définir une plage de dates personnalisée"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Sélectionner une date"
+
+msgid "imag_ti_filter_folder"
+msgstr "Filtrer par dossier"
+
+msgid "imag_ti_filter_tags"
+msgstr "Filtrer par balises"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Filtrer par balises - Favoris"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Toutes les images"
+
+msgid "imag_ti_folder_camera"
+msgstr "Dossier de l'appareil photo"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Sélectionner des images"
+
+msgid "imag_ti_new_geotag"
+msgstr "Nouvelle balise géographique"
+
+msgid "imag_ti_rename"
+msgstr "Renommer image"
+
+msgid "imag_ti_save_as"
+msgstr "Enregistrer l'image sous %s"
+
+msgid "imag_ti_settings"
+msgstr "Paramètres"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Grouper par mois"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Afficher les indicateurs de métadonnées"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Diaporama"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Trier"
+
+msgid "imag_ti_tags"
+msgstr "balises"
+
+msgid "imag_ti_tags_edit"
+msgstr "Modifier les balises"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Modifier les balises - Favoris"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Modifier les balises - Favoris"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Modifier les balises - Favoris*"
+
+msgid "imag_ti_tags_new"
+msgstr "Nouvelle balise"

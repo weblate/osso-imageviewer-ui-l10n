@@ -1,0 +1,647 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "imag_ap_images"
+msgstr "Foton"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Ljusstyrka och kontrast"
+
+msgid "imag_bd_clear"
+msgstr "Töm"
+
+msgid "imag_bd_continue"
+msgstr "Fortsätt"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Beskär"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Beskärningskvot"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Anpassat datumspann"
+
+msgid "imag_bd_date_off"
+msgstr "Ingen datumfiltrering"
+
+msgid "imag_bd_date_one_day"
+msgstr "Välj datum"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", bilder: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "Från"
+
+msgid "imag_bd_date_range_to"
+msgstr "Till"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Taggar"
+
+msgid "imag_bd_discard"
+msgstr "Ångra"
+
+msgid "imag_bd_edit_tags"
+msgstr "Redigera taggar"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Vänd horisontellt"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Vänd vertikalt"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Alla bilder"
+
+msgid "imag_bd_folder_camera"
+msgstr "Kamerans standardmapp"
+
+msgid "imag_bd_folder_custom"
+msgstr "Anpassad mapp"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Stad"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Region"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Distrikt"
+
+msgid "imag_bd_new_tag"
+msgstr "Ny"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Korrigering av röda ögon"
+
+msgid "imag_bd_resize"
+msgstr "Ändra storlek"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Ändra storlek"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Ändra storlek till"
+
+msgid "imag_bd_save_as"
+msgstr "Spara som"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Snabb"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Medel"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Långsam"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Efter namn"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Efter datum"
+
+msgid "imag_bd_share"
+msgstr "Dela"
+
+msgid "imag_bd_show_on_map"
+msgstr "Visa på karta"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Geotaggar"
+
+msgid "imag_fi_crop_free"
+msgstr "Fri kvot"
+
+msgid "imag_fi_crop_original"
+msgstr "Ursprungligt"
+
+msgid "imag_fi_crop_screen"
+msgstr "Skärmkvot"
+
+msgid "imag_fi_crop_square"
+msgstr "Kvadrat"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "sek"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Bländare"
+
+msgid "imag_fi_details_camera"
+msgstr "Kamera"
+
+msgid "imag_fi_details_common"
+msgstr "Allmänt"
+
+msgid "imag_fi_details_creator"
+msgstr "Skapare"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Datum och tid då bilden togs"
+
+msgid "imag_fi_details_description"
+msgstr "Beskrivning"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Mått"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d bildpunkter"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Exponeringsvärde"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Exponeringstid"
+
+msgid "imag_fi_details_flash"
+msgstr "Blixt"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Autoläge"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Tvingat av-läge"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Tvingat på-läge"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Inte tänd"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Tänd"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Reducering av röda ögon"
+
+msgid "imag_fi_details_focallength"
+msgstr "Brännvidd"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS-höjd"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS latitud"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS-longitud"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Jpeg-kvalitet"
+
+msgid "imag_fi_details_maker"
+msgstr "Kameratillverkare"
+
+msgid "imag_fi_details_metadata"
+msgstr "Metadata"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Normal"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Mittvägd"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Multipunkt"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Multimönster"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Delvis"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Punkt"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Mätningsläge"
+
+msgid "imag_fi_details_model"
+msgstr "Kameramodell"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Det finns ingen kamerainformation tillgänglig"
+
+msgid "imag_fi_details_no_common"
+msgstr "Ingen allmän information tillgänglig"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Metadatainformation stöds inte av filformatet"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Miniatyrbild"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d bildpunkter"
+
+msgid "imag_fi_details_title"
+msgstr "Namn"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Okänt värde"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Vitbalans"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Auto"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Manuell"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Ljusstyrka"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Kontrast"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "H:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "B:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d bilder"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 bild"
+
+msgid "imag_fi_geotags_city"
+msgstr "Stad:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Region:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Distrikt:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Typ"
+
+msgid "imag_fi_save_changes"
+msgstr ""
+"Vill du spara ändringarna?\n"
+"Spara kommer att skriva över originalfilen, Spara som sparar ändringar till "
+"en ny fil och Ångra avvisar alla ändringar."
+
+msgid "imag_fi_tags"
+msgstr "Taggar:"
+
+msgid "imag_ia_no_images"
+msgstr "(inga bilder)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Filen är skrivskyddad. Det gick inte att redigera metadata."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Filformatet stöder inte redigering av metadata"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Filen är skrivskyddad. Det gick inte att ändra namn."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Den valda platsen är skrivskyddad. Sparande avbröts."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Det gick inte att uppdatera metadata för %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Det gick inte att uppdatera metadata för valda filer"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Det gick inte att uppdatera metadata för %d/%d filer"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Filerna är skrivskyddade. Det gick inte att redigera metadata."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr ""
+"De valda filerna är antingen skrivskyddade eller har filformat som inte "
+"stöder redigering av metadata"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "De valda filernas filformat stöder inte redigering av metadata"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Bilden är inte tillgänglig längre"
+
+msgid "imag_ib_invalid_value"
+msgstr "Ogiltigt värde"
+
+msgid "imag_ib_loading"
+msgstr "Hämtar bild %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Minnet är fullt. Åtgärden avbröts."
+
+msgid "imag_ib_no_details"
+msgstr "Ingen information tillgänglig"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Bilderna är inte tillgängliga längre"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Inga bilder valda"
+
+msgid "imag_ib_not_available"
+msgstr "Ej tillgängligt"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Otillräckligt med minne för den valda åtgärden"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Otillräckligt minne för att visa bilden"
+
+msgid "imag_ib_operation_failed"
+msgstr "Åtgärden misslyckades"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Bildbredden eller -höjden måste vara minst 1 pixel"
+
+msgid "imag_ib_save_failed"
+msgstr "Det gick inte att spara"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Bildspel avbrutet"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Bildspel startat"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Det gick inte att ta bort filen"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Det gick inte att ta bort valda filer"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Det gick inte att ta bort %d av de valda filerna"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Det gick inte att visa bilden"
+
+msgid "imag_ib_zooming"
+msgstr "Zoomning"
+
+msgid "imag_me_date_off"
+msgstr "Av"
+
+msgid "imag_me_date_title"
+msgstr "Filtrera efter datum"
+
+msgid "imag_me_delete"
+msgstr "Ta bort"
+
+msgid "imag_me_details"
+msgstr "Information"
+
+msgid "imag_me_edit_image"
+msgstr "Redigera bild"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Favoriter"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Av"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Filtrera efter taggar"
+
+msgid "imag_me_folder_all_images"
+msgstr "Alla bilder"
+
+msgid "imag_me_folder_camera"
+msgstr "Kamerans standardmapp"
+
+msgid "imag_me_folder_title"
+msgstr "Filtrera efter mapp"
+
+msgid "imag_me_mark_favourite"
+msgstr "Markera som favorit"
+
+msgid "imag_me_multiple_delete"
+msgstr "Ta bort bilder"
+
+msgid "imag_me_multiple_share"
+msgstr "Dela bilder"
+
+msgid "imag_me_multiple_tags"
+msgstr "Redigera bildtaggar"
+
+msgid "imag_me_rename"
+msgstr "Ändra namn"
+
+msgid "imag_me_save"
+msgstr "Spara"
+
+msgid "imag_me_save_as"
+msgstr "Spara som"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Ställ in som avatar"
+
+msgid "imag_me_settings"
+msgstr "Inställningar"
+
+msgid "imag_me_share"
+msgstr "Dela"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Avmarkera som favorit"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Ställ in som bakgrundsbild"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Vill du skriva över originalfilen?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Vill du ta bort %d-bilder?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr ""
+"Vill du ta bort %d bilder, inklusive %d som är markerad som skrivskyddad?"
+
+msgid "imag_nc_delete_single"
+msgstr "Vill du ta bort bilden '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+"Vill du ta bort den skrivskyddade filen?\n"
+"%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Minnet är fullt. Sparande avbröts."
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+"Minneskortet är skrivskyddat. \n"
+"Ändra plats där filen ska sparas."
+
+msgid "imag_ni_non_local_files"
+msgstr "Det gick inte att öppna icke-lokala filer"
+
+msgid "imag_ni_save_read_only_file"
+msgstr ""
+"Originalbildfilen är skrivskyddad. Den redigerade bilden måste sparas som en "
+"ny fil."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+"Status för filerna %d/%d är skrivskyddad.\n"
+"Det går bara att uppdatera taggarna för de andra filerna."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+"Vissa av de valda filerna är skrivskyddade eller har filformat som inte "
+"stöder redigering av metadata.\n"
+"Det går bara att uppdatera taggarna för filerna %d/%d."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+"Filformatet för filerna %d/%d stöder inte taggar.\n"
+"Det går bara att uppdatera taggarna för de andra filerna."
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+"Det gick inte att öppna.\n"
+"Filformatet stöds inte."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+"Det gick inte att spara i originalformatet.\n"
+"Ett alternativt format krävs."
+
+msgid "imag_nw_saving"
+msgstr "Sparar bilden %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Sparar taggar"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Beskär avatar"
+
+msgid "imag_ti_dates"
+msgstr "datum"
+
+msgid "imag_ti_details"
+msgstr "Information"
+
+msgid "imag_ti_details_favourite"
+msgstr "Favorit"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Justera ljusstyrka och kontrast"
+
+msgid "imag_ti_edit_crop"
+msgstr "Beskär bild"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Redigera geotaggar"
+
+msgid "imag_ti_edit_image"
+msgstr "Redigera bild"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Ta bort röda ögon genom att peka på dem"
+
+msgid "imag_ti_edit_resize"
+msgstr "Ändra storlek på bild"
+
+msgid "imag_ti_filter_date"
+msgstr "Filtrera efter datum"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Ange anpassat datumspann"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Välj datum"
+
+msgid "imag_ti_filter_folder"
+msgstr "Filtrera efter mapp"
+
+msgid "imag_ti_filter_tags"
+msgstr "Filtrera efter taggar"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Filtrera efter taggar - Favoriter"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Alla bilder"
+
+msgid "imag_ti_folder_camera"
+msgstr "Kamerans standardmapp"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Välj bilder"
+
+msgid "imag_ti_new_geotag"
+msgstr "Ny geotagg"
+
+msgid "imag_ti_rename"
+msgstr "Ändra namn på bilden"
+
+msgid "imag_ti_save_as"
+msgstr "Spara bild som %s"
+
+msgid "imag_ti_settings"
+msgstr "Inställningar"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Gruppera efter månad"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Visa indikatorer för metadata"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Bildspel"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Sortera"
+
+msgid "imag_ti_tags"
+msgstr "taggar"
+
+msgid "imag_ti_tags_edit"
+msgstr "Redigera taggar"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Redigera taggar - Favorit"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Redigera taggar - Favoriter"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Redigera taggar - Favoriter*"
+
+msgid "imag_ti_tags_new"
+msgstr "Ny tagg"

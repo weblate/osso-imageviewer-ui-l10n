@@ -1,0 +1,649 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "imag_ap_images"
+msgstr "Фото"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Яркость и контраст"
+
+msgid "imag_bd_clear"
+msgstr "Очистить"
+
+msgid "imag_bd_continue"
+msgstr "Продолжить"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Обрезать"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Обрезать под"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Настраиваемый диапазон дат"
+
+msgid "imag_bd_date_off"
+msgstr "Без фильтрации по дате"
+
+msgid "imag_bd_date_one_day"
+msgstr "Выбрать дату"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", рисунков: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "От"
+
+msgid "imag_bd_date_range_to"
+msgstr "До"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Тэги"
+
+msgid "imag_bd_discard"
+msgstr "Отменить"
+
+msgid "imag_bd_edit_tags"
+msgstr "Изменить тэги"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Перевернуть по горизонтали"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Перевернуть по вертикали"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Все изображения"
+
+msgid "imag_bd_folder_camera"
+msgstr "Папка камеры"
+
+msgid "imag_bd_folder_custom"
+msgstr "Пользовательская папка"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Город"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Регион"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Район"
+
+msgid "imag_bd_new_tag"
+msgstr "Создать"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Удаление красных глаз"
+
+msgid "imag_bd_resize"
+msgstr "Изменить размер"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Размер"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Измен. размер до"
+
+msgid "imag_bd_save_as"
+msgstr "Сохранить как"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Быстро"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Средне"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Медленно"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "По имени"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "По дате"
+
+msgid "imag_bd_share"
+msgstr "Совместный доступ"
+
+msgid "imag_bd_show_on_map"
+msgstr "Показать на карте"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Геотэги"
+
+msgid "imag_fi_crop_free"
+msgstr "Произвольное соотношение"
+
+msgid "imag_fi_crop_original"
+msgstr "Оригинал"
+
+msgid "imag_fi_crop_screen"
+msgstr "По экрану"
+
+msgid "imag_fi_crop_square"
+msgstr "Квадрат"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "мм"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "сек."
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Диафрагма"
+
+msgid "imag_fi_details_camera"
+msgstr "Камера"
+
+msgid "imag_fi_details_common"
+msgstr "Общие"
+
+msgid "imag_fi_details_creator"
+msgstr "Автор"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Дата и время съемки"
+
+msgid "imag_fi_details_description"
+msgstr "Описание"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Размеры изображения"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d x %d пикселей"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Экспокоррекция"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Время экспозиции"
+
+msgid "imag_fi_details_flash"
+msgstr "Вспышка"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Автоматический режим"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Режим принуд. выкл."
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Режим принуд. вкл."
+
+msgid "imag_fi_details_flash_off"
+msgstr "Без вспышки"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Со вспышкой"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Подавление красных глаз"
+
+msgid "imag_fi_details_focallength"
+msgstr "Фокусное расстояние"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "Высота GPS"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d м"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "Широта GPS"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "Долгота GPS"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Качество JPEG"
+
+msgid "imag_fi_details_maker"
+msgstr "Производитель камеры"
+
+msgid "imag_fi_details_metadata"
+msgstr "Метаданные"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Средний"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Центровзвешенный"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Многоточечный"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Мульти-сегментный"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Частичный"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Точечный"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Режим замера"
+
+msgid "imag_fi_details_model"
+msgstr "Модель камеры"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Сведения о камере недоступны"
+
+msgid "imag_fi_details_no_common"
+msgstr "Общие сведения недоступны"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Метаданные не поддерживаются форматом файла"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Эскиз"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d x %d пикселей"
+
+msgid "imag_fi_details_title"
+msgstr "Заголовок"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Неизвестное значение"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Баланс белого"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Автоматически"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Вручную"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Яркость"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Контраст"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "Выс.:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "Шир.:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d рисунков"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 рисунок"
+
+msgid "imag_fi_geotags_city"
+msgstr "Город:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Регион:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Район:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Тип"
+
+msgid "imag_fi_save_changes"
+msgstr ""
+"Сохранить изменения?\n"
+"Команда Сохранить перезапишет исходный файл, команда Сохранить как сохранит "
+"изменения в новый файл, а команда Отменить отклонит все изменения."
+
+msgid "imag_fi_tags"
+msgstr "Тэги:"
+
+msgid "imag_ia_no_images"
+msgstr "(нет изображений)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Файл только для чтения. Изменение метаданных невозможно."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Формат файла не поддерживает изменение метаданных"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Файл только для чтения. Невозможно переименовать."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Выбранная папка только для чтения. Сохранение отменено."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Не удается обновить метаданные для %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Не удается обновить метаданные для выбранных файлов"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Не удается обновить метаданные для файлов (%d/%d)"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Файлы только для чтения. Изменение метаданных невозможно."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr ""
+"Выбраны файлы только для чтения, либо они имеют форматы, не поддерживающие "
+"изменение метаданных"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "Форматы выбранных файлов не поддерживают изменение метаданных"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Изображение более недоступно"
+
+msgid "imag_ib_invalid_value"
+msgstr "Недопустимое значение"
+
+msgid "imag_ib_loading"
+msgstr "Загрузка изображения %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Память заполнена. Операция отменена."
+
+msgid "imag_ib_no_details"
+msgstr "Данные недоступны"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Изображения недоступны"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Изображение не выбрано"
+
+msgid "imag_ib_not_available"
+msgstr "Недоступен"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Недостаточно памяти для выполнения выбранной операции"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Недостаточно памяти для вывода изображения"
+
+msgid "imag_ib_operation_failed"
+msgstr "Сбой операции."
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Значение ширины или высоты изображения должно быть не менее 1 пиксела"
+
+msgid "imag_ib_save_failed"
+msgstr "Не удается сохранить"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Слайд-шоу завершено"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Слайд-шоу началось"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Не удается удалить файл"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Не удается удалить выбранные файлы"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Не удается удалить выбранные файлы: %d"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Не удается показать изображение"
+
+msgid "imag_ib_zooming"
+msgstr "Изменение масштаба"
+
+msgid "imag_me_date_off"
+msgstr "Откл"
+
+msgid "imag_me_date_title"
+msgstr "Фильтровать по дате"
+
+msgid "imag_me_delete"
+msgstr "Удалить"
+
+msgid "imag_me_details"
+msgstr "Свойства"
+
+msgid "imag_me_edit_image"
+msgstr "Изменить изображение"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Избранное"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Откл"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Фильтровать по тэгам"
+
+msgid "imag_me_folder_all_images"
+msgstr "Все изображения"
+
+msgid "imag_me_folder_camera"
+msgstr "Папка камеры"
+
+msgid "imag_me_folder_title"
+msgstr "Фильтровать по папке"
+
+msgid "imag_me_mark_favourite"
+msgstr "Отметить как избранное"
+
+msgid "imag_me_multiple_delete"
+msgstr "Удалить изображения"
+
+msgid "imag_me_multiple_share"
+msgstr "Совм. доступ к изображ."
+
+msgid "imag_me_multiple_tags"
+msgstr "Изменить тэги изобр-й"
+
+msgid "imag_me_rename"
+msgstr "Переименовать"
+
+msgid "imag_me_save"
+msgstr "Сохранить"
+
+msgid "imag_me_save_as"
+msgstr "Сохранить как"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Установить как аватар"
+
+msgid "imag_me_settings"
+msgstr "Параметры"
+
+msgid "imag_me_share"
+msgstr "Совместный доступ"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Снять отметку избранного"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Сделать фоном"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Перезаписать исходный файл?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Удалить изображения (%d)?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr ""
+"Удалить изображения в количестве %d, включая изображения (%d), отмеченные "
+"только для чтения?"
+
+msgid "imag_nc_delete_single"
+msgstr "Удалить изображение '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+"Удалить файл только для чтения?\n"
+"%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Память заполнена. Сохранение отменено."
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+"Карта памяти доступна только для чтения.\n"
+"Измените место сохранения."
+
+msgid "imag_ni_non_local_files"
+msgstr "Не удается открыть нелокальные файлы."
+
+msgid "imag_ni_save_read_only_file"
+msgstr ""
+"Файл исходного изображения доступен только для чтения. Измененное "
+"изображение следует сохранить под новым именем."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+"Файлов только для чтения: %d/%d.\n"
+"Удалось обновить тэги других файлов."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+"Некоторые из выбранных файлов доступны только для чтения, либо они имеют "
+"форматы, не поддерживающие изменение метаданных.\n"
+"Файлов, тэги которых удалось обновить: %d/%d."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+"Формат некоторых файлов (%d/%d) не поддерживает тэги.\n"
+"Удалось обновить тэги других файлов."
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+"Не удается открыть.\n"
+"Формат файла не поддерживается."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+"Не удается сохранить в исходном формате.\n"
+"Нужно выбрать другой формат."
+
+msgid "imag_nw_saving"
+msgstr "Сохранение изображения %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Сохранение тэгов"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Вырезать аватар"
+
+msgid "imag_ti_dates"
+msgstr "даты"
+
+msgid "imag_ti_details"
+msgstr "Свойства"
+
+msgid "imag_ti_details_favourite"
+msgstr "Избранное"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Настроить яркость и контраст"
+
+msgid "imag_ti_edit_crop"
+msgstr "Обрезать изображение"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Изменить геотэги"
+
+msgid "imag_ti_edit_image"
+msgstr "Изменить изображение"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Коснитесь глаз для устран. эффекта"
+
+msgid "imag_ti_edit_resize"
+msgstr "Изменить размер изображения"
+
+msgid "imag_ti_filter_date"
+msgstr "Фильтровать по дате"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Задать настраиваемый диапазон дат"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Выбрать дату"
+
+msgid "imag_ti_filter_folder"
+msgstr "Фильтровать по папке"
+
+msgid "imag_ti_filter_tags"
+msgstr "Фильтровать по тэгам"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Фильтровать по тэгам - Избранное"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Все изображения"
+
+msgid "imag_ti_folder_camera"
+msgstr "Папка камеры"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Выберите изображения"
+
+msgid "imag_ti_new_geotag"
+msgstr "Новый геотэг"
+
+msgid "imag_ti_rename"
+msgstr "Переименовать изображение"
+
+msgid "imag_ti_save_as"
+msgstr "Сохранить как %s"
+
+msgid "imag_ti_settings"
+msgstr "Параметры"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Сгруппировать по месяцу"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Отображать метки метаданных"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Слайд-шоу"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Сортировать"
+
+msgid "imag_ti_tags"
+msgstr "тэги"
+
+msgid "imag_ti_tags_edit"
+msgstr "Изменить тэги"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Изменить тэги - Избранное"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Изменить тэги - Избранное"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Изменить тэги - Избранное*"
+
+msgid "imag_ti_tags_new"
+msgstr "Новый тэг"

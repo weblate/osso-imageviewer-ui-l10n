@@ -1,0 +1,648 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20100208121228\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator:\n"
+"Language-Team: fi_FI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "imag_ap_images"
+msgstr "Kuvat"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Kirkkaus ja kontrasti"
+
+msgid "imag_bd_clear"
+msgstr "Tyhjennä"
+
+msgid "imag_bd_continue"
+msgstr "Jatka"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Rajaus"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Rajaussuhde"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Omat päivämäärät"
+
+msgid "imag_bd_date_off"
+msgstr "Ei päivämäärän suodatusta"
+
+msgid "imag_bd_date_one_day"
+msgstr "Valitse päivä"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", kuvat: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "Alkaa:"
+
+msgid "imag_bd_date_range_to"
+msgstr "Päättyy:"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Tagit"
+
+msgid "imag_bd_discard"
+msgstr "Hylkää"
+
+msgid "imag_bd_edit_tags"
+msgstr "Muokkaa tageja"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Käännä vaakasuoraan"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Käännä pystysuoraan"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Kaikki kuvat"
+
+msgid "imag_bd_folder_camera"
+msgstr "Kameran oletuskansio"
+
+msgid "imag_bd_folder_custom"
+msgstr "Oma kansio"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Kaupunki"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Alue"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Alue"
+
+msgid "imag_bd_new_tag"
+msgstr "Uusi"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Punasilmäisyyden poisto"
+
+msgid "imag_bd_resize"
+msgstr "Muuta kokoa"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Muuta kokoa"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Muuta kokoon"
+
+msgid "imag_bd_save_as"
+msgstr "Tall. nimellä"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Nopea"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Keskitaso"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Hidas"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Nimen mukaan"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Päivämäärän mukaan"
+
+msgid "imag_bd_share"
+msgstr "Jaa"
+
+msgid "imag_bd_show_on_map"
+msgstr "Näytä kartalla"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Geotagit"
+
+msgid "imag_fi_crop_free"
+msgstr "Vapaa suhde"
+
+msgid "imag_fi_crop_original"
+msgstr "Alkuperäinen"
+
+msgid "imag_fi_crop_screen"
+msgstr "Näytön suhde"
+
+msgid "imag_fi_crop_square"
+msgstr "Neliö"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "s"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Aukko"
+
+msgid "imag_fi_details_camera"
+msgstr "Kamera"
+
+msgid "imag_fi_details_common"
+msgstr "Yleinen"
+
+msgid "imag_fi_details_creator"
+msgstr "Tekijä"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Kuvan ottopäivä ja -aika"
+
+msgid "imag_fi_details_description"
+msgstr "Kuvaus"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Mitat"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d pikseliä"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Valotuksen painotus"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Valotusaika"
+
+msgid "imag_fi_details_flash"
+msgstr "Salama"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Automaattinen"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Pakotettu salama ei käytössä"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Pakotettu salama käytössä"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Ei laukaistu"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Laukaistu"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Punasilmäisyyden vähennys"
+
+msgid "imag_fi_details_focallength"
+msgstr "Polttoväli"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS-korkeus"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS-leveysaste"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS-pituusaste"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "JPEG-laatu"
+
+msgid "imag_fi_details_maker"
+msgstr "Kameran valmistaja"
+
+msgid "imag_fi_details_metadata"
+msgstr "Metatiedot"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Keskiarvo"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Keskipainotettu keskiarvo"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Useita pisteitä"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Useita osia"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Osittainen"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Spot"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Valon mittaustapa"
+
+msgid "imag_fi_details_model"
+msgstr "Kameran malli"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Kameran tiedot eivät ole käytettävissä"
+
+msgid "imag_fi_details_no_common"
+msgstr "Yleiset tiedot eivät ole käytettävissä"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Tiedostomuoto ei tue metatietoja"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Pikkukuva"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d pikseliä"
+
+msgid "imag_fi_details_title"
+msgstr "Otsikko"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Tuntematon arvo"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Valkotasapaino"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Automaattinen"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Manuaalinen"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Kirkkaus"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Kontrasti"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "K:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "L:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d kuvaa"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 kuva"
+
+msgid "imag_fi_geotags_city"
+msgstr "Kaupunki:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Alue:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Alue:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Tyyppi"
+
+msgid "imag_fi_save_changes"
+msgstr ""
+"Tallennetaanko muutokset?\n"
+"Tallenna korvaa alkuperäisen tiedoston, Tallenna nimellä tallentaa muutokset "
+"uuteen tiedostoon ja Hylkää ohittaa kaikki muutokset."
+
+msgid "imag_fi_tags"
+msgstr "Tagit:"
+
+msgid "imag_ia_no_images"
+msgstr "(ei kuvia)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Tiedostoon on vain lukuoikeudet. Metatietoja ei voi muokata."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Tiedostomuoto ei tue metatietojen muokkausta"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Tiedostoon on vain lukuoikeudet. Ei voi nimetä uudelleen."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Valittuun sijaintiin on vain lukuoikeudet. Tallennus peruutetaan."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Tiedoston %s metatietoja ei voitu päivittää"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Valittujen tiedostojen metatietoja ei voi päivittää"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "%d/%d tiedoston metatietoja ei voi päivittää"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Tiedostoihin on vain lukuoikeudet. Metatietoja ei voi muokata."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr ""
+"Valittuihin tiedostoihin on vain lukuoikeudet tai niiden tiedostomuodot "
+"eivät tue metatietojen muokkausta"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr ""
+"Valittujen tiedostojen tiedostomuodot eivät tue metatietojen muokkausta"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Kuva ei ole enää käytettävissä"
+
+msgid "imag_ib_invalid_value"
+msgstr "Virheellinen arvo"
+
+msgid "imag_ib_loading"
+msgstr "Ladataan kuvaa %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Muisti täynnä. Toiminto peruutetaan."
+
+msgid "imag_ib_no_details"
+msgstr "Ei tietoja käytettävissä"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Kuvat eivät ole enää käytettävissä"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Ei valittuja kuvia"
+
+msgid "imag_ib_not_available"
+msgstr "Ei käytettävissä"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Muisti ei riitä valitun toiminnon suorittamiseen"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Muisti ei riitä kuvan näyttämiseen"
+
+msgid "imag_ib_operation_failed"
+msgstr "Toiminto ei onnistunut"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Kuvan leveyden tai korkeuden on oltava vähintään 1 pikseli"
+
+msgid "imag_ib_save_failed"
+msgstr "Tallennus epäonnistui"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Diaesitys päättynyt"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Diaesitys aloitettu"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Tiedostoa ei voi poistaa"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Valittuja tiedostoja ei voi poistaa"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "%d valittua tiedostoa ei voi poistaa"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Kuvaa ei voi näyttää"
+
+msgid "imag_ib_zooming"
+msgstr "Muutetaan kokoa"
+
+msgid "imag_me_date_off"
+msgstr "Ei käytössä"
+
+msgid "imag_me_date_title"
+msgstr "Suodata pvm:n mukaan"
+
+msgid "imag_me_delete"
+msgstr "Poista"
+
+msgid "imag_me_details"
+msgstr "Tiedot"
+
+msgid "imag_me_edit_image"
+msgstr "Muokkaa kuvaa"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Suosikit"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Ei käytössä"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Suodata tagien mukaan"
+
+msgid "imag_me_folder_all_images"
+msgstr "Kaikki kuvat"
+
+msgid "imag_me_folder_camera"
+msgstr "Kameran oletuskansio"
+
+msgid "imag_me_folder_title"
+msgstr "Suodata kansion mukaan"
+
+msgid "imag_me_mark_favourite"
+msgstr "Merkitse suosikiksi"
+
+msgid "imag_me_multiple_delete"
+msgstr "Poista kuvia"
+
+msgid "imag_me_multiple_share"
+msgstr "Jaa kuvia"
+
+msgid "imag_me_multiple_tags"
+msgstr "Muokkaa kuvien tageja"
+
+msgid "imag_me_rename"
+msgstr "Nimeä uudelleen"
+
+msgid "imag_me_save"
+msgstr "Tallenna"
+
+msgid "imag_me_save_as"
+msgstr "Tallenna nimellä"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Määritä avatariksi"
+
+msgid "imag_me_settings"
+msgstr "Asetukset"
+
+msgid "imag_me_share"
+msgstr "Jaa"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Poista suosikkimerkintä"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Määritä taustakuvaksi"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Korvataanko alkuperäinen tiedosto?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Poista %d kuvaa?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr ""
+"Poistetaanko %d kuvaa, myös %d, joka on merkitty vain luku -tiedostoksi?"
+
+msgid "imag_nc_delete_single"
+msgstr "Poistetaanko kuva %s?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+"Poistetaanko vain luku -tiedosto?\n"
+"%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Muisti täynnä. Tallennus peruutetaan."
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+"Muistikorttiin on vain lukuoikeudet.\n"
+"Muuta tallennuspaikkaa."
+
+msgid "imag_ni_non_local_files"
+msgstr "Ei-paikallisia tiedostoja ei voi avata"
+
+msgid "imag_ni_save_read_only_file"
+msgstr ""
+"Alkuperäiseen kuvatiedostoon on vain lukuoikeudet. Muokattu kuva on "
+"tallennettava uutena kuvana."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+"%d/%d tiedostoon on vain lukuoikeudet.\n"
+"Vain muiden tiedostojen tagit voi päivittää."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+"Joihinkin valituista tiedostoista on vain lukuoikeudet tai niiden "
+"tiedostomuodot eivät tue metatietojen muokkausta.\n"
+"Vain %d/%d tiedoston tageja voi muokata."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+"%d/%d tiedoston tiedostomuodot eivät tue tageja.\n"
+"Vain muiden tiedostojen tagit voi päivittää."
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+"Ei voi avata.\n"
+"Tiedostomuotoa ei tueta."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+"Ei voi tallentaa alkuperäisessä muodossa.\n"
+"Tarvitaan jokin muu muoto."
+
+msgid "imag_nw_saving"
+msgstr "Tallennetaan kuva %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Tallennetaan tageja"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Rajaa avatar"
+
+msgid "imag_ti_dates"
+msgstr "päivämäärät"
+
+msgid "imag_ti_details"
+msgstr "Tiedot"
+
+msgid "imag_ti_details_favourite"
+msgstr "Suosikki"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Säädä kirkkautta ja kontrastia"
+
+msgid "imag_ti_edit_crop"
+msgstr "Rajaa kuva"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Muokkaa geotageja"
+
+msgid "imag_ti_edit_image"
+msgstr "Muokkaa kuvaa"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Poista punasilmäisyys koskemalla silmiä"
+
+msgid "imag_ti_edit_resize"
+msgstr "Muuta kuvan kokoa"
+
+msgid "imag_ti_filter_date"
+msgstr "Suodata päivän mukaan"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Anna omat päivämäärät"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Valitse päivä"
+
+msgid "imag_ti_filter_folder"
+msgstr "Suodata kansion mukaan"
+
+msgid "imag_ti_filter_tags"
+msgstr "Suodata tagien mukaan"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Suodata tagien mukaan - Suosikit"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Kaikki kuvat"
+
+msgid "imag_ti_folder_camera"
+msgstr "Kameran oletuskansio"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Valitse kuvat"
+
+msgid "imag_ti_new_geotag"
+msgstr "Uusi geotagi"
+
+msgid "imag_ti_rename"
+msgstr "Nimeä kuva uudelleen"
+
+msgid "imag_ti_save_as"
+msgstr "Tallenna kuva muodossa %s"
+
+msgid "imag_ti_settings"
+msgstr "Asetukset"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Ryhmittele kuukauden mukaan"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Näytä metatietojen ilmaisimet"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Diaesitys"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Järjestä"
+
+msgid "imag_ti_tags"
+msgstr "tagit"
+
+msgid "imag_ti_tags_edit"
+msgstr "Muokkaa tageja"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Muokkaa tageja - Suosikki"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Muokkaa tageja - Suosikit"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Muokkaa tageja - Suosikit* |"
+
+msgid "imag_ti_tags_new"
+msgstr "Uusi tagi"
