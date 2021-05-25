@@ -1,0 +1,632 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20091013120337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-02-21 23:38+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "imag_ap_images"
+msgstr "Fényképek"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Fényerő és Kontraszt"
+
+msgid "imag_bd_clear"
+msgstr "Törlés"
+
+msgid "imag_bd_continue"
+msgstr "Folytatás"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Kivágás"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Kivágás aránya"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Egyéni dátum tartomány"
+
+msgid "imag_bd_date_off"
+msgstr "Nincs dátum szűrés"
+
+msgid "imag_bd_date_one_day"
+msgstr "Válassz dátumot"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", kép: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "Ettől"
+
+msgid "imag_bd_date_range_to"
+msgstr "Eddig"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Címkék"
+
+msgid "imag_bd_discard"
+msgstr "Eldob"
+
+msgid "imag_bd_edit_tags"
+msgstr "Címkék szerkesztése"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Horizontális forgatás"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Vertikális forgatás"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Minden kép"
+
+msgid "imag_bd_folder_camera"
+msgstr "Kamera alapértelmezett könyvtára"
+
+msgid "imag_bd_folder_custom"
+msgstr "Egyéni könyvtár"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Város"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Ország"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Körzet"
+
+msgid "imag_bd_new_tag"
+msgstr "Új"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Vörös szem eltávolító"
+
+msgid "imag_bd_resize"
+msgstr "Átméretez"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Átméretez"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Átméretez erre"
+
+msgid "imag_bd_save_as"
+msgstr "Mentés másként"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Gyors"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Közepes"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Lassú"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Név szerint"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Dátum szerint"
+
+msgid "imag_bd_share"
+msgstr "Megoszt"
+
+msgid "imag_bd_show_on_map"
+msgstr "Térképen megmutat"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Geo címke"
+
+msgid "imag_fi_crop_free"
+msgstr "Szabadkézi arány"
+
+msgid "imag_fi_crop_original"
+msgstr "Eredeti"
+
+msgid "imag_fi_crop_screen"
+msgstr "Képernyő arány"
+
+msgid "imag_fi_crop_square"
+msgstr "Téglalap"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "mp"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Rekesz"
+
+msgid "imag_fi_details_camera"
+msgstr "Kamera"
+
+msgid "imag_fi_details_common"
+msgstr "Általános"
+
+msgid "imag_fi_details_creator"
+msgstr "Szerző"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Készítés dátuma és ideje:"
+
+msgid "imag_fi_details_description"
+msgstr "Leírás"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Méretek"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d képpont"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Expozició kompenzáció"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Expozició idő"
+
+msgid "imag_fi_details_flash"
+msgstr "Vaku"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Automata mód"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Mindig ki"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Mindig be"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Ki"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Be"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Vörös szem csökkentés"
+
+msgid "imag_fi_details_focallength"
+msgstr "Gyújtótávolság"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS magasság"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%f p"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS földrajzi szélesség"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS földrajzi hosszúság"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Jpeg minőség"
+
+msgid "imag_fi_details_maker"
+msgstr "Kamera gyártó"
+
+msgid "imag_fi_details_metadata"
+msgstr "Meta adat"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Átlagos"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Közép súlyozott átlag"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Multi-spot"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Multi-segment"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Részleges"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Pont"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Metering mód"
+
+msgid "imag_fi_details_model"
+msgstr "Kamera modell"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Nincs elérhető kamera információ"
+
+msgid "imag_fi_details_no_common"
+msgstr "Nincs elérhető általános információ"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Meta adat információ nem támogatott ebben a fájl formátumban"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Mozaik"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d képpont"
+
+msgid "imag_fi_details_title"
+msgstr "Cím"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Ismeretlen érték"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Fehéregyensúly"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Automata"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Kézi"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Fényerő"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Kontraszt"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "M:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "SZ:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d kép"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 kép"
+
+msgid "imag_fi_geotags_city"
+msgstr "Város:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Ország:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Körzet:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Típus"
+
+msgid "imag_fi_save_changes"
+msgstr ""
+"Mented a változásokat?\n"
+"A 'Mentés' felül írja az eredeti fájlt, a 'Mentés másként' új fájlba menti a változásokat, az 'Eldobás' elvet minden vátozást."
+
+msgid "imag_fi_tags"
+msgstr "Címkék:"
+
+msgid "imag_ia_no_images"
+msgstr "(nincs kép)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "A fájl csak olvasható. A meta adat nem szerkeszthető."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Fájl formátum nem támogatot meta adat szerkesztésre"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "A fájl csak olvasható. Átnevezése nem lehetséges."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Választott mentési cél csak olvasható. Mentés megszakítva."
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "A fájlok csak olvashatóak. A meta adatok nem szerkeszthetőek."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr "A kiválasztott fájlok vagy csak olvashatóak vagy olyan fájl formátumban vannak ami nem támogatja a meta adat szerkesztését."
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "A kiválasztott fájlok formátuma nem támogatja a meta adat szerkesztését."
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "A kép nem elérhető többé"
+
+msgid "imag_ib_invalid_value"
+msgstr "Érvénytelen érték"
+
+msgid "imag_ib_loading"
+msgstr "Kép betöltése %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Memória megtelt. Művelet megszakítva."
+
+msgid "imag_ib_no_details"
+msgstr "Nincsenek elérhető részletek"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "A képek nem elérhetőek többé"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Nincs kép kiválasztva"
+
+msgid "imag_ib_not_available"
+msgstr "Nem elérhető"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Nincs elég memória a művelet végrehajtásához"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Nincs elég memória a kép megjelenítésehez"
+
+msgid "imag_ib_operation_failed"
+msgstr "Művelet megszakadt"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "A kép szélességének vagy magasságának legalább 1 kép pontnak kell lennie"
+
+msgid "imag_ib_save_failed"
+msgstr "Mentés sikertelen"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Diavetítés vége"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Diavetítés elindult"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "A fájl nem törölhető"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "A kiválasztott fájlok nem törölhetőek"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Nem lehet törölni %d kiválasztott fájlt"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "A kép nem megjeleníthető"
+
+msgid "imag_ib_zooming"
+msgstr "Közelítés"
+
+msgid "imag_me_date_off"
+msgstr "Ki"
+
+msgid "imag_me_date_title"
+msgstr "Szűrés dátumra"
+
+msgid "imag_me_delete"
+msgstr "Törlés"
+
+msgid "imag_me_details"
+msgstr "Részletek"
+
+msgid "imag_me_edit_image"
+msgstr "Kép szerkesztés"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Kedvencek"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Ki"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Szűrés cimkék szerint"
+
+msgid "imag_me_folder_all_images"
+msgstr "Minden kép"
+
+msgid "imag_me_folder_camera"
+msgstr "Kamera alapértelmezett könyvtára"
+
+msgid "imag_me_folder_title"
+msgstr "Szűrés könyvtár szerint"
+
+msgid "imag_me_mark_favourite"
+msgstr "Megjelölés mint kedvenc"
+
+msgid "imag_me_multiple_delete"
+msgstr "Képek törlése"
+
+msgid "imag_me_multiple_share"
+msgstr "Képek megosztása"
+
+msgid "imag_me_multiple_tags"
+msgstr "Képcímkék szerkesztése"
+
+msgid "imag_me_rename"
+msgstr "Átnevezés"
+
+msgid "imag_me_save"
+msgstr "Mentés"
+
+msgid "imag_me_save_as"
+msgstr "Mentés mésként"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Beállítás avatarként"
+
+msgid "imag_me_settings"
+msgstr "Beállítások"
+
+msgid "imag_me_share"
+msgstr "Megosztás"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Eltávolítás a kedvencekből"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Beállítás háttérképként"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Felülírod az eredeti fájlt?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Törlöd ez a(z) %d képet?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "Törlöd ezt a(z) %d képet, beleértve azt a(z) %d, amelyek csak olvashatóak?"
+
+msgid "imag_nc_delete_single"
+msgstr "Törlöd ezt a képet: '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+"Törlöd ezt a csak olvasható fájlt?\n"
+"%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Memória megtelt. Mentés megszakítva."
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+"Memóriakártya csak olvasható.\n"
+"Válts mentési célt."
+
+msgid "imag_ni_non_local_files"
+msgstr "Nem lehet megnyitni nem helyi fájlokat"
+
+msgid "imag_ni_save_read_only_file"
+msgstr "Az eredeti kép csak olvasható. A szerkesztett képet új fájlba kell menteni."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+"Státusza%d/%d fájlnak: Csak olvasható.\n"
+"Címke módosítása csak a többi fájlon lehetséges."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+"Néhány kiválasztott fájl csak olvasható vagy olyan fájl formátumban van ami nem támogatja a meta adatok szerkesztését.\n"
+"Címke módosítás csak %d/%d fájlon lehetséges."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+"%d/%d formátuma nem támogat címkéket.\n"
+"Címke módosítása csak a többi fájlon lehetséges."
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Fájl formátum nem támogatott."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+"Nem lehet eredeti formátumba menteni.\n"
+"Alternatív formátum szükséges."
+
+msgid "imag_nw_saving"
+msgstr "Kép mentése %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Címkék mentése"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Avatar kivágás"
+
+msgid "imag_ti_dates"
+msgstr "Dátumok"
+
+msgid "imag_ti_details"
+msgstr "Részletek"
+
+msgid "imag_ti_details_favourite"
+msgstr "Kedvenc"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Fényerő és Kontraszt beállítása"
+
+msgid "imag_ti_edit_crop"
+msgstr "Kép kivágása"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Geo címke szerkesztése"
+
+msgid "imag_ti_edit_image"
+msgstr "Kép szerkesztése"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Vörös szem érintéssel való eltávolítása"
+
+msgid "imag_ti_edit_resize"
+msgstr "Kép átméretezése"
+
+msgid "imag_ti_filter_date"
+msgstr "Szűrés dátum szerint"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Egyéni dátum tartomány megadása"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Dátum választása"
+
+msgid "imag_ti_filter_folder"
+msgstr "Szűrés könyvtár szerint"
+
+msgid "imag_ti_filter_tags"
+msgstr "Szűrés címkékre"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Szűrés címkékre - Kedvencek"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Minden kép"
+
+msgid "imag_ti_folder_camera"
+msgstr "Kamera alapértelmezett könyvtára"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Válassz képet"
+
+msgid "imag_ti_new_geotag"
+msgstr "Új geo címke"
+
+msgid "imag_ti_rename"
+msgstr "Kép átnevezése"
+
+msgid "imag_ti_save_as"
+msgstr "Kép mentése, mint %s"
+
+msgid "imag_ti_settings"
+msgstr "Beállítások"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Rendezés hónap szerint"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Meta adat mutatók kijelzése"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Bemutató"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Csoportosítás"
+
+msgid "imag_ti_tags"
+msgstr "Címkék"
+
+msgid "imag_ti_tags_edit"
+msgstr "Címkék szerkesztése"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Címkék szerkesztése - Kedvencek"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Címke szerkesztés - Kedvencek"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Címke szerkesztés - Kedvencek*"
+
+msgid "imag_ti_tags_new"
+msgstr "Új címke"
+
