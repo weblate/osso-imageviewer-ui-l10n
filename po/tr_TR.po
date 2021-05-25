@@ -1,0 +1,643 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20091013120337\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.06.29 14:11+0300\n"
+"PO-Revision-Date: 2010-05-29 21:48+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "imag_ap_images"
+msgstr "Resimler"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Parlaklık ve karşıtlık"
+
+msgid "imag_bd_clear"
+msgstr "Temizle"
+
+msgid "imag_bd_continue"
+msgstr "Devam et"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Kırp"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Kırpma oranı"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Özel tarih aralığı"
+
+msgid "imag_bd_date_off"
+msgstr "Tarih filtrelemesi yok"
+
+msgid "imag_bd_date_one_day"
+msgstr "Tarih seçin"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", resimler: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "Başlangıç"
+
+msgid "imag_bd_date_range_to"
+msgstr "Bitiş"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Etiketler"
+
+msgid "imag_bd_discard"
+msgstr "Vazgeç"
+
+msgid "imag_bd_edit_tags"
+msgstr "Etiketleri düzenle"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Yatay çevir"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Dikey çevir"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Tüm resimler"
+
+msgid "imag_bd_folder_camera"
+msgstr "Kamera varsayılan klasörü"
+
+msgid "imag_bd_folder_custom"
+msgstr "Özel klasör"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Şehir"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Ülke"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Mahalle"
+
+msgid "imag_bd_new_tag"
+msgstr "Yeni"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Kırmızı göz azaltma"
+
+msgid "imag_bd_resize"
+msgstr "Boyutlandır"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Boyutlandır"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Boyutlandır"
+
+msgid "imag_bd_save_as"
+msgstr "Farklı kaydet"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Hızlı"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Orta"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Yavaş"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Ada göre"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Tarihe göre"
+
+msgid "imag_bd_share"
+msgstr "Paylaş"
+
+msgid "imag_bd_show_on_map"
+msgstr "Haritada göster"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Geoetiketler"
+
+msgid "imag_fi_crop_free"
+msgstr "Serbest oran"
+
+msgid "imag_fi_crop_original"
+msgstr "Orijinal"
+
+msgid "imag_fi_crop_screen"
+msgstr "Ekran oranı"
+
+msgid "imag_fi_crop_square"
+msgstr "Kare"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "sn"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Açıklık"
+
+msgid "imag_fi_details_camera"
+msgstr "Kamera"
+
+msgid "imag_fi_details_common"
+msgstr "Genel"
+
+msgid "imag_fi_details_creator"
+msgstr "Oluşturan"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Çekildiği tarih"
+
+msgid "imag_fi_details_description"
+msgstr "Açıklama"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Boyutlar"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d piksel"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Pozlama telafisi"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Pozlama süresi"
+
+msgid "imag_fi_details_flash"
+msgstr "Flaş"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Otomatik mod"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Daima kapalı mod"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Daima açık mod"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Ateşlenmedi"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Ateşlendi"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Kırmızı göz azaltma"
+
+msgid "imag_fi_details_focallength"
+msgstr "Odak uzaklığı"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS rakımı"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS enlemi"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS boylamı"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Jpeg kalitesi"
+
+msgid "imag_fi_details_maker"
+msgstr "Kamera üretici"
+
+msgid "imag_fi_details_metadata"
+msgstr "Üstveri"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Ortalama"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Merkez ağırlıklı"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Çoklu-spot"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Çoklu-segment"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Kısmen"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Spot"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Ölçüm modu"
+
+msgid "imag_fi_details_model"
+msgstr "Kamera model"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Kamera bilgisi mevcut değil"
+
+msgid "imag_fi_details_no_common"
+msgstr "Genel bilgi mevcut değil"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Dosya formatında üstveri bilgisi desteklenmiyor"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Önizleme"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d piksel"
+
+msgid "imag_fi_details_title"
+msgstr "Başlık"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Bilinmeyen değer"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Beyaz dengesi"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Oto"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Elle"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Parlaklık"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Karşıtlık"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "U:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "G:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d resim"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 resim"
+
+msgid "imag_fi_geotags_city"
+msgstr "Şehir:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Ülke:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Mahalle:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Tür"
+
+msgid "imag_fi_save_changes"
+msgstr ""
+"Değişiklikleri kaydet?\n"
+"'Kaydet' orijinal verinin üzerine yazacak, 'Farklı kaydet' yeni bir dosyaya yazacak ve 'Vazgeç' tüm değişiklikleri geri alacaktır."
+
+msgid "imag_fi_tags"
+msgstr "Etiketler:"
+
+msgid "imag_ia_no_images"
+msgstr "(resim yok)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Dosya salt-okunur. Üstveri düzenlenemiyor."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Dosya biçimi üstveri düzenlemesini desteklemiyor"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Dosya salt-okunur. Adlandırılamıyor."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Seçilen konum salt-okunur. Kaydetme iptal edildi."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "%s için üstveri güncellenemiyor"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Seçilen dosyaların üstverileri güncellenemiyor"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "%d/%d dosyanın üstverileri güncellenemiyor"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Dosyalar salt-okunur. Üstveri düzenlenemiyor."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr "Seçilen dosyalar ya salt-okunur ya da üstveri düzenlemesi desteklemeyen dosya biçimleri var"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr ""
+"Seçilen dosyaların dosya biçimleri üstveri düzenlemesi "
+"desteklemiyor"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Resim artık mevcut değil"
+
+msgid "imag_ib_invalid_value"
+msgstr "Geçersiz değer"
+
+msgid "imag_ib_loading"
+msgstr "Resim yükleniyor %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Hafıza dolu. İşlem iptal edildi."
+
+msgid "imag_ib_no_details"
+msgstr "Detay mevcut değil"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Resimler artık mevcut değil"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Hiç resim seçilmedi"
+
+msgid "imag_ib_not_available"
+msgstr "Mevcut değil"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Seçilen işlemi yapabilecek kadar bellek yok"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Resmi gösterecek kadar bellek yok"
+
+msgid "imag_ib_operation_failed"
+msgstr "İşlem başarısız"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Resim genişliği veya yüksekliği en az 1 piksel olmalı"
+
+msgid "imag_ib_save_failed"
+msgstr "Kaydetme başarısız"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Slaytşov bitti"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Slaytşov başladı"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Dosya silinemiyor"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Seçilen dosyalar silinemiyor"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Seçile dosyaların %d kadarı silinemiyor"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Resim gösterilemiyor"
+
+msgid "imag_ib_zooming"
+msgstr "Yakınlaştırılıyor"
+
+msgid "imag_me_date_off"
+msgstr "Kapalı"
+
+msgid "imag_me_date_title"
+msgstr "Tarihe göre filtrele"
+
+msgid "imag_me_delete"
+msgstr "Sil"
+
+msgid "imag_me_details"
+msgstr "Detaylar"
+
+msgid "imag_me_edit_image"
+msgstr "Resmi düzenle"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Favoriler"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Kapalı"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Etikete göre filtrele"
+
+msgid "imag_me_folder_all_images"
+msgstr "Tüm resimler"
+
+msgid "imag_me_folder_camera"
+msgstr "Kamera varsayılan klasörü"
+
+msgid "imag_me_folder_title"
+msgstr "Klasöre göre filtrele"
+
+msgid "imag_me_mark_favourite"
+msgstr "Favori olarak işaretle"
+
+msgid "imag_me_multiple_delete"
+msgstr "Resimleri sil"
+
+msgid "imag_me_multiple_share"
+msgstr "Resimleri paylaş"
+
+msgid "imag_me_multiple_tags"
+msgstr "Resimlerin etiketini düzenle"
+
+msgid "imag_me_rename"
+msgstr "Adlandır"
+
+msgid "imag_me_save"
+msgstr "Kaydet"
+
+msgid "imag_me_save_as"
+msgstr "Farklı kaydet"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Avatar yap"
+
+msgid "imag_me_settings"
+msgstr "Ayarlar"
+
+msgid "imag_me_share"
+msgstr "Paylaş"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Favori işaretini kaldır"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Arkaplan resmi yap"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Orijinal dosyanın üzerine yaz?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "%d resmi sil?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "%d resmi, %d salt-okunur dahil olmak üzere sil?"
+
+msgid "imag_nc_delete_single"
+msgstr "Resmi sil '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+"Salt-okunur dosyayı sil?\n"
+"%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Hafıza dolu. Kaydedilmeyecek."
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+"Hafıza kartı salt-okunur.\n"
+"Kaydetme konumunu değiştirin."
+
+msgid "imag_ni_non_local_files"
+msgstr "Yerel olmayan dosyalar açılamıyor"
+
+msgid "imag_ni_save_read_only_file"
+msgstr ""
+"Orijinal görüntü dosyası salt-okunur. Düzenlenen görüntü mutlaka yeni dosya olarak kaydedilmeli."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+"%d/%d dosyanın durumu salt-okunur.\n"
+"Sadece diğer dosyaların etiketleri güncellenebilir."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+"Seçilen bazı dosyalar salt-okunur veya üstveri düzenlemesi desteklemeyen dosya biçimlerine sahip.\n"
+"Sadece %d/%d dosyanın etiketleri güncellenebilir."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+"%d/%d dosyanın biçimi etiketleri desteklemiyor.\n"
+"Sadece diğer dosyaların etiketleri güncellenebilir."
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+"Açılamıyor.\n"
+"Dosya biçimi desteklenmiyor."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+"Orijinal biçimde kaydedilemiyor.\n"
+"Alternatif biçim gerekli."
+
+msgid "imag_nw_saving"
+msgstr "Görüntü kaydediliyor %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Etiketler kaydediliyor"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Avatarı kırp"
+
+msgid "imag_ti_dates"
+msgstr "tarihler"
+
+msgid "imag_ti_details"
+msgstr "Detaylar"
+
+msgid "imag_ti_details_favourite"
+msgstr "Favori"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Parlaklık ve karşıtlığı ayarla"
+
+msgid "imag_ti_edit_crop"
+msgstr "Resmi kırp"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Geoetiketleri düzenle"
+
+msgid "imag_ti_edit_image"
+msgstr "Resmi düzenle"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Dokunarak kırmızı gözleri kaldırın"
+
+msgid "imag_ti_edit_resize"
+msgstr "Resmi boyutlandır"
+
+msgid "imag_ti_filter_date"
+msgstr "Tarihe göre filtrele"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Özel tarih aralığı verin"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Tarih seçin"
+
+msgid "imag_ti_filter_folder"
+msgstr "Klasöre göre filtrele"
+
+msgid "imag_ti_filter_tags"
+msgstr "Etikete göre filtrele"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Etikete göre filtrele - Favoriler"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Tüm resimler"
+
+msgid "imag_ti_folder_camera"
+msgstr "Kamera varsayılan klasörü"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Resimleri seç"
+
+msgid "imag_ti_new_geotag"
+msgstr "Yeni geoetiket"
+
+msgid "imag_ti_rename"
+msgstr "Resmi adlandır"
+
+msgid "imag_ti_save_as"
+msgstr "%s olarak resmi kaydet"
+
+msgid "imag_ti_settings"
+msgstr "Ayarlar"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Aya göre grupla"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Üstveri göstergelerini aç"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Slaytşov"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Sırala"
+
+msgid "imag_ti_tags"
+msgstr "etiketler"
+
+msgid "imag_ti_tags_edit"
+msgstr "Etiketleri düzenle"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Etiketleri düzenle - Favori"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Etiketleri düzenle - Favoriler"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Etiketleri düzenle - Favoriler*"
+
+msgid "imag_ti_tags_new"
+msgstr "Yeni etiket"
