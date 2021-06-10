@@ -1,0 +1,627 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "imag_ap_images"
+msgstr "ਫੋਟੋ"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "ਚਮਕ ਅਤੇ ਵੱਖਰੇਵਾਂ"
+
+msgid "imag_bd_clear"
+msgstr "ਸਾਫ਼ ਕਰੋ"
+
+msgid "imag_bd_continue"
+msgstr "ਜਾਰੀ ਰੱਖੋ"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "ਕਰੋਪ"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "ਕਰੋਪ ਰੇਸ਼ੋ"
+
+msgid "imag_bd_date_custom_range"
+msgstr "ਪਸੰਦੀਦਾ ਮਿਤੀ ਰੇਜ਼"
+
+msgid "imag_bd_date_off"
+msgstr "ਕੋਈ ਮਿਤੀ ਫਿਲਟਰ ਨਹੀਂ"
+
+msgid "imag_bd_date_one_day"
+msgstr "ਮਿਤੀ ਚੁਣੋ"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", ਤਸਵੀਰਾਂ: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "ਵਲੋਂ"
+
+msgid "imag_bd_date_range_to"
+msgstr "ਵੱਲ"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "ਟੈਗ"
+
+msgid "imag_bd_discard"
+msgstr "ਅਣਡਿੱਠਾ"
+
+msgid "imag_bd_edit_tags"
+msgstr "ਟੈਗ ਸੋਧੋ"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "ਹਰੀਜੱਟਲ ਝਟਕੋ"
+
+msgid "imag_bd_flip_vertical"
+msgstr "ਵਰਟੀਕਲ ਝਟਕੋ"
+
+msgid "imag_bd_folder_all_images"
+msgstr "ਸਭ ਚਿੱਤਰ"
+
+msgid "imag_bd_folder_camera"
+msgstr "ਕੈਮਰਾ ਡਿਫਾਲਟ ਫੋਲਡਰ"
+
+msgid "imag_bd_folder_custom"
+msgstr "ਪਸੰਦੀਦਾ ਫੋਲਡਰ"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "ਸ਼ਹਿਰ"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "ਦੇਸ਼"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "ਜ਼ਿਲ੍ਹਾ"
+
+msgid "imag_bd_new_tag"
+msgstr "ਨਵਾਂ"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "ਰੈੱਡ ਆਈ ਹਟਾਓ"
+
+msgid "imag_bd_resize"
+msgstr "ਮੁੜ-ਆਕਾਰ"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "ਮੁੜ-ਆਕਾਰ"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "ਮੁੜ-ਆਕਾਰ ਕਰੋ"
+
+msgid "imag_bd_save_as"
+msgstr "ਇੰਝ ਸੰਭਾਲੋ"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "ਤੇਜ਼"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "ਮੱਧਮ"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "ਹੌਲੀ"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "ਨਾਂ ਨਾਲ"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "ਮਿਤੀ"
+
+msgid "imag_bd_share"
+msgstr "ਸਾਂਝਾ ਕਰੋ"
+
+msgid "imag_bd_show_on_map"
+msgstr "ਨਕਸ਼ੇ ਉੱਤੇ ਵੇਖੋ"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "ਜੀਉਟੈਗ"
+
+msgid "imag_fi_crop_free"
+msgstr "ਮੁਕਤ ਰੇਸ਼ੋ"
+
+msgid "imag_fi_crop_original"
+msgstr "ਅਸਲੀ"
+
+msgid "imag_fi_crop_screen"
+msgstr "ਸਕਰੀਨ ਰੇਸ਼ੋ"
+
+msgid "imag_fi_crop_square"
+msgstr "ਚੌਰਸ"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "ਸਕਿੰਟ"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "ਅਪਰਚਰ"
+
+msgid "imag_fi_details_camera"
+msgstr "ਕੈਮਰਾ"
+
+msgid "imag_fi_details_common"
+msgstr "ਆਮ"
+
+msgid "imag_fi_details_creator"
+msgstr "ਕਰੀਏਟਰ"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "ਖਿੱਚਣ ਦੀ ਮਿਤੀ ਤੇ ਸਮਾਂ"
+
+msgid "imag_fi_details_description"
+msgstr "ਵੇਰਵਾ"
+
+msgid "imag_fi_details_dimensions"
+msgstr "ਮਾਪ"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d ਪਿਕਸਲ"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Exposure bias"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "ਐਕਸਪੋਜ਼ਰ ਸਮਾਂ"
+
+msgid "imag_fi_details_flash"
+msgstr "ਫਲੈਸ਼"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "ਆਟੋ ਮੋਡ"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Forced off mode"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Forced on mode"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Not fired"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Fired"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Red eye reduction"
+
+msgid "imag_fi_details_focallength"
+msgstr "ਫੋਕਲ ਲੰਬਾਈ"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS altitude"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS latitude"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS longitude"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Jpeg ਕੁਆਲਟੀ"
+
+msgid "imag_fi_details_maker"
+msgstr "ਕੈਮਰਾ ਮੇਕਰ"
+
+msgid "imag_fi_details_metadata"
+msgstr "ਮੇਟਾਡਾਟਾ"
+
+msgid "imag_fi_details_metering_average"
+msgstr "ਔਸਤ"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Center-weighted average"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "ਮਲਟੀ-ਸਪੌਟ"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "ਮਲਟੀ-ਸਿਗਮੈਂਟ"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "ਅਧੂਰਾ"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "ਸਪੌਟ"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "ਮੀਟਰ ਮੋਡ"
+
+msgid "imag_fi_details_model"
+msgstr "ਕੈਮਰਾ ਮਾਡਲ"
+
+msgid "imag_fi_details_no_camera"
+msgstr "ਕੋਈ ਕੈਮਰਾ ਜਾਣਕਾਰੀ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "imag_fi_details_no_common"
+msgstr "ਕੋਈ ਆਮ ਜਾਣਕਾਰੀ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "ਫਾਇਲ ਫਾਰਮੈਟ ਵਲੋਂ ਮੇਟਾਡਾਟਾ ਜਾਣਕਾਰੀ ਸਹਾਇਕ ਨਹੀਂ"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "ਥੰਮਨੇਲ"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d ਪਿਕਸਲ"
+
+msgid "imag_fi_details_title"
+msgstr "ਟਾਈਟਲ"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "ਅਣਜਾਣ ਮੁੱਲ"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "White balance"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "ਆਟੋ"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "ਮੇਨੂਅਲ"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "ਚਮਕ"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Contrast"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "H:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "W:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d ਤਸਵੀਰਾਂ"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "੧ ਤਸਵੀਰ"
+
+msgid "imag_fi_geotags_city"
+msgstr "ਸ਼ਹਿਰ:"
+
+msgid "imag_fi_geotags_country"
+msgstr "ਦੇਸ਼:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "ਜਿਲ੍ਹਾ:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "ਕਿਸਮ"
+
+msgid "imag_fi_save_changes"
+msgstr "Save changes?\n'Save' will overwrite original file, 'Save as' will save changes to a new file and 'Discard' will reject all changes."
+
+msgid "imag_fi_tags"
+msgstr "ਟੈਗ:"
+
+msgid "imag_ia_no_images"
+msgstr "(ਕੋਈ ਚਿੱਤਰ ਨਹੀਂ)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "File is read-only. Unable to edit metadata."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "File format does not support metadata editing"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "File is read-only. Unable to rename."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Selected location is read-only. Saving canceled."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Unable to update metadata for %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Unable to update metadata of selected files"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Unable to update metadata for %d/%d files"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Files are read-only. Unable to edit metadata."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr "Selected files either read-only or have file formats that do not support metadata editing"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "File formats of selected files do not support metadata editing"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "ਚਿੱਤਰ ਹੁਣ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ।"
+
+msgid "imag_ib_invalid_value"
+msgstr "ਗਲਤ ਮੁੱਲ"
+
+msgid "imag_ib_loading"
+msgstr "%d/%d ਚਿੱਤਰ ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "imag_ib_memory_full"
+msgstr "ਮੈਮੋਰੀ ਭਰ ਗਈ ਹੈ। ਓਪਰੇਸ਼ਨ ਰੱਦ ਕੀਤਾ।"
+
+msgid "imag_ib_no_details"
+msgstr "ਕੋਈ ਜਾਣਕਾਰੀ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "ਚਿੱਤਰ ਹੁਣ ਉਪਲੱਬਧ ਨਹੀਂ ਰਿਹਾ"
+
+msgid "imag_ib_no_images_selected"
+msgstr "ਕੋਈ ਚਿੱਤਰ ਨਹੀਂ ਚੁਣਿਆ"
+
+msgid "imag_ib_not_available"
+msgstr "ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Not enough memory to perform selected operation"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Not enough memory to display image"
+
+msgid "imag_ib_operation_failed"
+msgstr "ਓਪਰੇਸ਼ਨ ਫੇਲ੍ਹ ਹੋਇਆ"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Image width or height must be at least 1 pixel"
+
+msgid "imag_ib_save_failed"
+msgstr "ਸੰਭਾਲਣਾ ਫੇਲ੍ਹ ਹੋਇਆ"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "ਸਲਾਈਡ-ਸ਼ੋ ਖਤਮ ਹੋਇਆ"
+
+msgid "imag_ib_slideshow_started"
+msgstr "ਸਲਾਇਡ-ਸ਼ੋ ਸ਼ੁਰੂ ਹੋਇਆ"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "ਫਾਇਲ ਹਟਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "ਚੁਣੀਆਂ ਫਾਇਲਾਂ ਹਟਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "ਚੁਣੀਆਂ ਫਾਇਲਾਂ ਵਿੱਚੋਂ %d ਹਟਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "ਚਿੱਤਰ ਵੇਖਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "imag_ib_zooming"
+msgstr "ਜ਼ੂਮ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "imag_me_date_off"
+msgstr "ਬੰਦ"
+
+msgid "imag_me_date_title"
+msgstr "ਮਿਤੀ ਨਾਲ ਫਿਲਟਰ"
+
+msgid "imag_me_delete"
+msgstr "ਹਟਾਓ"
+
+msgid "imag_me_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "imag_me_edit_image"
+msgstr "ਚਿੱਤਰ ਸੋਧ"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "ਪਸੰਦੀਦਾ"
+
+msgid "imag_me_filter_tags_off"
+msgstr "ਬੰਦ"
+
+msgid "imag_me_filter_tags_title"
+msgstr "ਟੈਗ ਨਾਲ ਫਿਲਟਰ"
+
+msgid "imag_me_folder_all_images"
+msgstr "ਸਭ ਚਿੱਤਰ"
+
+msgid "imag_me_folder_camera"
+msgstr "ਕੈਮਰਾ ਡਿਫਾਲਟ ਫੋਲਡਰ"
+
+msgid "imag_me_folder_title"
+msgstr "ਫੋਲਡਰ ਰਾਹੀਂ ਫਿਲਟਰ"
+
+msgid "imag_me_mark_favourite"
+msgstr "ਪਸੰਦੀਦਾ ਬਣਾਓ"
+
+msgid "imag_me_multiple_delete"
+msgstr "ਚਿੱਤਰ ਹਟਾਓ"
+
+msgid "imag_me_multiple_share"
+msgstr "ਚਿੱਤਰ ਸਾਂਝੇ ਕਰੋ"
+
+msgid "imag_me_multiple_tags"
+msgstr "ਚਿੱਤਰ ਟੈਗ ਸੋਧੋ"
+
+msgid "imag_me_rename"
+msgstr "ਨਾਂ ਬਦਲੋ"
+
+msgid "imag_me_save"
+msgstr "ਸੰਭਾਲੋ"
+
+msgid "imag_me_save_as"
+msgstr "ਇੰਝ ਸੰਭਾਲੋ"
+
+msgid "imag_me_set_as_avatar"
+msgstr "ਅਵਤਾਰ ਸੈੱਟ ਕਰੋ"
+
+msgid "imag_me_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "imag_me_share"
+msgstr "ਸਾਂਝਾ ਕਰੋ"
+
+msgid "imag_me_unmark_favourite"
+msgstr "ਪਸੰਦੀਦਾ 'ਚੋਂ ਹਟਾਓ"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "ਬੈਕਗਰਾਊਂਡ ਚਿੱਤਰ ਵਜੋਂ ਸੈੱਟ ਕਰੋ"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "ਅਸਲੀ ਫਾਇਲ ਉੱਤੇ ਲਿਖਣੀ ਹੈ?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "%d ਚਿੱਤਰ ਹਟਾਉਣੇ ਹਨ?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "Delete %d images, including %d marked as read-only?"
+
+msgid "imag_nc_delete_single"
+msgstr "ਚਿੱਤਰ '%s' ਹਟਾਉਣਾ ਹੈ?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr "Delete read-only file?\n%s"
+
+msgid "imag_ni_memory_full"
+msgstr "ਮੈਮੋਰੀ ਭਰ ਗਈ ਹੈ। ਸੰਭਾਲਣਾ ਰੱਦ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "imag_ni_memory_read_only"
+msgstr "Memory card is read-only.\nChange saving location."
+
+msgid "imag_ni_non_local_files"
+msgstr "ਗ਼ੈਰ-ਲੋਕਲ ਫਾਇਲਾਂ ਖੋਲ੍ਹਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "imag_ni_save_read_only_file"
+msgstr "Original image file is read-only. Edited image must be saved as a new file."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr "Status of %d/%d files is read-only.\nOnly able to update tags of the other files."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr "Some of the files selected are read-only or have file formats that do not support metadata editing.\nOnly able to update tags of %d/%d files."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr "File format of %d/%d files does not support tags.\nOnly able to update tags of the other files."
+
+msgid "imag_ni_unsupported_file"
+msgstr "ਖੋਲ੍ਹਣ ਲਈ ਅਸਮਰੱਥ ਹੈ।\nਫਾਇਲ ਫਾਰਮੈਟ ਸਹਾਇਕ ਨਹੀਂ"
+
+msgid "imag_ni_unsupported_save_format"
+msgstr "Unable to save in original format.\nAlternative format required."
+
+msgid "imag_nw_saving"
+msgstr "ਚਿੱਤਰ %s ਸੰਭਾਲਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "imag_nw_saving_tags"
+msgstr "ਟੈਗ ਸੰਭਾਲੇ ਜਾ ਰਹੇ ਹਨ"
+
+msgid "imag_ti_crop_avatar"
+msgstr "ਅਵਤਾਰ ਕਰੋਪ ਕਰੋ"
+
+msgid "imag_ti_dates"
+msgstr "ਮਿਤੀ"
+
+msgid "imag_ti_details"
+msgstr "ਵੇਰਵਾ"
+
+msgid "imag_ti_details_favourite"
+msgstr "ਪਸੰਦ"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Adjust brightness and contrast"
+
+msgid "imag_ti_edit_crop"
+msgstr "ਚਿੱਤਰ ਕਰੋਪ ਕਰੋ"
+
+msgid "imag_ti_edit_geotags"
+msgstr "ਜੀਉਟੈਗ ਸੋਧੋ"
+
+msgid "imag_ti_edit_image"
+msgstr "ਚਿੱਤਰ ਸੋਧੋ"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Remove red eyes by tapping them"
+
+msgid "imag_ti_edit_resize"
+msgstr "ਚਿੱਤਰ ਆਕਾਰ ਬਦਲੋ"
+
+msgid "imag_ti_filter_date"
+msgstr "ਮਿਤੀ ਨਾਲ ਫਿਲਟਰ"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Give custom date range"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "ਮਿਤੀ ਚੁਣੋ"
+
+msgid "imag_ti_filter_folder"
+msgstr "ਫੋਲਡਰ ਰਾਹੀਂ ਫਿਲਟਰ"
+
+msgid "imag_ti_filter_tags"
+msgstr "ਟੈਗ ਰਾਹੀਂ ਫਿਲਟਰ"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "ਟੈਗ ਰਾਹੀਂ ਫਿਲਟਰ - ਪਸੰਦੀਦਾ"
+
+msgid "imag_ti_folder_all_images"
+msgstr "ਸਭ ਚਿੱਤਰ"
+
+msgid "imag_ti_folder_camera"
+msgstr "ਕੈਮਰਾ ਡਿਫਾਲਟ ਫੋਲਡਰ"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "ਚਿੱਤਰ ਚੁਣੋ"
+
+msgid "imag_ti_new_geotag"
+msgstr "ਨਵਾਂ ਜੀਉਟੈਗ"
+
+msgid "imag_ti_rename"
+msgstr "ਚਿੱਤਰ ਨਾਂ ਬਦਲੋ"
+
+msgid "imag_ti_save_as"
+msgstr "%s ਵਜੋਂ ਚਿੱਤਰ ਸੰਭਾਲੋ"
+
+msgid "imag_ti_settings"
+msgstr "ਸੈਟਿੰਗ"
+
+msgid "imag_ti_settings_grouping"
+msgstr "ਮਹੀਨੇ ਰਾਹੀਂ ਗਰੁੱਪ ਬਣਾਓ"
+
+msgid "imag_ti_settings_metadata"
+msgstr "ਮੇਟਡਾਟਾ ਇੰਡੀਕੇਟਰ ਵੇਖੋ"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "ਸਲਾਈਡ-ਸ਼ੋ"
+
+msgid "imag_ti_settings_sorting"
+msgstr "ਲੜੀਬੱਧ"
+
+msgid "imag_ti_tags"
+msgstr "ਟੈਗ"
+
+msgid "imag_ti_tags_edit"
+msgstr "ਟੈਗ ਸੋਧ"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "ਟੈਗ ਸੋਧ - ਪਸੰਦੀਦਾ"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "ਟੈਗ ਸੋਧ - ਪਸੰਦੀਦਾ"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "ਟੈਗ ਸੋਧ - ਪਸੰਦੀਦਾ *"
+
+msgid "imag_ti_tags_new"
+msgstr "ਨਵਾਂ ਟੈਗ"
