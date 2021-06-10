@@ -1,0 +1,627 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "imag_ap_images"
+msgstr "照片"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "亮度和对比度"
+
+msgid "imag_bd_clear"
+msgstr "清除"
+
+msgid "imag_bd_continue"
+msgstr "继续"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "裁剪"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "裁剪比例"
+
+msgid "imag_bd_date_custom_range"
+msgstr "自定义日期范围"
+
+msgid "imag_bd_date_off"
+msgstr "无日期过滤"
+
+msgid "imag_bd_date_one_day"
+msgstr "选择日期"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", 图片: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "从"
+
+msgid "imag_bd_date_range_to"
+msgstr "到"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "标签"
+
+msgid "imag_bd_discard"
+msgstr "放弃"
+
+msgid "imag_bd_edit_tags"
+msgstr "编辑标签"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "水平翻转"
+
+msgid "imag_bd_flip_vertical"
+msgstr "垂直翻转"
+
+msgid "imag_bd_folder_all_images"
+msgstr "全部照片"
+
+msgid "imag_bd_folder_camera"
+msgstr "相机默认文件夹"
+
+msgid "imag_bd_folder_custom"
+msgstr "自定义文件夹"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "城市"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "国家"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "地区"
+
+msgid "imag_bd_new_tag"
+msgstr "新建标签"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "消除红眼"
+
+msgid "imag_bd_resize"
+msgstr "调整大小"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "调整"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "调整至"
+
+msgid "imag_bd_save_as"
+msgstr "另存为"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "快速"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "正常"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "慢速"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "按名称"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "按日期"
+
+msgid "imag_bd_share"
+msgstr "分享"
+
+msgid "imag_bd_show_on_map"
+msgstr "在地图中显示"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "地理标记"
+
+msgid "imag_fi_crop_free"
+msgstr "自由比例"
+
+msgid "imag_fi_crop_original"
+msgstr "原始比例"
+
+msgid "imag_fi_crop_screen"
+msgstr "屏幕比例"
+
+msgid "imag_fi_crop_square"
+msgstr "矩形"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "曝光"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "毫米"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "秒"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "光圈"
+
+msgid "imag_fi_details_camera"
+msgstr "相机"
+
+msgid "imag_fi_details_common"
+msgstr "一般"
+
+msgid "imag_fi_details_creator"
+msgstr "创建者"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "日期和时间"
+
+msgid "imag_fi_details_description"
+msgstr "描述"
+
+msgid "imag_fi_details_dimensions"
+msgstr "尺寸"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d 像素"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "曝光补偿"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "曝光时间"
+
+msgid "imag_fi_details_flash"
+msgstr "闪光灯"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "自动"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "强制关闭"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "强制打开"
+
+msgid "imag_fi_details_flash_off"
+msgstr "关"
+
+msgid "imag_fi_details_flash_on"
+msgstr "开"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "消除红眼"
+
+msgid "imag_fi_details_focallength"
+msgstr "焦距"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS高度"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS纬度"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS经度"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "JPEG品质"
+
+msgid "imag_fi_details_maker"
+msgstr "相机制造商"
+
+msgid "imag_fi_details_metadata"
+msgstr "元数据"
+
+msgid "imag_fi_details_metering_average"
+msgstr "平均测光"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "中央重点平均测光"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "多点测光"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "矩阵测光"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "局部测光"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "点测光"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "测光模式"
+
+msgid "imag_fi_details_model"
+msgstr "相机型号"
+
+msgid "imag_fi_details_no_camera"
+msgstr "没有相机资料"
+
+msgid "imag_fi_details_no_common"
+msgstr "没有可用资料"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "文件格式不支持元数据"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "缩略图"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d 像素"
+
+msgid "imag_fi_details_title"
+msgstr "标题"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "未知数据"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "白平衡"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "自动"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "手动"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "亮度"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "对比"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "高:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "像素"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "宽:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d 图片"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "一张图片"
+
+msgid "imag_fi_geotags_city"
+msgstr "城市:"
+
+msgid "imag_fi_geotags_country"
+msgstr "国家:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "地区:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "类型"
+
+msgid "imag_fi_save_changes"
+msgstr "保存修改?\n'保存'将覆盖原文件"
+
+msgid "imag_fi_tags"
+msgstr "标签:"
+
+msgid "imag_ia_no_images"
+msgstr "(无图片)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "只读文件.无法修改其数据."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "此文件不支持数据信息"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "只读文件.无法重命名."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "选定的位置是只读.保存被取消."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "无法更新 %s的数据"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "无法更新选取文件的数据"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "无法更新文件 %d/%d 的数据"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "只读文件.无法修改其数据."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr "选定的文件格式不支持元数据编辑"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "选定的文件格式不支持编辑"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "图像不再可用"
+
+msgid "imag_ib_invalid_value"
+msgstr "无效值"
+
+msgid "imag_ib_loading"
+msgstr "加载图像 %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "内存已满.操作取消."
+
+msgid "imag_ib_no_details"
+msgstr "无可用细节"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "图片不再可用"
+
+msgid "imag_ib_no_images_selected"
+msgstr "没有选择图像"
+
+msgid "imag_ib_not_available"
+msgstr "不可用"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "没有足够的内存来执行选定的操作"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "没有足够空间"
+
+msgid "imag_ib_operation_failed"
+msgstr "操作失败"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "图像的宽度或高度必须至少为1个像素"
+
+msgid "imag_ib_save_failed"
+msgstr "保存失败"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "幻灯片播放结束"
+
+msgid "imag_ib_slideshow_started"
+msgstr "幻灯片播放开始"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "无法删除文件"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "无法删除选定的文件"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "无法删除 %d 选定文件"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "无法显示图像"
+
+msgid "imag_ib_zooming"
+msgstr "缩放"
+
+msgid "imag_me_date_off"
+msgstr "关闭"
+
+msgid "imag_me_date_title"
+msgstr "按日期过滤"
+
+msgid "imag_me_delete"
+msgstr "删除"
+
+msgid "imag_me_details"
+msgstr "详细信息"
+
+msgid "imag_me_edit_image"
+msgstr "编辑照片"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "我的最爱"
+
+msgid "imag_me_filter_tags_off"
+msgstr "关闭"
+
+msgid "imag_me_filter_tags_title"
+msgstr "按标签过滤"
+
+msgid "imag_me_folder_all_images"
+msgstr "所有图片"
+
+msgid "imag_me_folder_camera"
+msgstr "相机默认文件夹"
+
+msgid "imag_me_folder_title"
+msgstr "按文件夹过滤"
+
+msgid "imag_me_mark_favourite"
+msgstr "标记为最爱"
+
+msgid "imag_me_multiple_delete"
+msgstr "删除照片"
+
+msgid "imag_me_multiple_share"
+msgstr "分享照片"
+
+msgid "imag_me_multiple_tags"
+msgstr "编辑照片标签"
+
+msgid "imag_me_rename"
+msgstr "重命名"
+
+msgid "imag_me_save"
+msgstr "保存"
+
+msgid "imag_me_save_as"
+msgstr "另存为"
+
+msgid "imag_me_set_as_avatar"
+msgstr "设置为头像"
+
+msgid "imag_me_settings"
+msgstr "设置"
+
+msgid "imag_me_share"
+msgstr "共享"
+
+msgid "imag_me_unmark_favourite"
+msgstr "取消标记为最爱"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "设置为壁纸"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "覆盖原始文件?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "删除 %d 图像?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "删除 %d 个图像, 包含 %d 个只读的?"
+
+msgid "imag_nc_delete_single"
+msgstr "删除图像 '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr "删除只读文件?\n%s"
+
+msgid "imag_ni_memory_full"
+msgstr "内存已满,保存被取消."
+
+msgid "imag_ni_memory_read_only"
+msgstr "记忆卡是只读.\n更改保存位置."
+
+msgid "imag_ni_non_local_files"
+msgstr "无法打开非本地文件"
+
+msgid "imag_ni_save_read_only_file"
+msgstr "原始图像文件是只读的.编辑的图片必须保存为新文件."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr "%d/%d只能够更新其他文件的标签."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr "选定的一些文件为只读或文件格式不支持元数据编辑.\n只能够更新"
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr "%d/%d只能够更新其他文件的标签."
+
+msgid "imag_ni_unsupported_file"
+msgstr "无法打开.\n文件格式不支持."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr "无法按原始格式保存.\n请选择其他的格式."
+
+msgid "imag_nw_saving"
+msgstr "保存照片 %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "保存标签"
+
+msgid "imag_ti_crop_avatar"
+msgstr "裁剪头像"
+
+msgid "imag_ti_dates"
+msgstr "日期"
+
+msgid "imag_ti_details"
+msgstr "详细信息"
+
+msgid "imag_ti_details_favourite"
+msgstr "我的最爱"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "调整亮度和对比度"
+
+msgid "imag_ti_edit_crop"
+msgstr "裁剪图片"
+
+msgid "imag_ti_edit_geotags"
+msgstr "编辑地理标记"
+
+msgid "imag_ti_edit_image"
+msgstr "编辑图片"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "点击移除红眼"
+
+msgid "imag_ti_edit_resize"
+msgstr "调整大小"
+
+msgid "imag_ti_filter_date"
+msgstr "按日期过滤"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "自定义日期范围"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "选择日期"
+
+msgid "imag_ti_filter_folder"
+msgstr "按文件夹过滤"
+
+msgid "imag_ti_filter_tags"
+msgstr "按标签过滤"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "按标签过滤 - 我的最爱"
+
+msgid "imag_ti_folder_all_images"
+msgstr "所有图片"
+
+msgid "imag_ti_folder_camera"
+msgstr "相机默认文件夹"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "选择图片"
+
+msgid "imag_ti_new_geotag"
+msgstr "新的地理标记"
+
+msgid "imag_ti_rename"
+msgstr "重命名"
+
+msgid "imag_ti_save_as"
+msgstr "另存为 %s"
+
+msgid "imag_ti_settings"
+msgstr "设置"
+
+msgid "imag_ti_settings_grouping"
+msgstr "按月份分组"
+
+msgid "imag_ti_settings_metadata"
+msgstr "显示元数据"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "幻灯片"
+
+msgid "imag_ti_settings_sorting"
+msgstr "排序"
+
+msgid "imag_ti_tags"
+msgstr "标签"
+
+msgid "imag_ti_tags_edit"
+msgstr "编辑标签"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "编辑标签 - 我的最爱"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "编辑标签 - 我的最爱"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "编辑标签 - 我的最爱*"
+
+msgid "imag_ti_tags_new"
+msgstr "新标签"
