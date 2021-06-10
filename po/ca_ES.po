@@ -1,0 +1,628 @@
+# 
+# Translators:
+# Toni Hermoso Pulido <toniher@softcatala.cat>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "imag_ap_images"
+msgstr "Fotos"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Brillantor i contrast"
+
+msgid "imag_bd_clear"
+msgstr "Neteja"
+
+msgid "imag_bd_continue"
+msgstr "Continua"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Retalla"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Relació d'aspecte en retall"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Rang de dates personalitzat"
+
+msgid "imag_bd_date_off"
+msgstr "Sense filtratge per data"
+
+msgid "imag_bd_date_one_day"
+msgstr "Tria una data"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", imatges: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "De"
+
+msgid "imag_bd_date_range_to"
+msgstr "A"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Etiquetes"
+
+msgid "imag_bd_discard"
+msgstr "Descarta"
+
+msgid "imag_bd_edit_tags"
+msgstr "Edita les etiquetes"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Gira horitzontalment"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Gira verticalment"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Totes les imatges"
+
+msgid "imag_bd_folder_camera"
+msgstr "Directori per defecte de la càmera"
+
+msgid "imag_bd_folder_custom"
+msgstr "Directori personalitzat"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Ciutat"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "País"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Districte"
+
+msgid "imag_bd_new_tag"
+msgstr "Nova"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Eliminació d'ulls vermells"
+
+msgid "imag_bd_resize"
+msgstr "Redimensiona"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Redimensiona"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Redimensiona al"
+
+msgid "imag_bd_save_as"
+msgstr "Desa com"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Ràpid"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Mitjà"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Lent"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Per nom"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Per data"
+
+msgid "imag_bd_share"
+msgstr "Comparteix"
+
+msgid "imag_bd_show_on_map"
+msgstr "Mostra al mapa"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Geoetiquetes"
+
+msgid "imag_fi_crop_free"
+msgstr "Relació d'aspecte lliure"
+
+msgid "imag_fi_crop_original"
+msgstr "Original"
+
+msgid "imag_fi_crop_screen"
+msgstr "Relació d'aspecte de pantalla"
+
+msgid "imag_fi_crop_square"
+msgstr "Quadrat"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "seg"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Obertura"
+
+msgid "imag_fi_details_camera"
+msgstr "Càmera"
+
+msgid "imag_fi_details_common"
+msgstr "General"
+
+msgid "imag_fi_details_creator"
+msgstr "Creador"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Data i hora feta"
+
+msgid "imag_fi_details_description"
+msgstr "Descripció"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Dimensions"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d píxels"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Obertura"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Exposició"
+
+msgid "imag_fi_details_flash"
+msgstr "Flaix"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Mode automàtic"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Actiu"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Inactiu"
+
+msgid "imag_fi_details_flash_off"
+msgstr "No disparat"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Disparat"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Reducció d'ulls vermells"
+
+msgid "imag_fi_details_focallength"
+msgstr "Distància focal"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "Alçada GPS"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "Latitud GPS"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "Longitud GPS"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Qualitat jpeg"
+
+msgid "imag_fi_details_maker"
+msgstr "Fabricant de càmera"
+
+msgid "imag_fi_details_metadata"
+msgstr "Metadades"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Mitjana"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Mitjana ponderada"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Multi-punt"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Multi-segment"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Parcial"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Punt"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Mode de mesura"
+
+msgid "imag_fi_details_model"
+msgstr "Model de càmera"
+
+msgid "imag_fi_details_no_camera"
+msgstr "No hi ha infomació de càmera"
+
+msgid "imag_fi_details_no_common"
+msgstr "No hi ha infomació general"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Metadades no peremeses pel format de fitxer"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Miniatura"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d píxels"
+
+msgid "imag_fi_details_title"
+msgstr "Títol"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Valor desconegut"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Balanç de blancs"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Auto"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Manual"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Brillantor"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Contrast"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "Al:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "px"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "Am:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d fotos"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 foto"
+
+msgid "imag_fi_geotags_city"
+msgstr "Ciutat:"
+
+msgid "imag_fi_geotags_country"
+msgstr "País:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Districte:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Tipus"
+
+msgid "imag_fi_save_changes"
+msgstr "Es desen els canvis?\n'Desa' sobreescriurà el fitxer original, 'Desa com' crearà un nou fitxer i 'Descarta' no desa els canvis."
+
+msgid "imag_fi_tags"
+msgstr "Etiquetes:"
+
+msgid "imag_ia_no_images"
+msgstr "(no hi ha imatges)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Fitxer de només lectura. No es poden editar les metadades."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "El format de fitxer no permet edició de metadades"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Fitxer de només lectura. No es pot reanomenar."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Ubicació seleccionada de només lectura. No s'ha pogut desar."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "No es poden editar metadades per %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "No es poden actualitzar metadades dels fitxers seleccionats"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "No es poden actualitzar metadades per %d/%d fitxers"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Fitxers de només lectura. No es poden editar les metadades."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr "Els fitxers seleccionats o son de només lectura o tenen formats de fitxer que no permeten metadades"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "El format dels fitxers no permet edició de metadades"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "L'imatge ja no està disponible"
+
+msgid "imag_ib_invalid_value"
+msgstr "Valor no vàlid"
+
+msgid "imag_ib_loading"
+msgstr "Carregant imatge %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Memòria plena. Operació cancel·lada."
+
+msgid "imag_ib_no_details"
+msgstr "No hi ha detalls"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Les imatges ja no estan disponibles"
+
+msgid "imag_ib_no_images_selected"
+msgstr "No s'han seleccionat imatges"
+
+msgid "imag_ib_not_available"
+msgstr "No disponible"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "No hi ha prou memòria per a dur a terme l'operació seleccionada"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "No hi ha prou memòria per mostrar la imatge"
+
+msgid "imag_ib_operation_failed"
+msgstr "Operació fallada"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "L'ample o alçada de la imatge ha de ser d'1 píxel com a mínim"
+
+msgid "imag_ib_save_failed"
+msgstr "Error en desar"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Presentació finalitzada"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Presentació iniciada"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "No s'ha pogut esborrar el fitxer"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "No s'han pogut esborrar els fitxers"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "No s'han pogut esborrar %d dels fitxers seleccionats"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "No s'ha pogut mostrar l'imatge"
+
+msgid "imag_ib_zooming"
+msgstr "Ampliació"
+
+msgid "imag_me_date_off"
+msgstr "Desactivat"
+
+msgid "imag_me_date_title"
+msgstr "Filtratge per data"
+
+msgid "imag_me_delete"
+msgstr "Esborra"
+
+msgid "imag_me_details"
+msgstr "Detalls"
+
+msgid "imag_me_edit_image"
+msgstr "Edita la imatge"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Preferits"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Desactivat"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Filtratge per etiqueta"
+
+msgid "imag_me_folder_all_images"
+msgstr "Totes les imatges"
+
+msgid "imag_me_folder_camera"
+msgstr "Directori per defecte de la càmera"
+
+msgid "imag_me_folder_title"
+msgstr "Filtrage per directori"
+
+msgid "imag_me_mark_favourite"
+msgstr "Marca com a preferit"
+
+msgid "imag_me_multiple_delete"
+msgstr "Esborra imatges"
+
+msgid "imag_me_multiple_share"
+msgstr "Comparteix les imatges"
+
+msgid "imag_me_multiple_tags"
+msgstr "Edita etiquetes d'imatges"
+
+msgid "imag_me_rename"
+msgstr "Reanomena"
+
+msgid "imag_me_save"
+msgstr "Desa"
+
+msgid "imag_me_save_as"
+msgstr "Desa com"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Utilitza com a imatge d'usuari"
+
+msgid "imag_me_settings"
+msgstr "Preferències"
+
+msgid "imag_me_share"
+msgstr "Comparteix"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Desmarca com a preferit"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Utilitza com a imatge de fons"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Se sobreescriu el fitxer original?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "S'esborren %d imatges?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "S'esborra %d, incloent-hi %d marcades com de només lectura?"
+
+msgid "imag_nc_delete_single"
+msgstr "S'esborra imatge '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr "S'esborra fitxer de només lectura?\n%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Memòria plena. No s'ha pogut desar."
+
+msgid "imag_ni_memory_read_only"
+msgstr "Targeta de memòria de només lectura.\nCanvieu el lloc on desar el fitxer."
+
+msgid "imag_ni_non_local_files"
+msgstr "No es poden obrir fitxers remots"
+
+msgid "imag_ni_save_read_only_file"
+msgstr "La imatge original es de només lectura. S'ha de desar en un nou fitxer."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr "%d/%d fitxers son de només lectura.\nNomés es poden actualitzar etiquetes dels altres fitxers."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr "Algun dels fitxers seleccionats son de només lectura o tenen formats de fitxer que no estan permeten metadades.\nNomés es podran actualitzar etiquetes de %d/%d fitxers."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr "El format de %d/%d fitxers no permet etiquetes.\nNomés es podran editar etiquetes dels altres fitxers."
+
+msgid "imag_ni_unsupported_file"
+msgstr "No es pot obrir.\nFormat de fitxer no permès."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr "No es pot desar en el format original.\nEspecifiqueu un format alternatiu."
+
+msgid "imag_nw_saving"
+msgstr "Es desa la imatge %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Es desen les etiquetes"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Retalla la imatge d'usuari"
+
+msgid "imag_ti_dates"
+msgstr "dates"
+
+msgid "imag_ti_details"
+msgstr "Detalls"
+
+msgid "imag_ti_details_favourite"
+msgstr "Preferit"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Ajusta brillantor i contrast"
+
+msgid "imag_ti_edit_crop"
+msgstr "Retalla la imatge"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Edita les geoetiquetes"
+
+msgid "imag_ti_edit_image"
+msgstr "Edita la imatge"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Elimina els ulls vermells tocant-los"
+
+msgid "imag_ti_edit_resize"
+msgstr "Redimensiona la imatge"
+
+msgid "imag_ti_filter_date"
+msgstr "Filtratge per data"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Especifica un rang de dates"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Tria una data"
+
+msgid "imag_ti_filter_folder"
+msgstr "Filtra per directori"
+
+msgid "imag_ti_filter_tags"
+msgstr "Filtra per etiquetes"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Filtra per etiquetes - Preferits"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Totes les imatges"
+
+msgid "imag_ti_folder_camera"
+msgstr "Directori per defecte de la càmera"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Trieu les imatges"
+
+msgid "imag_ti_new_geotag"
+msgstr "Nova geoetiqueta"
+
+msgid "imag_ti_rename"
+msgstr "Reanomena la imatge"
+
+msgid "imag_ti_save_as"
+msgstr "Desa la imatge com %s"
+
+msgid "imag_ti_settings"
+msgstr "Preferències"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Agrupa per mes"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Mostra indicadors de metadades"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Presentació"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Ordena"
+
+msgid "imag_ti_tags"
+msgstr "etiquetes"
+
+msgid "imag_ti_tags_edit"
+msgstr "Edita les etiquetes"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Edita les etiquetes - Preferit"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Edita les etiquetes - Preferits"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Edita les etiquetes - Preferits*"
+
+msgid "imag_ti_tags_new"
+msgstr "Nova etiqueta"
