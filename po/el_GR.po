@@ -1,0 +1,627 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Greek (http://www.transifex.net/projects/p/n900-extra-translations/language/el/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "imag_ap_images"
+msgstr "Φωτογραφίες"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Φωτεινότητα και αντίθεση"
+
+msgid "imag_bd_clear"
+msgstr "Καθαρισμός"
+
+msgid "imag_bd_continue"
+msgstr "Συνέχεια"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Περικοπή"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Βαθμός περικοπής"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Επιλογή χρονικού εύρους"
+
+msgid "imag_bd_date_off"
+msgstr "Χωρίς χρονική τακτοποίηση"
+
+msgid "imag_bd_date_one_day"
+msgstr "Διάλεξε ημερομηνία"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", εικόνες: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "Από"
+
+msgid "imag_bd_date_range_to"
+msgstr "Εώς"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Ετικέτες"
+
+msgid "imag_bd_discard"
+msgstr "Απόρριψη"
+
+msgid "imag_bd_edit_tags"
+msgstr "Επεξεργασία ετικετών"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Οριζόντια περιστροφή"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Κατακόρυφη περιστροφή"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Όλες οι εικόνες"
+
+msgid "imag_bd_folder_camera"
+msgstr "Φάκελος κάμερας"
+
+msgid "imag_bd_folder_custom"
+msgstr "Προσαρμοσμένος φάκελος"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Πόλη"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Χώρα"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Περιοχή"
+
+msgid "imag_bd_new_tag"
+msgstr "Νέα ετικέτα"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Αφαίρεση κόκκινων ματιών"
+
+msgid "imag_bd_resize"
+msgstr "Αλλαγή μεγέθους"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Αλλαγή"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Αλλαγή μεγ. σε"
+
+msgid "imag_bd_save_as"
+msgstr "Αποθήκευση ως"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Γρήγορα"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Μεσαία"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Αργά"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Κατά όνομα"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Κατά ημερομηνία"
+
+msgid "imag_bd_share"
+msgstr "Διαμοιρασμός"
+
+msgid "imag_bd_show_on_map"
+msgstr "Δείξε στον χάρτη"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Γεωγρ. ετικέτα"
+
+msgid "imag_fi_crop_free"
+msgstr "Ελεύθερη αναλογία"
+
+msgid "imag_fi_crop_original"
+msgstr "Πρωτότυπο"
+
+msgid "imag_fi_crop_screen"
+msgstr "Αναλογία οθόνης"
+
+msgid "imag_fi_crop_square"
+msgstr "Τετράγωνο"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "mm"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "sec"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Τιμή διαφράγματος κάμερας"
+
+msgid "imag_fi_details_camera"
+msgstr "Κάμερα"
+
+msgid "imag_fi_details_common"
+msgstr "Γενικά"
+
+msgid "imag_fi_details_creator"
+msgstr "Δημιουργός"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Ημερομηνία και ώρα λήψης"
+
+msgid "imag_fi_details_description"
+msgstr "Περιγραφή"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Διαστάσεις"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d εικονοστοιχεία"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Τιμή έκθεσης "
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Ώρα έκθεσης"
+
+msgid "imag_fi_details_flash"
+msgstr "Φλας"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Αυτόματο φλας"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Εξαναγκασμένη παύση φλάς"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Εξαναγκασμένη παύση φλας"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Απενεργοποίηση φλάς"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Ενεργοποίηση φλάς"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Μείωση κόκκινων ματιών"
+
+msgid "imag_fi_details_focallength"
+msgstr "Εστιακή απόσταση"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "Υψόμετρο GPS"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d μ."
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "Γεωγραφικό πλάτος GPS"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "Γεωγραφικό μήκος GPS"
+
+msgid "imag_fi_details_iso"
+msgstr "Ευαισθησία ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Ποιότητα JPEG"
+
+msgid "imag_fi_details_maker"
+msgstr "Κατασκευαστής κάμερας"
+
+msgid "imag_fi_details_metadata"
+msgstr "Μεταδεδομένα"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Μέσος όρος"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Κεντροβαρής μέσος όρος"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Πολλαπλών σημείων"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Πολλών στοιχείων"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Μερικώς"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Σημείο"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Φωτομέτρηση"
+
+msgid "imag_fi_details_model"
+msgstr "Μοντέλο κάμερας"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Καμία πληροφορία για την κάμερα διαθέσιμη"
+
+msgid "imag_fi_details_no_common"
+msgstr "Καμία γενική πληροφορία διαθέσιμη"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Μη υποστηριζόμενες πληροφορίες μεταδεδομένων"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Μικρογραφίες"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d εικονοστοιχεία"
+
+msgid "imag_fi_details_title"
+msgstr "Τίτλος"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Άγνωστη χρησιμότητα"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Ισορροπία λευκού"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Αυτόματα"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Χειροκίνητο"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Φωτεινότητα"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Αντίθεση"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "Ύψος"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "Εικονοστοιχεία"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "Πλάτος"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d εικόνες"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 εικόνα"
+
+msgid "imag_fi_geotags_city"
+msgstr "Πόλη:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Χώρα:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Περιοχή:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Τύπος"
+
+msgid "imag_fi_save_changes"
+msgstr "Αποθήκευση αλλαγών;\nΗ επιλογή 'Αποθήκευση' θα παραγράψει το πρωτότυπο,η επιλογή 'Αποθήκευση ως' θα αποθηκεύσει τις αλλαγές σε  νέο αρχείο και η επιλογή 'Απορρίπτω' θα διαγράψει τις αλλαγές"
+
+msgid "imag_fi_tags"
+msgstr "Ετικέτες"
+
+msgid "imag_ia_no_images"
+msgstr "(χωρίς εικόνες)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Αδυναμία επεξεργασίας των μεταδεδομένων"
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Μη υποστηριζόμενος τύπος αρχείου"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Αδυναμία μετονομασίας"
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Φάκελος μόνο για ανάγνωση, αδύνατη η αποθήκευση."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Αδυναμία ανανέωσης των μεταδεδομένων για το %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Αδυναμία ανανέωσης των μεταδεδομένων για τα επιλεγμένα αρχεία"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Αδυναμία ανανέωσης των μεταδεδομένων για %d/%d αρχεία"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Φάκελος μόνο για ανάγνωση, αδύνατη η τροποποίηση."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr "Τα επιλεγμένα αρχεία είναι είτε μόνο για ανάγνωση ή έχουν μορφές αρχείων που δεν υποστηρίζουν την επεξεργασία των μεταδεδομένων."
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "Οι μορφές αρχείων των επιλεγμένων αρχείων δεν υποστηρίζουν την επεξεργασία των μεταδεδομένων"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Μη διαθέσιμη εικόνα"
+
+msgid "imag_ib_invalid_value"
+msgstr "Άκυρη τιμή"
+
+msgid "imag_ib_loading"
+msgstr "Φόρτωση εικόνας"
+
+msgid "imag_ib_memory_full"
+msgstr "Ανεπαρκής μνήμη"
+
+msgid "imag_ib_no_details"
+msgstr "Μη διαθέσιμες λεπτομέρειες"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Εικόνες μη διαθέσιμες"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Δεν έχουν επιλ. εικόνες"
+
+msgid "imag_ib_not_available"
+msgstr "Μη διαθέσιμη"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Ανεπαρκής μνήμη για εκτέλεση εργασίας"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Ανεπαρκής μνήμη για εμφάνιση εικόνας"
+
+msgid "imag_ib_operation_failed"
+msgstr "Εργασία απέτυχε"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Ακυρώθηκε η μεταβολή του μεγέθους"
+
+msgid "imag_ib_save_failed"
+msgstr "Αποτυχία αποθήκευσης"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Τέλος σειράς διαφανειών"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Έναρξη σειράς διαφανειών"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Αποτυχία διαγραφής"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Αποτυχία διαγραφής επιλεγμένων αρχείων"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Αποτυχία διαγραφής επιλεγμένων αρχείων"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Αποτυχία προβολής εικόνας"
+
+msgid "imag_ib_zooming"
+msgstr "Μεγέθυνση"
+
+msgid "imag_me_date_off"
+msgstr "Εκτός χρήσης"
+
+msgid "imag_me_date_title"
+msgstr "Τακτοποίηση κατά ημερομ."
+
+msgid "imag_me_delete"
+msgstr "Διαγραφή"
+
+msgid "imag_me_details"
+msgstr "Λεπτομέρειες"
+
+msgid "imag_me_edit_image"
+msgstr "Επεξεργασία εικόνας"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Αγαπημένες"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Εκτός χρήσης"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Τακτοποίηση κατά ετικέτα"
+
+msgid "imag_me_folder_all_images"
+msgstr "Όλες οι εικόνες"
+
+msgid "imag_me_folder_camera"
+msgstr "Προεπιλεγμένος φάκελος Κάμερας"
+
+msgid "imag_me_folder_title"
+msgstr "Τακτοποίηση κατά φάκελο"
+
+msgid "imag_me_mark_favourite"
+msgstr "Επιλογή ως αγαπημένο"
+
+msgid "imag_me_multiple_delete"
+msgstr "Διαγραφή εικόνων"
+
+msgid "imag_me_multiple_share"
+msgstr "Διαμοιρασμός εικόνων"
+
+msgid "imag_me_multiple_tags"
+msgstr "Τροποποίηση ετικετών"
+
+msgid "imag_me_rename"
+msgstr "Μετονομασία"
+
+msgid "imag_me_save"
+msgstr "Αποθήκευση"
+
+msgid "imag_me_save_as"
+msgstr "Αποθήκευση ως"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Ορισμός ως avatar"
+
+msgid "imag_me_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "imag_me_share"
+msgstr "Διαμοιρασμός"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Εξαίρεση από τα αγαπημένα"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Ορισμός ως φόντο"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Αντικατάσταση αρχικού αρχείου;"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Διαγραφή %d εικόνων;"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "Διαγραφή %d εικόνων, συμπεριλαμβανομένων και %d σημειωμένων ως 'μόνο για ανάγνωση';"
+
+msgid "imag_nc_delete_single"
+msgstr "Διαγραφή εικόνας '%s';"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr "Διαγραφή αρχείου 'μόνο για ανάγνωση';\n%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Μνήμη πλήρης - ακύρωση αποθήκευσης"
+
+msgid "imag_ni_memory_read_only"
+msgstr "Η κάρτα μνήμης είναι σημειωμένη ως 'μόνο για ανάγνωση'.\nΕπιλέξτε μια άλλη τοποθεσία."
+
+msgid "imag_ni_non_local_files"
+msgstr "Αδυναμία ανοίγματος μη τοπικών αρχείων"
+
+msgid "imag_ni_save_read_only_file"
+msgstr "Το αρχικό αρχείο εικόνας είναι μόνο για ανάγνωση. Η επεξεργασμένη εικόνα πρέπει να αποθηκευτεί ως ένα νέο αρχείο."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr "Η κατάσταση των %d/%d αρχείων είναι μόνο για ανάγνωση.\nΔυνατότητα μόνο για ενημέρωση των ετικετών των υπόλοιπων αρχείων."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr "Μερικά από τα αρχεία που επιλέξατε είναι μόνο για ανάγνωση ή υπάρχουν τύποι αρχείων που δεν υποστηρίζουν επεξεργασία των μεταδεδομένων.\nΜόνο δυνατότητα ενημέρωσης των ετικετών %d/%d αρχείων."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr "Η μορφή αρχείων των %d/%d αρχείων δεν υποστηρίζει ετικέτες.\nΜόνο δυνατότητα ενημέρωσης των ετικετών των υπολοίπων αρχείων."
+
+msgid "imag_ni_unsupported_file"
+msgstr "Αδυναμία ανοίγματος.\nΟ τύπος του αρχείου δεν υποστηρίζεται."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr "Αδυναμία αποθήκευσης στην αρχική μορφή.\nΑπαιτείται διαφορετικός τύπος."
+
+msgid "imag_nw_saving"
+msgstr "Αποθήκευση εικόνας %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Αποθήκευση ετικετών"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Περικοπή avatar"
+
+msgid "imag_ti_dates"
+msgstr "Ημερομηνίες"
+
+msgid "imag_ti_details"
+msgstr "Λεπτομέρειες"
+
+msgid "imag_ti_details_favourite"
+msgstr "Αγαπημένα"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Ρύθμιση φωτεινότητας και αντίθεσης"
+
+msgid "imag_ti_edit_crop"
+msgstr "Περικοπή εικόνας"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Επεξεργασία geotags"
+
+msgid "imag_ti_edit_image"
+msgstr "Επεξεργασία εικόνας"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Αφαιρέστε τα κόκκινα μάτια επιλέγοντας τα"
+
+msgid "imag_ti_edit_resize"
+msgstr "Αλλαγή μεγ. εικόνας"
+
+msgid "imag_ti_filter_date"
+msgstr "Τακτοποίηση κατά ημερομηνία"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Δώστε φάσμα ημερομηνίας"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Επιλογή ημερομηνίας"
+
+msgid "imag_ti_filter_folder"
+msgstr "Τακτοποίηση κατά φάκελο"
+
+msgid "imag_ti_filter_tags"
+msgstr "Τακτοποίηση κατά ετικέτα"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Τακτοποίηση κατά ετικέτα - Αγαπημένα"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Όλες οι εικόνες"
+
+msgid "imag_ti_folder_camera"
+msgstr "Προεπιλεγμένος φάκελος Κάμερας"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Επιλογή εικόνων"
+
+msgid "imag_ti_new_geotag"
+msgstr "Νέο geotag"
+
+msgid "imag_ti_rename"
+msgstr "Μετονομασία εικόνας"
+
+msgid "imag_ti_save_as"
+msgstr "Αποθήκευση εικόνας ως %s"
+
+msgid "imag_ti_settings"
+msgstr "Ρυθμίσεις"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Ομαδοποίηση κατά μήνα"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Προβολή δείκτων μεταδεδομένων"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Παρουσίαση"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Κατάταξη"
+
+msgid "imag_ti_tags"
+msgstr "ετικέτες"
+
+msgid "imag_ti_tags_edit"
+msgstr "Επεξ. ετικέτας"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Επεξ. ετικέτας - Αγαπημένο"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Επεξ. ετικέτας - Αγαπημένα"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Επεξ. ετικέτας - Αγαπημένα*"
+
+msgid "imag_ti_tags_new"
+msgstr "Νέα ετικέτα"
