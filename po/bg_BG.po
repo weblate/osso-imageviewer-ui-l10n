@@ -1,0 +1,627 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:46+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "imag_ap_images"
+msgstr "Изображения"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Яркост и контраст"
+
+msgid "imag_bd_clear"
+msgstr "Изчистване"
+
+msgid "imag_bd_continue"
+msgstr "Продължаване"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Изрязване"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Изрязване (размер)"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Потребителски период"
+
+msgid "imag_bd_date_off"
+msgstr "Без филтриране по дата"
+
+msgid "imag_bd_date_one_day"
+msgstr "Избор на дата"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", снимки: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "От"
+
+msgid "imag_bd_date_range_to"
+msgstr "До"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Етикети"
+
+msgid "imag_bd_discard"
+msgstr "Отказ"
+
+msgid "imag_bd_edit_tags"
+msgstr "Редактиране на етикети"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Хоризонтално обръщане"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Вертикално обръщане"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Всички изображения"
+
+msgid "imag_bd_folder_camera"
+msgstr "Папка за снимки"
+
+msgid "imag_bd_folder_custom"
+msgstr "Потребителска папка"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Град"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Държава"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Област"
+
+msgid "imag_bd_new_tag"
+msgstr "Нов"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Премахване на червени очи"
+
+msgid "imag_bd_resize"
+msgstr "Преоразмеряване"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Преоразмеряване"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Преоразмеряване до"
+
+msgid "imag_bd_save_as"
+msgstr "Запазване като"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Бърз"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Нормален"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Бавен"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "По име"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "По дата"
+
+msgid "imag_bd_share"
+msgstr "Споделяне"
+
+msgid "imag_bd_show_on_map"
+msgstr "Показване на картата"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Геоетикети"
+
+msgid "imag_fi_crop_free"
+msgstr "Свободни пропорции"
+
+msgid "imag_fi_crop_original"
+msgstr "Като оригинала"
+
+msgid "imag_fi_crop_screen"
+msgstr "Пропорционално на екрана"
+
+msgid "imag_fi_crop_square"
+msgstr "Квадрат"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "мм"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "сек"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Отвор"
+
+msgid "imag_fi_details_camera"
+msgstr "Фотоапарат"
+
+msgid "imag_fi_details_common"
+msgstr "Обща"
+
+msgid "imag_fi_details_creator"
+msgstr "Автор"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Дата и време на снимане"
+
+msgid "imag_fi_details_description"
+msgstr "Описание"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Размери"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d точки"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Компенсация на експозиция"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Време на експозиция"
+
+msgid "imag_fi_details_flash"
+msgstr "Светкавица"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Автоматична"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Изключена"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Включена"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Незадействана"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Задействана"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Премахване на червени очи"
+
+msgid "imag_fi_details_focallength"
+msgstr "Фокусно разстояние"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "GPS надморска височина"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d м"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "GPS ширина"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "GPS дължина"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "JPEG качество"
+
+msgid "imag_fi_details_maker"
+msgstr "Производител"
+
+msgid "imag_fi_details_metadata"
+msgstr "Метаданни"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Средно"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Централно средно претеглено"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Многоточково"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Многосегментно"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Частично"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Точка"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Режим на измерване"
+
+msgid "imag_fi_details_model"
+msgstr "Модел"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Няма информация за фотоапарата"
+
+msgid "imag_fi_details_no_common"
+msgstr "Няма обща информация"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Този файлов формат не поддържа метаданни"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Умалено копие"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d точки"
+
+msgid "imag_fi_details_title"
+msgstr "Заглавие"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Неизвестна стойност"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Баланс на бяло"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Автоматичен"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Ръчен"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Яркост"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Контраст"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "В:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "т"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "Ш:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d изображения"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 изображение"
+
+msgid "imag_fi_geotags_city"
+msgstr "Град:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Държава:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Област:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Тип"
+
+msgid "imag_fi_save_changes"
+msgstr "Запазване на промените?\n'Запазване' ще презапише оригиналния файл, 'Запазване като' ще запази промените в нов файл, а 'Отказване' че отмени всички промени."
+
+msgid "imag_fi_tags"
+msgstr "Етикети:"
+
+msgid "imag_ia_no_images"
+msgstr "(няма изображения)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Файлът е само за четене. Метаданните не могат да бъдат редактирани."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Файловият формат не поддържа редактиране на метаданни"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Файлът е само за четене и не може да бъде преименуван."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Избраното място е само за четене. Запазването бе прекъснато."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Неуспешно обновяване на метаданните на %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Неуспешно обновяване на метаданните на избраните файлове"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Неуспешно обновяване на метаданните на %d/%d файла"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Файловете са само за четене. Метаданните не могат да бъдат редактирани."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr "Избраните файлове са само за четене или са във формат който не поддържа редактиране на метаданни"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "Форматите на избраните файлове не поддържат редактиране на метаданни"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Изображението вече не е достъпно"
+
+msgid "imag_ib_invalid_value"
+msgstr "Невалидна стойност"
+
+msgid "imag_ib_loading"
+msgstr "Зареждане на изображение %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Картата-памет е пълна. Операцията бе прекъсната."
+
+msgid "imag_ib_no_details"
+msgstr "Няма налична информация"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Изображенията вече не са достъпни"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Няма избрани изображения"
+
+msgid "imag_ib_not_available"
+msgstr "Недостъпно"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Недостатъчно памет за да бъде изпълнена избраната операция"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Недостатъчно памет за да се покаже изображението"
+
+msgid "imag_ib_operation_failed"
+msgstr "Неуспешна операция"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Размерите на изображението трябва да бъдат поне една точка"
+
+msgid "imag_ib_save_failed"
+msgstr "Неуспешно запазване"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Прегледът завърши"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Прегледът започна"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Неуспешно изтриване на файла"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Неуспешно изтриване на избраните файлове"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Неуспешно изтриване на %d от избраните файлове"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Неуспешно показване на изображението"
+
+msgid "imag_ib_zooming"
+msgstr "Мащабиране"
+
+msgid "imag_me_date_off"
+msgstr "Изключено"
+
+msgid "imag_me_date_title"
+msgstr "Филтриране по дата"
+
+msgid "imag_me_delete"
+msgstr "Изтриване"
+
+msgid "imag_me_details"
+msgstr "Информация"
+
+msgid "imag_me_edit_image"
+msgstr "Редактиране"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Любими"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Изключено"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Филтриране по етикети"
+
+msgid "imag_me_folder_all_images"
+msgstr "Всички изображения"
+
+msgid "imag_me_folder_camera"
+msgstr "Папка за снимки"
+
+msgid "imag_me_folder_title"
+msgstr "Филтриране по папки"
+
+msgid "imag_me_mark_favourite"
+msgstr "Добави към Любими"
+
+msgid "imag_me_multiple_delete"
+msgstr "Избиране и изтриване"
+
+msgid "imag_me_multiple_share"
+msgstr "Избиране и споделяне"
+
+msgid "imag_me_multiple_tags"
+msgstr "Редактиране на етикетите"
+
+msgid "imag_me_rename"
+msgstr "Преименуване"
+
+msgid "imag_me_save"
+msgstr "Запазване"
+
+msgid "imag_me_save_as"
+msgstr "Запазване като"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Слагане като аватар"
+
+msgid "imag_me_settings"
+msgstr "Настройки"
+
+msgid "imag_me_share"
+msgstr "Споделяне"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Премахни от Любими"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "На работен плот като фон"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Презаписване на оригиналния файл?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Изтриване на %d изображения?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "Изтриване на %d изображения, включително и %d които са само за четене?"
+
+msgid "imag_nc_delete_single"
+msgstr "Изтриване на изборажението '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr "Изтриване на файла който е само за четене?\n%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Картата-памет е пълна. Запазването е прекъснато."
+
+msgid "imag_ni_memory_read_only"
+msgstr "Картата-памет е само за писане.\nПроменете мястото за запазване."
+
+msgid "imag_ni_non_local_files"
+msgstr "Неуспешно отваряне на отдалечени файлове"
+
+msgid "imag_ni_save_read_only_file"
+msgstr "Оригиналното изображение е само за четене. Редактираното изображение трябва да бъде запазено като нов файл."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr "%d от %d файла са само за четене.\nВъзможно е обновление на етикетите само на останалите файлове."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr "Някои от избраните файлове са само за четене или форматът им не поддържа редактиране на метаданни.\nВъзможно е обновлението на етикетите само на %d от %d файла."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr "Форматът на %d от %d файла не поддържа етикети.\nВъзможно е обновление на етикетите само на останалите файлове."
+
+msgid "imag_ni_unsupported_file"
+msgstr "Неуспешно отваряне.\nФорматът на файла не се поддържа."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr "Неуспешно запазване в първоначалния формат.\nНеобходим е алтернативен формат."
+
+msgid "imag_nw_saving"
+msgstr "Запазване на изображение %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Запазване на етикетите"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Изязване на аватар"
+
+msgid "imag_ti_dates"
+msgstr "дати"
+
+msgid "imag_ti_details"
+msgstr "Информация"
+
+msgid "imag_ti_details_favourite"
+msgstr "Любими"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Коригиране на яркост и контраст"
+
+msgid "imag_ti_edit_crop"
+msgstr "Изрязване на изображение"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Редактиране на геоетикети"
+
+msgid "imag_ti_edit_image"
+msgstr "Редактиране на изображение"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Изчистване ( изберете областта с червени очи )"
+
+msgid "imag_ti_edit_resize"
+msgstr "Преоразмеряване на изображението"
+
+msgid "imag_ti_filter_date"
+msgstr "Филтриране по дата"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Потребителски период"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Избор на дата"
+
+msgid "imag_ti_filter_folder"
+msgstr "Филтриране по папка"
+
+msgid "imag_ti_filter_tags"
+msgstr "Филтриране по етикети"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Филтриране по тагове на Любими"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Всички изображения"
+
+msgid "imag_ti_folder_camera"
+msgstr "Папка за снимки"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Избор на изображения"
+
+msgid "imag_ti_new_geotag"
+msgstr "Нов геоетикет"
+
+msgid "imag_ti_rename"
+msgstr "Преименуване на изображение"
+
+msgid "imag_ti_save_as"
+msgstr "Запазване на изображението като %s"
+
+msgid "imag_ti_settings"
+msgstr "Настройки"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Групиране по месеци"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Показване на указателя на метаданни"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Преглед"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Подреждане"
+
+msgid "imag_ti_tags"
+msgstr "етикети"
+
+msgid "imag_ti_tags_edit"
+msgstr "Редактиране на етикети"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Редактиране на етикетите в Любими"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Редактиране на етикетите в Любими"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Редактиране на етикетите в Любими*"
+
+msgid "imag_ti_tags_new"
+msgstr "Нов етикет"
