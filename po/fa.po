@@ -1,0 +1,628 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2011-11-06 14:51+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "imag_ap_images"
+msgstr "تصاویر"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "روشنایی و کنتراست"
+
+msgid "imag_bd_clear"
+msgstr "تمیز کردن"
+
+msgid "imag_bd_continue"
+msgstr "ادامه دادن"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "بریدن تصویر"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "ریت برش تصویر"
+
+msgid "imag_bd_date_custom_range"
+msgstr "محدوده‌ی زمانی دلخواه"
+
+msgid "imag_bd_date_off"
+msgstr "بدون اعمال فیلتر زمانی"
+
+msgid "imag_bd_date_one_day"
+msgstr "انتخاب کردن تاریخ"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", تصاویر: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "از"
+
+msgid "imag_bd_date_range_to"
+msgstr "به"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "برچسب ها"
+
+msgid "imag_bd_discard"
+msgstr "لغو کردن"
+
+msgid "imag_bd_edit_tags"
+msgstr "ویرایش برچسب ها"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "چرخش افقی"
+
+msgid "imag_bd_flip_vertical"
+msgstr "چرخش عمودی"
+
+msgid "imag_bd_folder_all_images"
+msgstr "تمام تصاویر"
+
+msgid "imag_bd_folder_camera"
+msgstr "پوشه‌ی پیش‌فرض دوربین"
+
+msgid "imag_bd_folder_custom"
+msgstr "پوشه‌ی دلخواه"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "شهر"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "منطقه"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "ناحیه"
+
+msgid "imag_bd_new_tag"
+msgstr "جدید"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "حذف قرمزی چشم"
+
+msgid "imag_bd_resize"
+msgstr "تغییر اندازه"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "تغییر اندازه"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "تغییر اندازه به"
+
+msgid "imag_bd_save_as"
+msgstr "ذخیره به عنوان"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "سریع"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "متوسط"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "آهسته"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "برحسب نام"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "برحسب تاریخ"
+
+msgid "imag_bd_share"
+msgstr "به اشتراک گذاشتن"
+
+msgid "imag_bd_show_on_map"
+msgstr "نشان دادن روی نقشه"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "برچسب جغرافیایی"
+
+msgid "imag_fi_crop_free"
+msgstr "بدون ریت"
+
+msgid "imag_fi_crop_original"
+msgstr "اصلی"
+
+msgid "imag_fi_crop_screen"
+msgstr "ریت صفحه نمایش"
+
+msgid "imag_fi_crop_square"
+msgstr "مربع"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "ای‌وی"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "میلی متر"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "ثانیه"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "گشادگی دیافراگم"
+
+msgid "imag_fi_details_camera"
+msgstr "دوربین"
+
+msgid "imag_fi_details_common"
+msgstr "اصلی"
+
+msgid "imag_fi_details_creator"
+msgstr "سازنده"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "تاریخ و زمان گرفته شده"
+
+msgid "imag_fi_details_description"
+msgstr "توضیح"
+
+msgid "imag_fi_details_dimensions"
+msgstr "ابعاد"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d پیکسل"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "نوردهی متمایل"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "زمان نوردهی"
+
+msgid "imag_fi_details_flash"
+msgstr "فلش"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "حالت خودکار"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "خاموش بودن اجباری فلش"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "روشن بودن اجباری فلش"
+
+msgid "imag_fi_details_flash_off"
+msgstr "بدون فلش"
+
+msgid "imag_fi_details_flash_on"
+msgstr "با فلش"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "کاهش قرمزی چشم"
+
+msgid "imag_fi_details_focallength"
+msgstr "فاصله کانونی"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "ارتفاع جی‌پی‌اس"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d m"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "عرض جغرافیایی جی‌پی‌اس"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "طول جغرافیایی جی‌پی‌اس"
+
+msgid "imag_fi_details_iso"
+msgstr "ایزو"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "کیفیت عکس"
+
+msgid "imag_fi_details_maker"
+msgstr "سازنده دوربین"
+
+msgid "imag_fi_details_metadata"
+msgstr "فراداده"
+
+msgid "imag_fi_details_metering_average"
+msgstr "متوسط"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "میانگین مرکز وزن"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "چند نقطه"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "چند قطعه"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "جزئي"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "نقطه"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "حالت اندازه گیری"
+
+msgid "imag_fi_details_model"
+msgstr "مدل دوربین"
+
+msgid "imag_fi_details_no_camera"
+msgstr "اطلاعات دوربین در دسترس نیست"
+
+msgid "imag_fi_details_no_common"
+msgstr "اطلاعات اصلی در دسترس نیست"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "اطلاعات فراداده شده توسط فرمت فایل پشتیبانی نمی‌شود"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "پیش نمایش"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d پیکسل"
+
+msgid "imag_fi_details_title"
+msgstr "عنوان"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "مقدار نامشخص"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "تعادل رنگ سفید"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "خودکار"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "دستی"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "روشنایی"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "کنتراست"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "ارتفاع:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "پیکسل"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "عرض:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d تصاویر"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "یک تصویر"
+
+msgid "imag_fi_geotags_city"
+msgstr "شهر:"
+
+msgid "imag_fi_geotags_country"
+msgstr "منطقه :"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "ناحیه:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "نوع"
+
+msgid "imag_fi_save_changes"
+msgstr "تغییرات ذخیره شود؟\nذخیره \"روی فایل اصلی ذخیره خواهند شد، و با استفاده از\" ذخیره به عنوان \" به عنوان یک فایل جدید ذخیره خواهند شد و با استفاده از \"دست کشیدن \" تمام تغییرات لغو خواهند شد. \"تغییرات با استفاده از"
+
+msgid "imag_fi_tags"
+msgstr "برچسب ها :"
+
+msgid "imag_ia_no_images"
+msgstr "(هیچ تصویری وجود ندارد)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "فایل فقط قابل خواندن است. امکان ویرایش فراداده وجود ندارد."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "فرمت فایل ویرایش فرا‌داده را پشتیبانی نمی‌کند"
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "فایل فقط قابل خواندن است. امکان تغییر نام وجود ندارد."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "موقعیت انتخاب شده فقط قابل خواندن است.ذخیره سازی لغو شد."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "قادر به بروزرسانی فراداده برای %s نیست"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "قادر به بروزرسانی فراداده‌ی  فایل‌های انتخاب شده نیست."
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "امکان بروزرسانی فراداده‌ی فایلهای %d/%d وجود ندارد"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "فایل‌ها فقط قابل خواندن هستند.امکان ویرایش فراداده نمی‌باشد"
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr "فایل‌های انتخاب شده یا فقط قابل خواندن هستند و یا بواسطه‌ی فرمتی که دارند از ویرایش فراداده پشتیبانی نمی‌کنند"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "فرمت فایل‌های انتخاب شده از ویرایش فراداده پشتیبانی نمی‌کند"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "تصویر در دسترس نیست"
+
+msgid "imag_ib_invalid_value"
+msgstr "مقدار نامعتبر"
+
+msgid "imag_ib_loading"
+msgstr "درحال بار گذاری عکس %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "حافظه پر است. عملیات لغو شد."
+
+msgid "imag_ib_no_details"
+msgstr "جزئیاتی موجود نیست"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "تصاویر در دسترس نیستند"
+
+msgid "imag_ib_no_images_selected"
+msgstr "هیچ تصویری انتخاب نشده است"
+
+msgid "imag_ib_not_available"
+msgstr "در دسترس نمی‌باشد"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "حافظه‌ی کافی برای انجام عملیات انتخاب شده در دسترس نیست"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "حافظه‌ی کافی برای نمایش تصویر در دسترس نیست"
+
+msgid "imag_ib_operation_failed"
+msgstr "عملیات لغو شد"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "عرض وارتفاع تصویر باید حداقل 1 پیکسل باشد"
+
+msgid "imag_ib_save_failed"
+msgstr "ذخیره سازی ناموفق بود"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "نمایش اسلاید به پایان رسید"
+
+msgid "imag_ib_slideshow_started"
+msgstr "نمایش اسلاید آغاز شد"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "قادر به پاک کردن فایل نیست"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "قادر به حذف فایل‌های انتخاب شده نمی‌باشد"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "قابل حذف نیستند %d از فایل‌های انتخاب شده"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "قادر به نمایش تصویر نمی‌باشد"
+
+msgid "imag_ib_zooming"
+msgstr "در حال بزرگنمایی"
+
+msgid "imag_me_date_off"
+msgstr "خاموش"
+
+msgid "imag_me_date_title"
+msgstr "محدود کردن بر اساس تاریخ"
+
+msgid "imag_me_delete"
+msgstr "حذف"
+
+msgid "imag_me_details"
+msgstr "جزئیات"
+
+msgid "imag_me_edit_image"
+msgstr "ویرایش تصویر"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "علاقه مندی‌ها"
+
+msgid "imag_me_filter_tags_off"
+msgstr "خاموش"
+
+msgid "imag_me_filter_tags_title"
+msgstr "محدود کردن بر اساس برچسب‌ها"
+
+msgid "imag_me_folder_all_images"
+msgstr " تمام تصاویر"
+
+msgid "imag_me_folder_camera"
+msgstr "پوشه‌ی پیش فرض دوربین"
+
+msgid "imag_me_folder_title"
+msgstr "محدود کردن با پوشه"
+
+msgid "imag_me_mark_favourite"
+msgstr "علامت گذاری به عنوان مورد علاقه"
+
+msgid "imag_me_multiple_delete"
+msgstr "حذف تصاویر"
+
+msgid "imag_me_multiple_share"
+msgstr "یه اشتراک گذاری تصاویر"
+
+msgid "imag_me_multiple_tags"
+msgstr "ویرایش برچسب‌های تصاویر"
+
+msgid "imag_me_rename"
+msgstr "تغییر نام"
+
+msgid "imag_me_save"
+msgstr "ذخیره کردن"
+
+msgid "imag_me_save_as"
+msgstr "ذخیره به عنوان"
+
+msgid "imag_me_set_as_avatar"
+msgstr "قرار دادن به عنوان آواتار"
+
+msgid "imag_me_settings"
+msgstr "تنظیمات"
+
+msgid "imag_me_share"
+msgstr "یه اشتراک گذاری"
+
+msgid "imag_me_unmark_favourite"
+msgstr "حذف از علاقه‌مندی‌ها"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "قرار دادن به عنوان تصویر پس زمینه"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "تغییرات بر روی فایل اصلی ذخیره شود؟"
+
+msgid "imag_nc_delete_multiple"
+msgstr "حذف %d تصاویر"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "حذف %d تصاویر , شامل %d که به صورت فقط قابل خواندن نشانه گذاری شده‌اند?"
+
+msgid "imag_nc_delete_single"
+msgstr "تصویر حذف شود  '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr "فایل فقط قابل خواندن را حذف کند؟\n%s"
+
+msgid "imag_ni_memory_full"
+msgstr "حافظه پر است.ذخیره سازی لغو شد."
+
+msgid "imag_ni_memory_read_only"
+msgstr "کارت حافظه فقط قابل خواندن است\nمسیر ذخیره را تغییر دهید."
+
+msgid "imag_ni_non_local_files"
+msgstr "قادر به باز کردن فایل غیر محلی نیست"
+
+msgid "imag_ni_save_read_only_file"
+msgstr "فایل تصویر اصلی فقط قابل خواندن است.تصویر ویرایشی باید به عنوان یک فایل جدید ذخیره شود"
+
+msgid "imag_ni_tags_read_only_files"
+msgstr "وضعیت %d/%d فایل‌ها به عنوان فقط قابل خواندن مشخص شده است.\nفقط امکان بروزرسانی برچسب‌های فایل های دیگر وجود دارد."
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr "فایل‌های انتخاب شده یا فقط قابل خواندن هستند و یا بواسطه‌ی فرمتی که دارند از ویرایش فراداده پشتیبانی نمی‌کنند.\nفقط امکان بروزرسانی برچسب فایل‌های f %d/%d وجود دارد."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr "فرمت فایل %d/%d برچسب فایل‌ها پشتیبانی نمی‌کند از.\nفقط امکان بروزرسانی برچسب سایر فایل‌ها وجود دارد."
+
+msgid "imag_ni_unsupported_file"
+msgstr "قادر به باز کردن نمی‌باشد.\nفرمت فایل پشتیبانی نمی‌شود."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr "قادر به ذخیره سازی در فرمت اصلی نمی‌باشد.\nفرمت های جایگزین مورد نیاز است."
+
+msgid "imag_nw_saving"
+msgstr "در حال ذخیره سازی تصویر %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "در حال ذخیره سازی بر چسب‌ها"
+
+msgid "imag_ti_crop_avatar"
+msgstr "برش آواتار"
+
+msgid "imag_ti_dates"
+msgstr "تاریخ"
+
+msgid "imag_ti_details"
+msgstr "جزئیات"
+
+msgid "imag_ti_details_favourite"
+msgstr "مورد‌علاقه"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "تنظیم روشنایی و کنتراست"
+
+msgid "imag_ti_edit_crop"
+msgstr "برش عکس"
+
+msgid "imag_ti_edit_geotags"
+msgstr "ویرایش برچسب جغرافیایی"
+
+msgid "imag_ti_edit_image"
+msgstr "ویرایش عکس"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "حذف قرمزی چشم بوسیله‌ی ضربه‌ی آهسته به آنها"
+
+msgid "imag_ti_edit_resize"
+msgstr "تغییر اندازه تصویر"
+
+msgid "imag_ti_filter_date"
+msgstr "محدود کردن بر اساس تاریخ"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "وارد کردن ، محدوده‌ی زمانی دلخواه"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "انتخاب تاریخ"
+
+msgid "imag_ti_filter_folder"
+msgstr "محدود شدن بر اساس پوشه"
+
+msgid "imag_ti_filter_tags"
+msgstr "محدود کردن بر اساس برچسب‌ها"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "محدود کردن بر اساس برچسب‌ها - علاقه مندی‌ها"
+
+msgid "imag_ti_folder_all_images"
+msgstr "تمام تصاویر"
+
+msgid "imag_ti_folder_camera"
+msgstr "پوشه‌ی پیش‌فرض دوربین"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "تصاویر انتخاب شده"
+
+msgid "imag_ti_new_geotag"
+msgstr "برچسب جغرافیایی جدید"
+
+msgid "imag_ti_rename"
+msgstr "تغییر نام تصویر"
+
+msgid "imag_ti_save_as"
+msgstr "ذخیره سازی تصویر به عنوان %s"
+
+msgid "imag_ti_settings"
+msgstr "تنظیمات"
+
+msgid "imag_ti_settings_grouping"
+msgstr "گروه‌بندی بر اساس ماه"
+
+msgid "imag_ti_settings_metadata"
+msgstr "نمایش شاخص‌های فراداده"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "نمایش به صورت اسلاید"
+
+msgid "imag_ti_settings_sorting"
+msgstr "مرتب‌سازی بر حسب"
+
+msgid "imag_ti_tags"
+msgstr "برچسب‌ها"
+
+msgid "imag_ti_tags_edit"
+msgstr "ویرایش برچسب‌ها"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "ویرایش برچسب‌ها - علاقه"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "ویرایش برچسب‌ها - علاقه مندی‌ها"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "ویرایش برچسب‌ها - علاقه مندی‌ها*"
+
+msgid "imag_ti_tags_new"
+msgstr "برچسب جدید"
