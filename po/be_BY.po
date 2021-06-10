@@ -1,0 +1,627 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2012-05-26 10:21+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "imag_ap_images"
+msgstr "Выявы"
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr "Яскравасць і кантраснасць"
+
+msgid "imag_bd_clear"
+msgstr "Ачісціць"
+
+msgid "imag_bd_continue"
+msgstr "Працягнуць"
+
+msgid "imag_bd_crop_confirm_button"
+msgstr "Выразаць"
+
+msgid "imag_bd_crop_ratio_button"
+msgstr "Выразанне (памер)"
+
+msgid "imag_bd_date_custom_range"
+msgstr "Карыстальніцкі перыяд"
+
+msgid "imag_bd_date_off"
+msgstr "Без фільтравання па датах"
+
+msgid "imag_bd_date_one_day"
+msgstr "Абярыце дату"
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ", здымкаў: %d"
+
+msgid "imag_bd_date_range_from"
+msgstr "Ад"
+
+msgid "imag_bd_date_range_to"
+msgstr "Да"
+
+msgid "imag_bd_details_edit_tags"
+msgstr "Тэгі"
+
+msgid "imag_bd_discard"
+msgstr "Адхіліць"
+
+msgid "imag_bd_edit_tags"
+msgstr "Рэдагаваць тэгі"
+
+msgid "imag_bd_flip_horizontal"
+msgstr "Павярнуць па гарызанталі"
+
+msgid "imag_bd_flip_vertical"
+msgstr "Павярнеуць па вертыкалі"
+
+msgid "imag_bd_folder_all_images"
+msgstr "Усе выявы"
+
+msgid "imag_bd_folder_camera"
+msgstr "Тэчка камеры"
+
+msgid "imag_bd_folder_custom"
+msgstr "Карыстальніцкая тэчка"
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr "Горад"
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr "Краіна"
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr "Раён"
+
+msgid "imag_bd_new_tag"
+msgstr "Новы"
+
+msgid "imag_bd_red_eye_removal"
+msgstr "Выдаленне эфекту чырвоных вачэй"
+
+msgid "imag_bd_resize"
+msgstr "Змяніць памер"
+
+msgid "imag_bd_resize_confirm_button"
+msgstr "Змяніць памер"
+
+msgid "imag_bd_resize_percentage_button"
+msgstr "Змяніць памер да"
+
+msgid "imag_bd_save_as"
+msgstr "Захаваць як"
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr "Хуткі"
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr "Сярэдні"
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr "Павольны"
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr "Па назве"
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr "Па даце"
+
+msgid "imag_bd_share"
+msgstr "Сумесны доступ"
+
+msgid "imag_bd_show_on_map"
+msgstr "Паказаць на мапе"
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr "Геатэгі"
+
+msgid "imag_fi_crop_free"
+msgstr "Свабодныя прапорцыі"
+
+msgid "imag_fi_crop_original"
+msgstr "Як арыгінальны"
+
+msgid "imag_fi_crop_screen"
+msgstr "Прапарцыянальна экрану"
+
+msgid "imag_fi_crop_square"
+msgstr "Квадрат"
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr "EV"
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr "мм"
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr "сек"
+
+msgid "imag_fi_details_aperturevalue"
+msgstr "Адтуліна"
+
+msgid "imag_fi_details_camera"
+msgstr "Камера"
+
+msgid "imag_fi_details_common"
+msgstr "Галоўныя"
+
+msgid "imag_fi_details_creator"
+msgstr "Аўтар"
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr "Час і дата здымку"
+
+msgid "imag_fi_details_description"
+msgstr "Апісанне"
+
+msgid "imag_fi_details_dimensions"
+msgstr "Памеры"
+
+msgid "imag_fi_details_dimensions_value"
+msgstr "%d * %d пікселяў"
+
+msgid "imag_fi_details_exposurebias"
+msgstr "Кампенсацыя экспазіцыі"
+
+msgid "imag_fi_details_exposuretime"
+msgstr "Час экспазіцыі"
+
+msgid "imag_fi_details_flash"
+msgstr "Успышка"
+
+msgid "imag_fi_details_flash_auto"
+msgstr "Аўта рэжым"
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr "Выключана"
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr "Уключана"
+
+msgid "imag_fi_details_flash_off"
+msgstr "Выключана"
+
+msgid "imag_fi_details_flash_on"
+msgstr "Уключана"
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr "Зніжэнне эфекту чырвоных вачэй"
+
+msgid "imag_fi_details_focallength"
+msgstr "Фокусная адлегласць"
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr "Вышыня GPS"
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr "%d м"
+
+msgid "imag_fi_details_gpslatitude"
+msgstr "Шырата GPS"
+
+msgid "imag_fi_details_gpslongitude"
+msgstr "Даўгата GPS"
+
+msgid "imag_fi_details_iso"
+msgstr "ISO"
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr "Якасць Jpeg"
+
+msgid "imag_fi_details_maker"
+msgstr "Вытворца камеры"
+
+msgid "imag_fi_details_metadata"
+msgstr "Метададзеныя"
+
+msgid "imag_fi_details_metering_average"
+msgstr "Сярэдні"
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr "Цэнтральна-ўзважаны"
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr "Шматкропны"
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr "Шматсегментны"
+
+msgid "imag_fi_details_metering_partial"
+msgstr "Часковы"
+
+msgid "imag_fi_details_metering_spot"
+msgstr "Кропка"
+
+msgid "imag_fi_details_meteringmode"
+msgstr "Рэжым замеру"
+
+msgid "imag_fi_details_model"
+msgstr "Мадэль камеры"
+
+msgid "imag_fi_details_no_camera"
+msgstr "Інфармацыя аб камеры недаступная"
+
+msgid "imag_fi_details_no_common"
+msgstr "Галоўная інфармацыя недаступная"
+
+msgid "imag_fi_details_no_metadata"
+msgstr "Інфармацыя аб метададзеных не падтрымліваецца фарматам файла"
+
+msgid "imag_fi_details_thumbnail"
+msgstr "Драбніца"
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr "%d * %d пікселяў"
+
+msgid "imag_fi_details_title"
+msgstr "Назва"
+
+msgid "imag_fi_details_unknown_value"
+msgstr "Невядомае значэнне"
+
+msgid "imag_fi_details_whitebalance"
+msgstr "Баланс белага"
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr "Аўта"
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr "Уручную"
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr "Яскравасць"
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr "Кантрастнасць"
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr "В:"
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr "пікс"
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr "Ш:"
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr "%d малюнкаў"
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr "1 малюнак"
+
+msgid "imag_fi_geotags_city"
+msgstr "Горад:"
+
+msgid "imag_fi_geotags_country"
+msgstr "Краіна:"
+
+msgid "imag_fi_geotags_suburb"
+msgstr "Раён:"
+
+msgid "imag_fi_new_geotag_type"
+msgstr "Тып"
+
+msgid "imag_fi_save_changes"
+msgstr "Захаваць змены?\n'Захаваць' перазапіша арыгінальны файл, 'Захаваць як' захавае змены ў новым файле, а 'Адхіліць' адкіне ўсе змены"
+
+msgid "imag_fi_tags"
+msgstr "Тэгі:"
+
+msgid "imag_ia_no_images"
+msgstr "(няма выяў)"
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr "Файл толькі для чытання. Немагчыма рэдагаваць метададзеныя."
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr "Фармат файла не падтрымлівае рэдагаванне метададзеных."
+
+msgid "imag_ib_file_rename_readonly"
+msgstr "Файл толькі для чытання. Немагчыма перайменаваць."
+
+msgid "imag_ib_file_save_readonly"
+msgstr "Абранае размяшчэнне толькі для чытання. Захаванне скасавана."
+
+msgid "imag_ib_files_metadata_fail"
+msgstr "Немагчыма абнавіць метададзеныя для %s"
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr "Немагчыма абнавіць метададзеныя для абраных файлаў"
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr "Немагчыма абнавіць метададзеныя для %d/%d файлаў"
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr "Файлы толькі для чытання. Немагчыма рэдагаваць метададзеныя."
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr "Абраныя файлы або толькі для чытання, або маюць фарматы файлаў, якія не падтрымліваюць рэдагаванне метададзеных"
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr "Фарматы абраных файлаў не падтрымліваюць рэдагаванне метададзеных"
+
+msgid "imag_ib_image_no_longer_available"
+msgstr "Выява болей недаступная"
+
+msgid "imag_ib_invalid_value"
+msgstr "Няправільнае значэнне"
+
+msgid "imag_ib_loading"
+msgstr "Загрузка выявы %d/%d"
+
+msgid "imag_ib_memory_full"
+msgstr "Памяць перапоўненая. Аперацыя скасаваная."
+
+msgid "imag_ib_no_details"
+msgstr "Няма даступных дэталяў"
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr "Выявы болей недаступныя"
+
+msgid "imag_ib_no_images_selected"
+msgstr "Няма выбраных выяў"
+
+msgid "imag_ib_not_available"
+msgstr "Недаступна"
+
+msgid "imag_ib_not_enough_memory"
+msgstr "Не хапае памяці для выканання абранай аперацыі"
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr "Не хапае памяці для адлюстравання выявы"
+
+msgid "imag_ib_operation_failed"
+msgstr "Няўдалая аперацыя"
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr "Шырыня ці высата выявы павінны быць па крайняй меры 1 піксель"
+
+msgid "imag_ib_save_failed"
+msgstr "Захаванне не ўдалося"
+
+msgid "imag_ib_slideshow_ended"
+msgstr "Слайдшоў закончанае"
+
+msgid "imag_ib_slideshow_started"
+msgstr "Слайдшоў пачатае"
+
+msgid "imag_ib_unable_to_delete"
+msgstr "Немагчыма выдаліць файл"
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr "Немагчыма выдаліць абраныя файлы"
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr "Немагчыма выдаліць %d з абраных файлаў"
+
+msgid "imag_ib_unable_to_show_image"
+msgstr "Немагчыма адлюстраваць выяву"
+
+msgid "imag_ib_zooming"
+msgstr "Маштабаванне"
+
+msgid "imag_me_date_off"
+msgstr "Выключана"
+
+msgid "imag_me_date_title"
+msgstr "Фільтрафаць па даце"
+
+msgid "imag_me_delete"
+msgstr "Выдаліць"
+
+msgid "imag_me_details"
+msgstr "Дэталі"
+
+msgid "imag_me_edit_image"
+msgstr "Рэдагаваць выяву"
+
+msgid "imag_me_filter_tags_favourite"
+msgstr "Выбраныя"
+
+msgid "imag_me_filter_tags_off"
+msgstr "Выключана"
+
+msgid "imag_me_filter_tags_title"
+msgstr "Фільтраваць па тэгах"
+
+msgid "imag_me_folder_all_images"
+msgstr "Усе выявы"
+
+msgid "imag_me_folder_camera"
+msgstr "Тэчка каамеры"
+
+msgid "imag_me_folder_title"
+msgstr "Фільтраваць па тэчках"
+
+msgid "imag_me_mark_favourite"
+msgstr "Пазначыць як выбранае"
+
+msgid "imag_me_multiple_delete"
+msgstr "Выдаліць выявы"
+
+msgid "imag_me_multiple_share"
+msgstr "Сумесны доступ да выяў"
+
+msgid "imag_me_multiple_tags"
+msgstr "Рэдагаваць тэгі выяў"
+
+msgid "imag_me_rename"
+msgstr "Перайменаваць"
+
+msgid "imag_me_save"
+msgstr "Захаваць"
+
+msgid "imag_me_save_as"
+msgstr "Захваваць як"
+
+msgid "imag_me_set_as_avatar"
+msgstr "Зрабіць аватарам"
+
+msgid "imag_me_settings"
+msgstr "Налады"
+
+msgid "imag_me_share"
+msgstr "Сумесны доступ"
+
+msgid "imag_me_unmark_favourite"
+msgstr "Зняць адзнаку выбранага"
+
+msgid "imag_me_use_as_wallpaper"
+msgstr "Усталяваць у якасці фонавага малюнка"
+
+msgid "imag_nc_confirm_overwrite"
+msgstr "Перазапісаць арыгінальны файл?"
+
+msgid "imag_nc_delete_multiple"
+msgstr "Выдаліць %d выявы?"
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr "Выдаліць %d выявы, уключаючы %d, пазначаныя як толькі для чытання?"
+
+msgid "imag_nc_delete_single"
+msgstr "Выдаліць выяву '%s'?"
+
+msgid "imag_nc_delete_single_read_only"
+msgstr "Выдаліць файл, які толькі для чытання?\n%s"
+
+msgid "imag_ni_memory_full"
+msgstr "Памяць перапоўненая. Захаванне скасаванае."
+
+msgid "imag_ni_memory_read_only"
+msgstr "Карта памяці толькі для чытання.\nЗмяніце размяшчэнне для захавання."
+
+msgid "imag_ni_non_local_files"
+msgstr "Немагчыма адчыніць нелакальныя файлы"
+
+msgid "imag_ni_save_read_only_file"
+msgstr "Арыгінальная выява толькі для чытання. Рэдагаваная выява мусіць быць захаваная як новы файл."
+
+msgid "imag_ni_tags_read_only_files"
+msgstr "Статус файлаў %d/%d толькі для чытання.\nМожна толькі абнавіць тэгі іншых файлаў"
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr "Некаторыя з абраных файлаў толькі для чытання ці маюць фармат, які не падтрымлівае рэдагаванне метададзеных.\nМожна толькі абнавіць тэгі %d/%d файлаў."
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr "Фармат файлаў %d/%d не падтрымлівае тэгі. \nМожна толькі абнавіць тэгі іншых файлаў."
+
+msgid "imag_ni_unsupported_file"
+msgstr "Немагчыма адчыніць.\nФармат файла не падтрымліваецца."
+
+msgid "imag_ni_unsupported_save_format"
+msgstr "Немагчыма захаваць у арыгінальным фармаце.\nПатрэбны альтэрнатыўны фармат."
+
+msgid "imag_nw_saving"
+msgstr "Захаванне выявы %s"
+
+msgid "imag_nw_saving_tags"
+msgstr "Захаванне тэгаў"
+
+msgid "imag_ti_crop_avatar"
+msgstr "Выразаць аватар"
+
+msgid "imag_ti_dates"
+msgstr "даты"
+
+msgid "imag_ti_details"
+msgstr "Дэталі"
+
+msgid "imag_ti_details_favourite"
+msgstr "Выбранае"
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr "Наладзіць яскравасць і кантраснасць"
+
+msgid "imag_ti_edit_crop"
+msgstr "Выразаць выяву"
+
+msgid "imag_ti_edit_geotags"
+msgstr "Рэдагаваць геатэгі"
+
+msgid "imag_ti_edit_image"
+msgstr "Рэдагаваць выву"
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr "Выдаліце эфект чырвоных вачэй, крануўшыся іх"
+
+msgid "imag_ti_edit_resize"
+msgstr "Змяніць памер выявы"
+
+msgid "imag_ti_filter_date"
+msgstr "Фільтраваць па даце"
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr "Карыстальніцкі перыяд"
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr "Абярыце дату"
+
+msgid "imag_ti_filter_folder"
+msgstr "Фільтраваць па тэчцы"
+
+msgid "imag_ti_filter_tags"
+msgstr "Фільтраваць па тэгах"
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr "Фільтраваць па тэгах - Выбранае"
+
+msgid "imag_ti_folder_all_images"
+msgstr "Усе выявы"
+
+msgid "imag_ti_folder_camera"
+msgstr "Тэчка камеры"
+
+msgid "imag_ti_grid_multiselection"
+msgstr "Абярыце выявы"
+
+msgid "imag_ti_new_geotag"
+msgstr "Новы геатэг"
+
+msgid "imag_ti_rename"
+msgstr "Перайменаваць выяву"
+
+msgid "imag_ti_save_as"
+msgstr "Захаваць выяву як %s"
+
+msgid "imag_ti_settings"
+msgstr "Налады"
+
+msgid "imag_ti_settings_grouping"
+msgstr "Групаваць па месяцы"
+
+msgid "imag_ti_settings_metadata"
+msgstr "Адлустраваць індыкатары метададзеных"
+
+msgid "imag_ti_settings_slideshow"
+msgstr "Слайдшоў"
+
+msgid "imag_ti_settings_sorting"
+msgstr "Сартаваць"
+
+msgid "imag_ti_tags"
+msgstr "тэгі"
+
+msgid "imag_ti_tags_edit"
+msgstr "Рэдагаваць тэгі"
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr "Рэдагаваць тэгі - Выбранае"
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr "Рэдагаваць тэгі - Выбраныя"
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr "Рэдагаваць тэгі - Выбраныя*"
+
+msgid "imag_ti_tags_new"
+msgstr "Новы тэг"
