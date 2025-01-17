@@ -1,0 +1,625 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-imageviewer-ui 20100208121228\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2010.02.08 12:12+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+msgid "imag_ap_images"
+msgstr ""
+
+msgid "imag_bd_brightness_and_contrast"
+msgstr ""
+
+msgid "imag_bd_clear"
+msgstr ""
+
+msgid "imag_bd_continue"
+msgstr ""
+
+msgid "imag_bd_crop_confirm_button"
+msgstr ""
+
+msgid "imag_bd_crop_ratio_button"
+msgstr ""
+
+msgid "imag_bd_date_custom_range"
+msgstr ""
+
+msgid "imag_bd_date_off"
+msgstr ""
+
+msgid "imag_bd_date_one_day"
+msgstr ""
+
+msgid "imag_bd_date_one_day_number_of_images"
+msgstr ""
+
+msgid "imag_bd_date_range_from"
+msgstr ""
+
+msgid "imag_bd_date_range_to"
+msgstr ""
+
+msgid "imag_bd_details_edit_tags"
+msgstr ""
+
+msgid "imag_bd_discard"
+msgstr ""
+
+msgid "imag_bd_edit_tags"
+msgstr ""
+
+msgid "imag_bd_flip_horizontal"
+msgstr ""
+
+msgid "imag_bd_flip_vertical"
+msgstr ""
+
+msgid "imag_bd_folder_all_images"
+msgstr ""
+
+msgid "imag_bd_folder_camera"
+msgstr ""
+
+msgid "imag_bd_folder_custom"
+msgstr ""
+
+msgid "imag_bd_new_geotag_type_city"
+msgstr ""
+
+msgid "imag_bd_new_geotag_type_country"
+msgstr ""
+
+msgid "imag_bd_new_geotag_type_suburb"
+msgstr ""
+
+msgid "imag_bd_new_tag"
+msgstr ""
+
+msgid "imag_bd_red_eye_removal"
+msgstr ""
+
+msgid "imag_bd_resize"
+msgstr ""
+
+msgid "imag_bd_resize_confirm_button"
+msgstr ""
+
+msgid "imag_bd_resize_percentage_button"
+msgstr ""
+
+msgid "imag_bd_save_as"
+msgstr ""
+
+msgid "imag_bd_settings_slideshow_fast"
+msgstr ""
+
+msgid "imag_bd_settings_slideshow_medium"
+msgstr ""
+
+msgid "imag_bd_settings_slideshow_slow"
+msgstr ""
+
+msgid "imag_bd_settings_sorting_alphabetical"
+msgstr ""
+
+msgid "imag_bd_settings_sorting_chronological"
+msgstr ""
+
+msgid "imag_bd_share"
+msgstr ""
+
+msgid "imag_bd_show_on_map"
+msgstr ""
+
+msgid "imag_bd_tags_edit_geotags"
+msgstr ""
+
+msgid "imag_fi_crop_free"
+msgstr ""
+
+msgid "imag_fi_crop_original"
+msgstr ""
+
+msgid "imag_fi_crop_screen"
+msgstr ""
+
+msgid "imag_fi_crop_square"
+msgstr ""
+
+msgid "imag_fi_details_abbreviation_ev"
+msgstr ""
+
+msgid "imag_fi_details_abbreviation_mm"
+msgstr ""
+
+msgid "imag_fi_details_abbreviation_sec"
+msgstr ""
+
+msgid "imag_fi_details_aperturevalue"
+msgstr ""
+
+msgid "imag_fi_details_camera"
+msgstr ""
+
+msgid "imag_fi_details_common"
+msgstr ""
+
+msgid "imag_fi_details_creator"
+msgstr ""
+
+msgid "imag_fi_details_datetimeoriginal"
+msgstr ""
+
+msgid "imag_fi_details_description"
+msgstr ""
+
+msgid "imag_fi_details_dimensions"
+msgstr ""
+
+msgid "imag_fi_details_dimensions_value"
+msgstr ""
+
+msgid "imag_fi_details_exposurebias"
+msgstr ""
+
+msgid "imag_fi_details_exposuretime"
+msgstr ""
+
+msgid "imag_fi_details_flash"
+msgstr ""
+
+msgid "imag_fi_details_flash_auto"
+msgstr ""
+
+msgid "imag_fi_details_flash_forced_off"
+msgstr ""
+
+msgid "imag_fi_details_flash_forced_on"
+msgstr ""
+
+msgid "imag_fi_details_flash_off"
+msgstr ""
+
+msgid "imag_fi_details_flash_on"
+msgstr ""
+
+msgid "imag_fi_details_flash_red_eye_reduction"
+msgstr ""
+
+msgid "imag_fi_details_focallength"
+msgstr ""
+
+msgid "imag_fi_details_gpsaltitude"
+msgstr ""
+
+msgid "imag_fi_details_gpsaltitude_value"
+msgstr ""
+
+msgid "imag_fi_details_gpslatitude"
+msgstr ""
+
+msgid "imag_fi_details_gpslongitude"
+msgstr ""
+
+msgid "imag_fi_details_iso"
+msgstr ""
+
+msgid "imag_fi_details_jpeg_quality"
+msgstr ""
+
+msgid "imag_fi_details_maker"
+msgstr ""
+
+msgid "imag_fi_details_metadata"
+msgstr ""
+
+msgid "imag_fi_details_metering_average"
+msgstr ""
+
+msgid "imag_fi_details_metering_center_weighted_average"
+msgstr ""
+
+msgid "imag_fi_details_metering_multi_spot"
+msgstr ""
+
+msgid "imag_fi_details_metering_multisegment"
+msgstr ""
+
+msgid "imag_fi_details_metering_partial"
+msgstr ""
+
+msgid "imag_fi_details_metering_spot"
+msgstr ""
+
+msgid "imag_fi_details_meteringmode"
+msgstr ""
+
+msgid "imag_fi_details_model"
+msgstr ""
+
+msgid "imag_fi_details_no_camera"
+msgstr ""
+
+msgid "imag_fi_details_no_common"
+msgstr ""
+
+msgid "imag_fi_details_no_metadata"
+msgstr ""
+
+msgid "imag_fi_details_thumbnail"
+msgstr ""
+
+msgid "imag_fi_details_thumbnail_value"
+msgstr ""
+
+msgid "imag_fi_details_title"
+msgstr ""
+
+msgid "imag_fi_details_unknown_value"
+msgstr ""
+
+msgid "imag_fi_details_whitebalance"
+msgstr ""
+
+msgid "imag_fi_details_whitebalance_auto"
+msgstr ""
+
+msgid "imag_fi_details_whitebalance_manual"
+msgstr ""
+
+msgid "imag_fi_edit_toolbar_brightness"
+msgstr ""
+
+msgid "imag_fi_edit_toolbar_contrast"
+msgstr ""
+
+msgid "imag_fi_edit_toolbar_height"
+msgstr ""
+
+msgid "imag_fi_edit_toolbar_pixels"
+msgstr ""
+
+msgid "imag_fi_edit_toolbar_width"
+msgstr ""
+
+msgid "imag_fi_filter_date_sub_number_of_pictures"
+msgstr ""
+
+msgid "imag_fi_filter_date_sub_one_picture"
+msgstr ""
+
+msgid "imag_fi_geotags_city"
+msgstr ""
+
+msgid "imag_fi_geotags_country"
+msgstr ""
+
+msgid "imag_fi_geotags_suburb"
+msgstr ""
+
+msgid "imag_fi_new_geotag_type"
+msgstr ""
+
+msgid "imag_fi_save_changes"
+msgstr ""
+
+msgid "imag_fi_tags"
+msgstr ""
+
+msgid "imag_ia_no_images"
+msgstr ""
+
+msgid "imag_ib_file_metadata_read_only"
+msgstr ""
+
+msgid "imag_ib_file_metadata_unsupported_fileformat"
+msgstr ""
+
+msgid "imag_ib_file_rename_readonly"
+msgstr ""
+
+msgid "imag_ib_file_save_readonly"
+msgstr ""
+
+msgid "imag_ib_files_metadata_fail"
+msgstr ""
+
+msgid "imag_ib_files_metadata_fail_all"
+msgstr ""
+
+msgid "imag_ib_files_metadata_fail_some"
+msgstr ""
+
+msgid "imag_ib_files_metadata_read_only"
+msgstr ""
+
+msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
+msgstr ""
+
+msgid "imag_ib_files_metadata_unsupported_fileformats"
+msgstr ""
+
+msgid "imag_ib_image_no_longer_available"
+msgstr ""
+
+msgid "imag_ib_invalid_value"
+msgstr ""
+
+msgid "imag_ib_loading"
+msgstr ""
+
+msgid "imag_ib_memory_full"
+msgstr ""
+
+msgid "imag_ib_no_details"
+msgstr ""
+
+msgid "imag_ib_no_images_available_anymore"
+msgstr ""
+
+msgid "imag_ib_no_images_selected"
+msgstr ""
+
+msgid "imag_ib_not_available"
+msgstr ""
+
+msgid "imag_ib_not_enough_memory"
+msgstr ""
+
+msgid "imag_ib_not_enough_memory_for_image"
+msgstr ""
+
+msgid "imag_ib_operation_failed"
+msgstr ""
+
+msgid "imag_ib_resize_cancelled_size"
+msgstr ""
+
+msgid "imag_ib_save_failed"
+msgstr ""
+
+msgid "imag_ib_slideshow_ended"
+msgstr ""
+
+msgid "imag_ib_slideshow_started"
+msgstr ""
+
+msgid "imag_ib_unable_to_delete"
+msgstr ""
+
+msgid "imag_ib_unable_to_delete_multiple_none"
+msgstr ""
+
+msgid "imag_ib_unable_to_delete_multiple_some"
+msgstr ""
+
+msgid "imag_ib_unable_to_show_image"
+msgstr ""
+
+msgid "imag_ib_zooming"
+msgstr ""
+
+msgid "imag_me_date_off"
+msgstr ""
+
+msgid "imag_me_date_title"
+msgstr ""
+
+msgid "imag_me_delete"
+msgstr ""
+
+msgid "imag_me_details"
+msgstr ""
+
+msgid "imag_me_edit_image"
+msgstr ""
+
+msgid "imag_me_filter_tags_favourite"
+msgstr ""
+
+msgid "imag_me_filter_tags_off"
+msgstr ""
+
+msgid "imag_me_filter_tags_title"
+msgstr ""
+
+msgid "imag_me_folder_all_images"
+msgstr ""
+
+msgid "imag_me_folder_camera"
+msgstr ""
+
+msgid "imag_me_folder_title"
+msgstr ""
+
+msgid "imag_me_mark_favourite"
+msgstr ""
+
+msgid "imag_me_multiple_delete"
+msgstr ""
+
+msgid "imag_me_multiple_share"
+msgstr ""
+
+msgid "imag_me_multiple_tags"
+msgstr ""
+
+msgid "imag_me_rename"
+msgstr ""
+
+msgid "imag_me_save"
+msgstr ""
+
+msgid "imag_me_save_as"
+msgstr ""
+
+msgid "imag_me_set_as_avatar"
+msgstr ""
+
+msgid "imag_me_settings"
+msgstr ""
+
+msgid "imag_me_share"
+msgstr ""
+
+msgid "imag_me_unmark_favourite"
+msgstr ""
+
+msgid "imag_me_use_as_wallpaper"
+msgstr ""
+
+msgid "imag_nc_confirm_overwrite"
+msgstr ""
+
+msgid "imag_nc_delete_multiple"
+msgstr ""
+
+msgid "imag_nc_delete_multiple_read_only"
+msgstr ""
+
+msgid "imag_nc_delete_single"
+msgstr ""
+
+msgid "imag_nc_delete_single_read_only"
+msgstr ""
+
+msgid "imag_ni_memory_full"
+msgstr ""
+
+msgid "imag_ni_memory_read_only"
+msgstr ""
+
+msgid "imag_ni_non_local_files"
+msgstr ""
+
+msgid "imag_ni_save_read_only_file"
+msgstr ""
+
+msgid "imag_ni_tags_read_only_files"
+msgstr ""
+
+msgid "imag_ni_tags_read_only_unsupported_fileformats"
+msgstr ""
+
+msgid "imag_ni_tags_unsupported_fileformats"
+msgstr ""
+
+msgid "imag_ni_unsupported_file"
+msgstr ""
+
+msgid "imag_ni_unsupported_save_format"
+msgstr ""
+
+msgid "imag_nw_saving"
+msgstr ""
+
+msgid "imag_nw_saving_tags"
+msgstr ""
+
+msgid "imag_ti_crop_avatar"
+msgstr ""
+
+msgid "imag_ti_dates"
+msgstr ""
+
+msgid "imag_ti_details"
+msgstr ""
+
+msgid "imag_ti_details_favourite"
+msgstr ""
+
+msgid "imag_ti_edit_brightness_and_contrast"
+msgstr ""
+
+msgid "imag_ti_edit_crop"
+msgstr ""
+
+msgid "imag_ti_edit_geotags"
+msgstr ""
+
+msgid "imag_ti_edit_image"
+msgstr ""
+
+msgid "imag_ti_edit_red_eye_removal"
+msgstr ""
+
+msgid "imag_ti_edit_resize"
+msgstr ""
+
+msgid "imag_ti_filter_date"
+msgstr ""
+
+msgid "imag_ti_filter_date_sub_custom_range"
+msgstr ""
+
+msgid "imag_ti_filter_date_sub_one_day"
+msgstr ""
+
+msgid "imag_ti_filter_folder"
+msgstr ""
+
+msgid "imag_ti_filter_tags"
+msgstr ""
+
+msgid "imag_ti_filter_tags_favourite_on"
+msgstr ""
+
+msgid "imag_ti_folder_all_images"
+msgstr ""
+
+msgid "imag_ti_folder_camera"
+msgstr ""
+
+msgid "imag_ti_grid_multiselection"
+msgstr ""
+
+msgid "imag_ti_new_geotag"
+msgstr ""
+
+msgid "imag_ti_rename"
+msgstr ""
+
+msgid "imag_ti_save_as"
+msgstr ""
+
+msgid "imag_ti_settings"
+msgstr ""
+
+msgid "imag_ti_settings_grouping"
+msgstr ""
+
+msgid "imag_ti_settings_metadata"
+msgstr ""
+
+msgid "imag_ti_settings_slideshow"
+msgstr ""
+
+msgid "imag_ti_settings_sorting"
+msgstr ""
+
+msgid "imag_ti_tags"
+msgstr ""
+
+msgid "imag_ti_tags_edit"
+msgstr ""
+
+msgid "imag_ti_tags_edit_favourite"
+msgstr ""
+
+msgid "imag_ti_tags_edit_multiple_favourite_all"
+msgstr ""
+
+msgid "imag_ti_tags_edit_multiple_favourite_some"
+msgstr ""
+
+msgid "imag_ti_tags_new"
+msgstr ""
