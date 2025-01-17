@@ -3,623 +3,647 @@ msgstr ""
 "Project-Id-Version: osso-imageviewer-ui 20100208121228\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2010.02.08 12:12+0200\n"
-"PO-Revision-Date: 2010.02.08 12:12+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-18 17:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-imageviewer-ui-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "imag_ap_images"
-msgstr ""
+msgstr "புகைப்படங்கள்"
 
 msgid "imag_bd_brightness_and_contrast"
-msgstr ""
+msgstr "ஒளி மற்றும் மாறுபாடு"
 
 msgid "imag_bd_clear"
-msgstr ""
+msgstr "தெளிவான"
 
 msgid "imag_bd_continue"
-msgstr ""
+msgstr "தொடரவும்"
 
 msgid "imag_bd_crop_confirm_button"
-msgstr ""
+msgstr "பயிர்"
 
 msgid "imag_bd_crop_ratio_button"
-msgstr ""
+msgstr "பயிர் விகிதம்"
 
 msgid "imag_bd_date_custom_range"
-msgstr ""
+msgstr "தனிப்பயன் தேதி வரம்பு"
 
 msgid "imag_bd_date_off"
-msgstr ""
+msgstr "தேதி வடிகட்டுதல் இல்லை"
 
 msgid "imag_bd_date_one_day"
-msgstr ""
+msgstr "தேதியைத் தேர்ந்தெடுங்கள்"
 
 msgid "imag_bd_date_one_day_number_of_images"
-msgstr ""
+msgstr ", படங்கள்: %d"
 
 msgid "imag_bd_date_range_from"
-msgstr ""
+msgstr "இருந்து"
 
 msgid "imag_bd_date_range_to"
-msgstr ""
+msgstr "பெறுநர்"
 
 msgid "imag_bd_details_edit_tags"
-msgstr ""
+msgstr "குறிச்சொற்கள்"
 
 msgid "imag_bd_discard"
-msgstr ""
+msgstr "நிராகரிக்கவும்"
 
 msgid "imag_bd_edit_tags"
-msgstr ""
+msgstr "குறிச்சொற்களைத் திருத்து"
 
 msgid "imag_bd_flip_horizontal"
-msgstr ""
+msgstr "கிடைமட்டமாக புரட்டவும்"
 
 msgid "imag_bd_flip_vertical"
-msgstr ""
+msgstr "செங்குத்தாக புரட்டவும்"
 
 msgid "imag_bd_folder_all_images"
-msgstr ""
+msgstr "அனைத்து படங்களும்"
 
 msgid "imag_bd_folder_camera"
-msgstr ""
+msgstr "கேமரா இயல்புநிலை கோப்புறை"
 
 msgid "imag_bd_folder_custom"
-msgstr ""
+msgstr "தனிப்பயன் கோப்புறை"
 
 msgid "imag_bd_new_geotag_type_city"
-msgstr ""
+msgstr "நகரம்"
 
 msgid "imag_bd_new_geotag_type_country"
-msgstr ""
+msgstr "பகுதி"
 
 msgid "imag_bd_new_geotag_type_suburb"
-msgstr ""
+msgstr "மாவட்டம்"
 
 msgid "imag_bd_new_tag"
-msgstr ""
+msgstr "புதிய"
 
 msgid "imag_bd_red_eye_removal"
-msgstr ""
+msgstr "சிவப்பு கண் அகற்றுதல்"
 
 msgid "imag_bd_resize"
-msgstr ""
+msgstr "மறுஅளவிடுங்கள்"
 
 msgid "imag_bd_resize_confirm_button"
-msgstr ""
+msgstr "மறுஅளவிடுங்கள்"
 
 msgid "imag_bd_resize_percentage_button"
-msgstr ""
+msgstr "மறுஅளவிடுங்கள்"
 
 msgid "imag_bd_save_as"
-msgstr ""
+msgstr "என சேமி"
 
 msgid "imag_bd_settings_slideshow_fast"
-msgstr ""
+msgstr "வேகமாக"
 
 msgid "imag_bd_settings_slideshow_medium"
-msgstr ""
+msgstr "சராசரி"
 
 msgid "imag_bd_settings_slideshow_slow"
-msgstr ""
+msgstr "மெதுவாக"
 
 msgid "imag_bd_settings_sorting_alphabetical"
-msgstr ""
+msgstr "பெயரால்"
 
 msgid "imag_bd_settings_sorting_chronological"
-msgstr ""
+msgstr "தேதி"
 
 msgid "imag_bd_share"
-msgstr ""
+msgstr "பங்கு"
 
 msgid "imag_bd_show_on_map"
-msgstr ""
+msgstr "வரைபடத்தில் காட்டு"
 
 msgid "imag_bd_tags_edit_geotags"
-msgstr ""
+msgstr "சியோடாக்ச்"
 
 msgid "imag_fi_crop_free"
-msgstr ""
+msgstr "இலவச விகிதம்"
 
 msgid "imag_fi_crop_original"
-msgstr ""
+msgstr "அசல்"
 
 msgid "imag_fi_crop_screen"
-msgstr ""
+msgstr "திரை விகிதம்"
 
 msgid "imag_fi_crop_square"
-msgstr ""
+msgstr "நாற்கை"
 
 msgid "imag_fi_details_abbreviation_ev"
-msgstr ""
+msgstr "ஈ.வி."
 
 msgid "imag_fi_details_abbreviation_mm"
-msgstr ""
+msgstr "மிமீ"
 
 msgid "imag_fi_details_abbreviation_sec"
-msgstr ""
+msgstr "நொடி"
 
 msgid "imag_fi_details_aperturevalue"
-msgstr ""
+msgstr "துளை"
 
 msgid "imag_fi_details_camera"
-msgstr ""
+msgstr "கேமரா"
 
 msgid "imag_fi_details_common"
-msgstr ""
+msgstr "பொது"
 
 msgid "imag_fi_details_creator"
-msgstr ""
+msgstr "உருவாக்கியவர்"
 
 msgid "imag_fi_details_datetimeoriginal"
-msgstr ""
+msgstr "எடுக்கப்பட்ட தேதி மற்றும் நேரம்"
 
 msgid "imag_fi_details_description"
-msgstr ""
+msgstr "விவரம்"
 
 msgid "imag_fi_details_dimensions"
-msgstr ""
+msgstr "பரிமாணங்கள்"
 
 msgid "imag_fi_details_dimensions_value"
-msgstr ""
+msgstr "%d * %d படப்புள்ளிகள்"
 
 msgid "imag_fi_details_exposurebias"
-msgstr ""
+msgstr "வெளிப்பாடு சார்பு"
 
 msgid "imag_fi_details_exposuretime"
-msgstr ""
+msgstr "நேரிடுதல் காலம்"
 
 msgid "imag_fi_details_flash"
-msgstr ""
+msgstr "ஃபிளாச்"
 
 msgid "imag_fi_details_flash_auto"
-msgstr ""
+msgstr "கார் ஃபேசன்"
 
 msgid "imag_fi_details_flash_forced_off"
-msgstr ""
+msgstr "கட்டாயப்படுத்தப்பட்ட பயன்முறை"
 
 msgid "imag_fi_details_flash_forced_on"
-msgstr ""
+msgstr "பயன்முறையில் கட்டாயப்படுத்தப்படுகிறது"
 
 msgid "imag_fi_details_flash_off"
-msgstr ""
+msgstr "சுடப்படவில்லை"
 
 msgid "imag_fi_details_flash_on"
-msgstr ""
+msgstr "நீக்கப்பட்டது"
 
 msgid "imag_fi_details_flash_red_eye_reduction"
-msgstr ""
+msgstr "சிவப்பு கண் குறைப்பு"
 
 msgid "imag_fi_details_focallength"
-msgstr ""
+msgstr "குவிநீளம், குவியத் தொலைவு"
 
 msgid "imag_fi_details_gpsaltitude"
-msgstr ""
+msgstr "சி.பி.எச் உயரம்"
 
 msgid "imag_fi_details_gpsaltitude_value"
-msgstr ""
+msgstr "%d மீ"
 
 msgid "imag_fi_details_gpslatitude"
-msgstr ""
+msgstr "சி.பி.எச் அட்சரேகை"
 
 msgid "imag_fi_details_gpslongitude"
-msgstr ""
+msgstr "சி.பி.எச் தீர்க்கரேகை"
 
 msgid "imag_fi_details_iso"
-msgstr ""
+msgstr "ஐசோ"
 
 msgid "imag_fi_details_jpeg_quality"
-msgstr ""
+msgstr "JPEG தகுதி"
 
 msgid "imag_fi_details_maker"
-msgstr ""
+msgstr "கேமரா தயாரிப்பாளர்"
 
 msgid "imag_fi_details_metadata"
-msgstr ""
+msgstr "மேனிலை தரவு"
 
 msgid "imag_fi_details_metering_average"
-msgstr ""
+msgstr "சராசரி"
 
 msgid "imag_fi_details_metering_center_weighted_average"
-msgstr ""
+msgstr "மைய எடையுள்ள சராசரி"
 
 msgid "imag_fi_details_metering_multi_spot"
-msgstr ""
+msgstr "பல இடங்கள்"
 
 msgid "imag_fi_details_metering_multisegment"
-msgstr ""
+msgstr "பல பிரிவு"
 
 msgid "imag_fi_details_metering_partial"
-msgstr ""
+msgstr "பகுதி"
 
 msgid "imag_fi_details_metering_spot"
-msgstr ""
+msgstr "ச்பாட்"
 
 msgid "imag_fi_details_meteringmode"
-msgstr ""
+msgstr "அளவீட்டு முறை"
 
 msgid "imag_fi_details_model"
-msgstr ""
+msgstr "கேமரா மாதிரி"
 
 msgid "imag_fi_details_no_camera"
-msgstr ""
+msgstr "கேமரா செய்தி எதுவும் கிடைக்கவில்லை"
 
 msgid "imag_fi_details_no_common"
-msgstr ""
+msgstr "பொதுவான தகவல்கள் எதுவும் கிடைக்கவில்லை"
 
 msgid "imag_fi_details_no_metadata"
-msgstr ""
+msgstr "கோப்பு வடிவத்தால் ஆதரிக்கப்படாத மேனிலை தரவு செய்தி"
 
 msgid "imag_fi_details_thumbnail"
-msgstr ""
+msgstr "சிறுபடம்"
 
 msgid "imag_fi_details_thumbnail_value"
-msgstr ""
+msgstr "%d * %d படப்புள்ளிகள்"
 
 msgid "imag_fi_details_title"
-msgstr ""
+msgstr "தலைப்பு"
 
 msgid "imag_fi_details_unknown_value"
-msgstr ""
+msgstr "தெரியாத மதிப்பு"
 
 msgid "imag_fi_details_whitebalance"
-msgstr ""
+msgstr "வெள்ளை இருப்பு"
 
 msgid "imag_fi_details_whitebalance_auto"
-msgstr ""
+msgstr "தானி"
 
 msgid "imag_fi_details_whitebalance_manual"
-msgstr ""
+msgstr "கையேடு"
 
 msgid "imag_fi_edit_toolbar_brightness"
-msgstr ""
+msgstr "ஒளி"
 
 msgid "imag_fi_edit_toolbar_contrast"
-msgstr ""
+msgstr "மாறுபாடு"
 
 msgid "imag_fi_edit_toolbar_height"
-msgstr ""
+msgstr "H:"
 
 msgid "imag_fi_edit_toolbar_pixels"
-msgstr ""
+msgstr "பி.எக்ச்"
 
 msgid "imag_fi_edit_toolbar_width"
-msgstr ""
+msgstr "W:"
 
 msgid "imag_fi_filter_date_sub_number_of_pictures"
-msgstr ""
+msgstr "%d படங்கள்"
 
 msgid "imag_fi_filter_date_sub_one_picture"
-msgstr ""
+msgstr "1 படம்"
 
 msgid "imag_fi_geotags_city"
-msgstr ""
+msgstr "நகரம்:"
 
 msgid "imag_fi_geotags_country"
-msgstr ""
+msgstr "பகுதி:"
 
 msgid "imag_fi_geotags_suburb"
-msgstr ""
+msgstr "மாவட்டம்:"
 
 msgid "imag_fi_new_geotag_type"
-msgstr ""
+msgstr "வகை"
 
 msgid "imag_fi_save_changes"
 msgstr ""
+"மாற்றங்களைச் சேமிக்கவா?\n"
+" 'சேமி' அசல் கோப்பை மேலெழுதும், 'சேமி' ஒரு புதிய கோப்பில் மாற்றங்களைச் சேமிக்கும், "
+"மேலும் 'நிராகரிப்பு' அனைத்து மாற்றங்களையும் நிராகரிக்கும்."
 
 msgid "imag_fi_tags"
-msgstr ""
+msgstr "குறிச்சொற்கள்:"
 
 msgid "imag_ia_no_images"
-msgstr ""
+msgstr "(படங்கள் இல்லை)"
 
 msgid "imag_ib_file_metadata_read_only"
-msgstr ""
+msgstr "கோப்பு படிக்க மட்டுமே. மெட்டாடேட்டாவைத் திருத்த முடியவில்லை."
 
 msgid "imag_ib_file_metadata_unsupported_fileformat"
-msgstr ""
+msgstr "கோப்பு வடிவம் மேனிலை தரவு திருத்துதல் ஆதரிக்காது"
 
 msgid "imag_ib_file_rename_readonly"
-msgstr ""
+msgstr "கோப்பு படிக்க மட்டுமே. மறுபெயரிட முடியவில்லை."
 
 msgid "imag_ib_file_save_readonly"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட இடம் படிக்க மட்டுமே. சேமிப்பு ரத்து செய்யப்பட்டது."
 
 msgid "imag_ib_files_metadata_fail"
-msgstr ""
+msgstr "%s க்கு மெட்டாடேட்டாவை புதுப்பிக்க முடியவில்லை"
 
 msgid "imag_ib_files_metadata_fail_all"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புகளின் மெட்டாடேட்டாவை புதுப்பிக்க முடியவில்லை"
 
 msgid "imag_ib_files_metadata_fail_some"
-msgstr ""
+msgstr "%d/ %d கோப்புகளுக்கு மெட்டாடேட்டாவைப் புதுப்பிக்க முடியவில்லை"
 
 msgid "imag_ib_files_metadata_read_only"
-msgstr ""
+msgstr "கோப்புகள் படிக்க மட்டுமே. மெட்டாடேட்டாவைத் திருத்த முடியவில்லை."
 
 msgid "imag_ib_files_metadata_read_only_unsupported_fileformats"
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட கோப்புகள் படிக்க மட்டும் அல்லது மேனிலை தரவு திருத்துதல் ஆதரிக்காத கோப்பு"
+" வடிவங்களைக் கொண்டுள்ளன"
 
 msgid "imag_ib_files_metadata_unsupported_fileformats"
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட கோப்புகளின் கோப்பு வடிவங்கள் மேனிலை தரவு திருத்துதல் ஆதரிக்காது"
 
 msgid "imag_ib_image_no_longer_available"
-msgstr ""
+msgstr "படம் இனி கிடைக்காது"
 
 msgid "imag_ib_invalid_value"
-msgstr ""
+msgstr "தவறான மதிப்பு"
 
 msgid "imag_ib_loading"
-msgstr ""
+msgstr "படத்தை ஏற்றுகிறது %d/ %d"
 
 msgid "imag_ib_memory_full"
-msgstr ""
+msgstr "நினைவகம் நிரம்பியுள்ளது. செயல்பாடு ரத்து செய்யப்பட்டது."
 
 msgid "imag_ib_no_details"
-msgstr ""
+msgstr "விவரங்கள் எதுவும் கிடைக்கவில்லை"
 
 msgid "imag_ib_no_images_available_anymore"
-msgstr ""
+msgstr "படங்கள் இனி கிடைக்காது"
 
 msgid "imag_ib_no_images_selected"
-msgstr ""
+msgstr "படங்கள் எதுவும் தேர்ந்தெடுக்கப்படவில்லை"
 
 msgid "imag_ib_not_available"
-msgstr ""
+msgstr "கிடைக்கவில்லை"
 
 msgid "imag_ib_not_enough_memory"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட செயல்பாட்டைச் செய்ய போதுமான நினைவகம் இல்லை"
 
 msgid "imag_ib_not_enough_memory_for_image"
-msgstr ""
+msgstr "படத்தைக் காண்பிக்க போதுமான நினைவகம் இல்லை"
 
 msgid "imag_ib_operation_failed"
-msgstr ""
+msgstr "செயல்பாடு தோல்வியடைந்தது"
 
 msgid "imag_ib_resize_cancelled_size"
-msgstr ""
+msgstr "பட அகலம் அல்லது உயரம் குறைந்தது 1 பிக்சலாக இருக்க வேண்டும்"
 
 msgid "imag_ib_save_failed"
-msgstr ""
+msgstr "சேமிப்பு தோல்வியடைந்தது"
 
 msgid "imag_ib_slideshow_ended"
-msgstr ""
+msgstr "ச்லைடுசோ முடிந்தது"
 
 msgid "imag_ib_slideshow_started"
-msgstr ""
+msgstr "ச்லைடுசோ தொடங்கியது"
 
 msgid "imag_ib_unable_to_delete"
-msgstr ""
+msgstr "கோப்பை நீக்க முடியவில்லை"
 
 msgid "imag_ib_unable_to_delete_multiple_none"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புகளை நீக்க முடியவில்லை"
 
 msgid "imag_ib_unable_to_delete_multiple_some"
-msgstr ""
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புகளின் %d ஐ நீக்க முடியவில்லை"
 
 msgid "imag_ib_unable_to_show_image"
-msgstr ""
+msgstr "படத்தைக் காட்ட முடியவில்லை"
 
 msgid "imag_ib_zooming"
-msgstr ""
+msgstr "பெரிதாக்குதல்"
 
 msgid "imag_me_date_off"
-msgstr ""
+msgstr "அணை"
 
 msgid "imag_me_date_title"
-msgstr ""
+msgstr "தேதி மூலம் வடிகட்டவும்"
 
 msgid "imag_me_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "imag_me_details"
-msgstr ""
+msgstr "விவரங்கள்"
 
 msgid "imag_me_edit_image"
-msgstr ""
+msgstr "படத்தைத் திருத்து"
 
 msgid "imag_me_filter_tags_favourite"
-msgstr ""
+msgstr "பிடித்தவை"
 
 msgid "imag_me_filter_tags_off"
-msgstr ""
+msgstr "அணை"
 
 msgid "imag_me_filter_tags_title"
-msgstr ""
+msgstr "குறிச்சொற்களால் வடிகட்டவும்"
 
 msgid "imag_me_folder_all_images"
-msgstr ""
+msgstr "அனைத்து படங்களும்"
 
 msgid "imag_me_folder_camera"
-msgstr ""
+msgstr "கேமரா இயல்புநிலை கோப்புறை"
 
 msgid "imag_me_folder_title"
-msgstr ""
+msgstr "கோப்புறை மூலம் வடிகட்டவும்"
 
 msgid "imag_me_mark_favourite"
-msgstr ""
+msgstr "பிடித்தவராக குறி"
 
 msgid "imag_me_multiple_delete"
-msgstr ""
+msgstr "படங்களை நீக்கு"
 
 msgid "imag_me_multiple_share"
-msgstr ""
+msgstr "படங்களைப் பகிரவும்"
 
 msgid "imag_me_multiple_tags"
-msgstr ""
+msgstr "படங்களின் குறிச்சொற்களைத் திருத்தவும்"
 
 msgid "imag_me_rename"
-msgstr ""
+msgstr "மறுபெயரிடுங்கள்"
 
 msgid "imag_me_save"
-msgstr ""
+msgstr "சேமி"
 
 msgid "imag_me_save_as"
-msgstr ""
+msgstr "என சேமி"
 
 msgid "imag_me_set_as_avatar"
-msgstr ""
+msgstr "அவதாரமாக அமைக்கவும்"
 
 msgid "imag_me_settings"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 msgid "imag_me_share"
-msgstr ""
+msgstr "பங்கு"
 
 msgid "imag_me_unmark_favourite"
-msgstr ""
+msgstr "பிடித்தவையாக மதிப்பிடப்படுகிறது"
 
 msgid "imag_me_use_as_wallpaper"
-msgstr ""
+msgstr "பின்னணி படமாக அமைக்கவும்"
 
 msgid "imag_nc_confirm_overwrite"
-msgstr ""
+msgstr "அசல் கோப்பை மேலெழுதவா?"
 
 msgid "imag_nc_delete_multiple"
-msgstr ""
+msgstr "%d படங்களை நீக்கவா?"
 
 msgid "imag_nc_delete_multiple_read_only"
-msgstr ""
+msgstr "%d படங்களை நீக்குங்கள், வாசிப்பு மட்டும் எனக் குறிக்கப்பட்ட %d உட்பட?"
 
 msgid "imag_nc_delete_single"
-msgstr ""
+msgstr "படத்தை '%s' நீக்கவா?"
 
 msgid "imag_nc_delete_single_read_only"
 msgstr ""
+"படிக்க மட்டும் கோப்பை நீக்கவா?\n"
+" %s"
 
 msgid "imag_ni_memory_full"
-msgstr ""
+msgstr "நினைவகம் நிரம்பியுள்ளது. சேமிப்பு ரத்து செய்யப்பட்டது."
 
 msgid "imag_ni_memory_read_only"
 msgstr ""
+"நினைவக அட்டை படிக்க மட்டுமே.\n"
+" சேமிக்கும் இருப்பிடத்தை மாற்றவும்."
 
 msgid "imag_ni_non_local_files"
-msgstr ""
+msgstr "உள்ளக அல்லாத கோப்புகளைத் திறக்க முடியவில்லை"
 
 msgid "imag_ni_save_read_only_file"
 msgstr ""
+"அசல் படக் கோப்பு படிக்க மட்டுமே. திருத்தப்பட்ட படத்தை புதிய கோப்பாக சேமிக்க வேண்டும்."
 
 msgid "imag_ni_tags_read_only_files"
 msgstr ""
+"%d/ %d கோப்புகளின் நிலை படிக்க மட்டுமே.\n"
+" மற்ற கோப்புகளின் குறிச்சொற்களை மட்டுமே புதுப்பிக்க முடியும்."
 
 msgid "imag_ni_tags_read_only_unsupported_fileformats"
 msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட சில கோப்புகள் படிக்க மட்டுமே அல்லது மேனிலை தரவு திருத்துதல் ஆதரிக்காத "
+"கோப்பு வடிவங்களைக் கொண்டுள்ளன.\n"
+" %d/ %d கோப்புகளின் குறிச்சொற்களை மட்டுமே புதுப்பிக்க முடியும்."
 
 msgid "imag_ni_tags_unsupported_fileformats"
 msgstr ""
+"%d/ %d கோப்புகளின் கோப்பு வடிவம் குறிச்சொற்களை ஆதரிக்காது.\n"
+" மற்ற கோப்புகளின் குறிச்சொற்களை மட்டுமே புதுப்பிக்க முடியும்."
 
 msgid "imag_ni_unsupported_file"
 msgstr ""
+"திறக்க முடியவில்லை.\n"
+" கோப்பு வடிவம் ஆதரிக்கப்படவில்லை."
 
 msgid "imag_ni_unsupported_save_format"
 msgstr ""
+"அசல் வடிவத்தில் சேமிக்க முடியவில்லை.\n"
+" மாற்று வடிவம் தேவை."
 
 msgid "imag_nw_saving"
-msgstr ""
+msgstr "படங்களை சேமிக்கிறது"
 
 msgid "imag_nw_saving_tags"
-msgstr ""
+msgstr "குறிச்சொற்களைச் சேமித்தல்"
 
 msgid "imag_ti_crop_avatar"
-msgstr ""
+msgstr "பயிர் அவதார்"
 
 msgid "imag_ti_dates"
-msgstr ""
+msgstr "தேதிகள்"
 
 msgid "imag_ti_details"
-msgstr ""
+msgstr "விவரங்கள்"
 
 msgid "imag_ti_details_favourite"
-msgstr ""
+msgstr "பிடித்த"
 
 msgid "imag_ti_edit_brightness_and_contrast"
-msgstr ""
+msgstr "ஒளி மற்றும் மாறுபாட்டை சரிசெய்யவும்"
 
 msgid "imag_ti_edit_crop"
-msgstr ""
+msgstr "பயிர் படம்"
 
 msgid "imag_ti_edit_geotags"
-msgstr ""
+msgstr "சியோடாக்சைத் திருத்து"
 
 msgid "imag_ti_edit_image"
-msgstr ""
+msgstr "படத்தைத் திருத்து"
 
 msgid "imag_ti_edit_red_eye_removal"
-msgstr ""
+msgstr "சிவப்பு கண்களைத் தட்டுவதன் மூலம் அவற்றை அகற்றவும்"
 
 msgid "imag_ti_edit_resize"
-msgstr ""
+msgstr "படத்தை மறுஅளவிடுங்கள்"
 
 msgid "imag_ti_filter_date"
-msgstr ""
+msgstr "தேதி மூலம் வடிகட்டவும்"
 
 msgid "imag_ti_filter_date_sub_custom_range"
-msgstr ""
+msgstr "தனிப்பயன் தேதி வரம்பைக் கொடுங்கள்"
 
 msgid "imag_ti_filter_date_sub_one_day"
-msgstr ""
+msgstr "தேதியைத் தேர்ந்தெடுங்கள்"
 
 msgid "imag_ti_filter_folder"
-msgstr ""
+msgstr "கோப்புறை மூலம் வடிகட்டவும்"
 
 msgid "imag_ti_filter_tags"
-msgstr ""
+msgstr "குறிச்சொற்களால் வடிகட்டவும்"
 
 msgid "imag_ti_filter_tags_favourite_on"
-msgstr ""
+msgstr "குறிச்சொற்களால் வடிகட்டவும் - பிடித்தவை"
 
 msgid "imag_ti_folder_all_images"
-msgstr ""
+msgstr "அனைத்து படங்களும்"
 
 msgid "imag_ti_folder_camera"
-msgstr ""
+msgstr "கேமரா இயல்புநிலை கோப்புறை"
 
 msgid "imag_ti_grid_multiselection"
-msgstr ""
+msgstr "படங்களைத் தேர்ந்தெடுக்கவும்"
 
 msgid "imag_ti_new_geotag"
-msgstr ""
+msgstr "புதிய gtotag"
 
 msgid "imag_ti_rename"
-msgstr ""
+msgstr "படத்தை மறுபெயரிடுங்கள்"
 
 msgid "imag_ti_save_as"
-msgstr ""
+msgstr "படத்தை %s ஆக சேமிக்கவும்"
 
 msgid "imag_ti_settings"
-msgstr ""
+msgstr "அமைப்புகள்"
 
 msgid "imag_ti_settings_grouping"
-msgstr ""
+msgstr "மாதத்திற்குள் குழு"
 
 msgid "imag_ti_settings_metadata"
-msgstr ""
+msgstr "மேனிலை தரவு குறிகாட்டிகளைக் காண்பி"
 
 msgid "imag_ti_settings_slideshow"
-msgstr ""
+msgstr "ச்லைடுசோ"
 
 msgid "imag_ti_settings_sorting"
-msgstr ""
+msgstr "வரிசைப்படுத்து"
 
 msgid "imag_ti_tags"
-msgstr ""
+msgstr "குறிச்சொற்கள்"
 
 msgid "imag_ti_tags_edit"
-msgstr ""
+msgstr "குறிச்சொற்களைத் திருத்து"
 
 msgid "imag_ti_tags_edit_favourite"
-msgstr ""
+msgstr "குறிச்சொற்களைத் திருத்து - பிடித்தது"
 
 msgid "imag_ti_tags_edit_multiple_favourite_all"
-msgstr ""
+msgstr "குறிச்சொற்களைத் திருத்து - பிடித்தவை"
 
 msgid "imag_ti_tags_edit_multiple_favourite_some"
-msgstr ""
+msgstr "குறிச்சொற்களைத் திருத்து - பிடித்தவை*"
 
 msgid "imag_ti_tags_new"
-msgstr ""
+msgstr "புதிய குறிச்சொல்"
